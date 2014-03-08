@@ -1,0 +1,72 @@
+DROP TABLE IF EXISTS mn_campain_finance.lobbyists;
+CREATE TABLE mn_campain_finance.lobbyists (
+	registration_number MEDIUMINT UNSIGNED NOT NULL
+	, first_name VARCHAR(80) NULL
+	, middle_name VARCHAR(80) NULL
+	, last_name VARCHAR(128) NULL
+	, nick_name VARCHAR(128) NULL
+	, long_name VARCHAR(255) NULL
+	, company_id INT UNSIGNED NULL
+	, phone VARCHAR(32) NULL
+	, email VARCHAR(128) NULL
+	, email_lookup VARCHAR(128) NULL -- email reversed
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
+	, PRIMARY KEY  pk_registration_number (registration_number)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
+
+DROP TABLE IF EXISTS mn_campain_finance.companies;
+CREATE TABLE mn_campain_finance.companies (
+	id INT UNSIGNED NOT NULL AUTO_INCREMENT
+	, type ENUM('bus', 'ind')
+	, name VARCHAR(255) NULL
+	, alternate_name VARCHAR(255) NULL
+	, street1 VARCHAR(128) NULL
+	, street2 VARCHAR(128) NULL
+	, city VARCHAR(128) NULL
+	, state VARCHAR(2) NULL
+	, postal_code VARCHAR(16) NULL
+	, country VARCHAR(128) NULL
+	, full_address VARCHAR (255) NULL
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
+	, PRIMARY KEY  pk_id (id)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS mn_campain_finance.associations;
+CREATE TABLE mn_campain_finance.associations (
+	association_number MEDIUMINT UNSIGNED NOT NULL
+	, name VARCHAR(255) NULL
+	, alternate_name VARCHAR(255) NULL
+	, street1 VARCHAR(128) NULL
+	, street2 VARCHAR(128) NULL
+	, city VARCHAR(128) NULL
+	, state VARCHAR(2) NULL
+	, postal_code VARCHAR(16) NULL
+	, country VARCHAR(128) NULL
+	, full_address VARCHAR(255) NULL
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
+	, PRIMARY KEY pk_association_number (association_number)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
+
+DROP TABLE IF EXISTS mn_campain_finance.associations$lobbyists;
+CREATE TABLE mn_campain_finance.associations$lobbyists (
+	association_number MEDIUMINT UNSIGNED NOT NULL
+	, registration_number MEDIUMINT UNSIGNED NOT NULL
+	, registration_date DATETIME NULL
+	, termination_date DATETIME NULL
+	, is_legislative bool NULL
+	, is_administrative bool NULL
+	, is_metropolitan bool NULL
+	, is_designated_lobbyist bool NULL
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
+	, PRIMARY KEY pk_id (association_number, registration_number)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
