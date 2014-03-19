@@ -1,5 +1,5 @@
-DROP DATABASE IF EXISTS mn_campaign_finance;
-CREATE DATABASE IF NOT EXISTS mn_campaign_finance;
+-- DROP DATABASE IF EXISTS mn_campaign_finance;
+-- CREATE DATABASE IF NOT EXISTS mn_campaign_finance;
 
 -- DROP DATABASE IF EXISTS common;
 -- CREATE DATABASE IF NOT EXISTS common;
@@ -27,36 +27,13 @@ CREATE TABLE mn_campaign_finance.lobbyists (
 	, phone VARCHAR(32) NULL
 	, email VARCHAR(128) NULL
 	, email_lookup VARCHAR(128) NULL -- email reversed
+	, processed_at DATETIME NULL
 	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 	-- Required Keys
 	, PRIMARY KEY  pk_registration_number (registration_number)
 ) ENGINE = InnoDB DEFAULT CHARSET=utf8;
 -- ALTER TABLE mn_campaign_finance.lobbyists ADD COLUMN `principal_business` VARCHAR(128) NULL after long_name;
-
-
-
--- DROP TABLE IF EXISTS mn_campaign_finance.companies;
--- CREATE TABLE mn_campaign_finance.companies (
--- 	id INT UNSIGNED NOT NULL AUTO_INCREMENT
--- 	, type ENUM('bus', 'ind')
--- 	, name VARCHAR(255) NULL
--- 	-- , alternate_name VARCHAR(255) NULL
--- 	-- , url VARCHAR(56) NULL
--- 	-- , street1 VARCHAR(128) NULL
--- 	-- , street2 VARCHAR(128) NULL
--- 	-- , city VARCHAR(128) NULL
--- 	-- , region VARCHAR(2) NULL
--- 	-- , zip VARCHAR(10) NULL
--- 	-- , zip_4_code CHAR(4) NULL
--- 	-- , country VARCHAR(128) NULL
--- 	-- , full_address VARCHAR (255) NULL
--- 	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
--- 	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
--- 	-- Required Keys
--- 	, PRIMARY KEY  pk_id (id)
--- ) ENGINE = InnoDB DEFAULT CHARSET=utf8;
--- ALTER TABLE mn_campaign_finance.companies ADD COLUMN `registration_number` registration_number MEDIUMINT UNSIGNED NOT NULL after id;
 
 
 DROP TABLE IF EXISTS mn_campaign_finance.associations$contacts;
@@ -86,20 +63,12 @@ CREATE TABLE mn_campaign_finance.associations (
 	, name VARCHAR(255) NULL
 	, alternate_name VARCHAR(255) NULL
 	, url VARCHAR(128) NULL
-	, street1 VARCHAR(128) NULL
-	, street2 VARCHAR(128) NULL
-	, city VARCHAR(128) NULL
-	, region VARCHAR(2) NULL
-	, zip VARCHAR(10) NULL
-	, zip_4_code CHAR(4) NULL
-	, country VARCHAR(128) NULL
-	, full_address VARCHAR(255) NULL
+	, termination_date DATETIME NULL
 	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 	-- Required Keys
 	, PRIMARY KEY pk_association_number (association_number)
 ) ENGINE = InnoDB DEFAULT CHARSET=utf8;
-
 
 
 
@@ -156,6 +125,46 @@ CREATE TABLE mn_campaign_finance.associations$addresses (
 	-- Required Keys
 	, PRIMARY KEY  pk_id (type, type_id, address_id)
 ) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
+
+
+
+
+DROP TABLE IF EXISTS mn_campaign_finance.subjects;
+CREATE TABLE mn_campaign_finance.subjects (
+	id MEDIUMINT UNSIGNED NOT NULL
+	, name VARCHAR(80)
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
+	, PRIMARY KEY  pk_id (id)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
+
+
+DROP TABLE IF EXISTS mn_campaign_finance.associations$lobbyists$subjects;
+CREATE TABLE mn_campaign_finance.associations$lobbyists$subjects (
+	association_lobbyist_id INT UNSIGNED NOT NULL
+	, subject_id MEDIUMINT UNSIGNED NOT NULL
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
+	, PRIMARY KEY  pk_id (association_lobbyist_id, subject_id)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
+
+DROP TABLE IF EXISTS mn_campaign_finance.expenditures;
+CREATE TABLE mn_campaign_finance.expenditures (
+	association_number MEDIUMINT UNSIGNED NOT NULL
+	, year SMALLINT NOT NULL
+	, type ENUM('principal', 'utilities') NOT NULL
+	, revenue BIGINT UNSIGNED NULL
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
+	, PRIMARY KEY  pk_id (association_number, year, type)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
 
 
 -- DROP TABLE IF EXISTS common.us_zipcodes;

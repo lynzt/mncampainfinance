@@ -10,23 +10,24 @@ use Data::Dumper;
 
 
 #
-# get id for any channel that has ??% as number because it wasn't found during usual run
+# loop thru associations table and get records to process (default those records w/ dates >= config.pl processed_at date)
+# 	foreach record - goto association page - example: http://www.cfboard.state.mn.us/lobby/adetail/a6063.html
+#			get contact info and address of association
+# 	updates: addresses, associations$addresses, associations$contacts, lobbyist, associations$lobbyists
 #
+my $root_path = '/Users/ltechel/scripts/mncampainfinance';
+my $cfg = new Config::Simple($root_path . '/modules/config.pl');
 
-require '/Users/ltechel/scripts/mncampainfinance/modules/common.pm';
+require $root_path . '/modules/common.pm';
 
-my $browser = WWW::Mechanize->new(autocheck=>0);
+# my $browser = WWW::Mechanize->new(autocheck=>0);
 
-# channel_id json
-# https://www.googleapis.com/youtube/v3/search?part=id%2Csnippet&maxResults=1&q=lynzteee&type=channel&key=AIzaSyAW7vPz_89NdtVK3jwioimGmsMPdwm5avg
-my $lobbyist_index_url = 'http://www.cfboard.state.mn.us/lobby/lbatoz.html';
-
-my $log_file = '/Library/WebServer/Documents/cdragon/scripts/helper script/load_categories.txt';
+my $log_file = $root_path . '/scripts/load_associations.txt';
+my $processed_at = $cfg->param("common_vars.processed_at");
 
 mainProgram();
 
 sub mainProgram {
-	
 	processAssociations()
 	
 }
@@ -34,16 +35,16 @@ sub mainProgram {
 sub processAssociations {
 	my $association_url;
 
-
+	$processed_at = '2014-03-13 00:00:00';
 	my $sql_stmt = "select association_number, name
 		from mn_campaign_finance.associations
-		where association_number < 6752
-		-- where region is null
-		-- where association_number = 5288
+		where created_at >= '$processed_at'
+		-- where association_number in (6146, 5783)
 		-- limit 1
 		;";
 
 	# print ("sql_stmt: $sql_stmt \n");
+	# exit;
 	
 	my $query_handle = prepareAndExecute($sql_stmt);
 
@@ -51,10 +52,7 @@ sub processAssociations {
 	while($query_handle->fetch()) {
 
 		getAssociationDetails($association_nbr, $name);
-		# getAssociationDetails('61', $name);
-
-		# 6007, 6009
-		# getAssociationDetails('118', $name);
+		# exit;
 		# getAssociationDetails('518', $name);
 		# exit;
 
@@ -65,87 +63,101 @@ sub processAssociations {
 sub getAssociationDetails {
 	my ($association_nbr, $name) = @_;
 
+
 	# my $url = "http://www.cfboard.state.mn.us/lobby/lbdetail/lb$lobbyist_id.html";
 	my $url = "http://www.cfboard.state.mn.us/lobby/adetail/a$association_nbr.html";
 	
-	print ("\t$url \n");
+	# print ("\t$url \n");
+	if (!isValidUrl($url)) {
+		print ("\t\tinvalid url: $url \n");
+		return;
+	} 
+
+	print ("fetching: $url \n");
+
 	my $stream2 = HTML::TokeParser::Simple->new(url => $url);
 	my $temp;
 	my (%association, %name, %address);
 
-	$association{'name'} = getAssociationName($stream2);
+	if (!getManualData(\%association, \%name, \%address, $association_nbr)) {
+		$association{'name'} = getAssociationName($stream2);
 
- 	my $line_count = 0;
- 	for (1..5) {
- 		$temp = getAssociationData($stream2);
-	 	if ($temp eq '') {
-	 		next;
-	 	} else {
-	 		$line_count++;
-	 		$association{$line_count} = $temp;
+	 	my $line_count = 0;
+	 	for (1..5) {
+	 		$temp = getAssociationData($stream2);
+		 	if ($temp eq '') {
+		 		next;
+		 	} else {
+		 		$line_count++;
+		 		$association{$line_count} = $temp;
+		 	}
 	 	}
- 	}
 
- 	$association{'association_nbr'} = $association_nbr;
- 	$association{'contact_title'} = $association{'1'};
-	if ($association{'4'} =~ m/^Website/i) {
-		$association{'address1'} = $association{'2'};
-		$association{'city_state_zip'} = $association{'3'};
-		$association{'website'} = $association{'4'};
-	} elsif ($association{'5'} =~ m/^Website/i) {
-		$association{'address1'} = $association{'2'};
-		$association{'address2'} = $association{'3'};
-		$association{'city_state_zip'} = $association{'4'};
-		$association{'website'} = $association{'5'};
-	} elsif ($association{'4'} =~ m/^Association Number/i) {
-		$association{'address1'} = $association{'2'};
-		$association{'city_state_zip'} = $association{'3'};
-	} elsif ($association{'5'} =~ m/^Association Number/i) {
-		$association{'address1'} = $association{'2'};
-		$association{'address2'} = $association{'3'};
-		$association{'city_state_zip'} = $association{'4'};
+	 	$association{'association_nbr'} = $association_nbr;
+	 	$association{'contact_title'} = $association{'1'};
+		if ($association{'4'} =~ m/^Website/i) {
+			$association{'address1'} = $association{'2'};
+			$association{'city_state_zip'} = $association{'3'};
+			$association{'website'} = $association{'4'};
+		} elsif ($association{'5'} =~ m/^Website/i) {
+			$association{'address1'} = $association{'2'};
+			$association{'address2'} = $association{'3'};
+			$association{'city_state_zip'} = $association{'4'};
+			$association{'website'} = $association{'5'};
+		} elsif ($association{'4'} =~ m/^Association Number/i) {
+			$association{'address1'} = $association{'2'};
+			$association{'city_state_zip'} = $association{'3'};
+		} elsif ($association{'5'} =~ m/^Association Number/i) {
+			$association{'address1'} = $association{'2'};
+			$association{'address2'} = $association{'3'};
+			$association{'city_state_zip'} = $association{'4'};
+		}
+
+
+		($association{'contact'}, $association{'titles'}) = splitAssociationNameTitle($association{'contact_title'});
+
+		%name = splitName_FirstMiddleLast($association{'contact'});
+
+		$association{'website'} =~ s/^Website:(\s)?//i;
+		if ($association{'website'} eq 'No Website') {
+			$association{'website'} = undef;
+		}
+		print ("\tassociation: ". $name ." \n");
+
+
+		$address{'address1'} = $association{'address1'};
+		$address{'address2'} = $association{'address2'};
+		$address{'city_state_zip'} = $association{'city_state_zip'};
+		splitCityStateZip(\%address);	
+		formatFullAddress(\%address);
 	}
 
-	($association{'contact'}, $association{'titles'}) = splitAssociationNameTitle($association{'contact_title'});
+	# http://www.cfbreport.state.mn.us/rptViewer/Main.php?do=viewPDF
 
-	%name = splitName_FirstMiddleLast($association{'contact'});
+	# l_6801_1733_A1.pdf
 
-	$association{'website'} =~ s/^Website:(\s)?//i;
-	if ($association{'website'} eq 'No Website') {
-		$association{'website'} = undef;
-	}
-	print ("\tassociation: ". $name ." \n");
+	# http://www.cfbreport.state.mn.us/rptViewer/viewPDF.php?file=pdfStorage/2006/Campfin/YE/40889
 
 
-	$address{'address1'} = $association{'address1'};
-	$address{'address2'} = $association{'address2'};
-	$address{'city_state_zip'} = $association{'city_state_zip'};
-	splitCityStateZip(\%address);	
-	formatFullAddress(\%address);
-
-	
-	
 	# printHash(%association);
 	# print (" \n");
 	# printHash(%name);
 	# print (" \n");
 	# printHash(%address);
-	# exit;1426
+	# exit;
 
-	my %return_association = touchAssociationsContacts(\%association, \%name);
-	updateAssociation_hash_byPk(\%association);
+	my %return_assoc = touchAssociation(\%association);
 
-	my %return_address = touchAddress(\%address); # l -> lobbist, not a -> association
-	touchAssociationsAddresses('a', $return_association{'id'}, $return_address{'id'});
+	if ($name{'long_name'} ne '') {
+		my %return_association = touchAssociationsContacts(\%association, \%name);
+		updateAssociation_hash_byPk(\%association);
+	}
 	
 
-	# my %return_company = touchCompany(\%association, \%address);
-	# $association{'company_id'} = $return_company{'id'};
-	# touchassociations(\%association, \%name);
-	# updateassociation_hash_byPk(\%association);
+	my %return_address = touchAddress(\%address); # l -> lobbist, not a -> association
+	touchAssociationsAddresses('a', $return_assoc{'id'}, $return_address{'id'});
 
 	getLobbyists($stream2, \%association);
-
 }
 
 sub getLobbyists {
@@ -174,10 +186,6 @@ sub getLobbyists {
 			$lobbyist{'term_date_orig'} = getLobbyistData($stream);
 			$lobbyist{'lobbyist'} = stripWhitespaceBegEnd(getLobbyistData($stream));
 
-			# printHash(%lobbyist);
-			# exit;
-			# print ("\n \n");
-
 			if ($lobbyist{'reg_date_orig'} =~ m/Pre\-1996/i) {
 				$lobbyist{'reg_date_orig'} = '1/1/1995';
 			}
@@ -194,11 +202,6 @@ sub getLobbyists {
 			}
 
  			%name = splitName_FirstMiddleLast($lobbyist{'name'});
-
- 			
- 			# printHash(%lobbyist);
- 			# print (" \n");
- 			# printHash(%name);
 			
 			
 			touchLobbyists(\%lobbyist, \%name);
@@ -248,22 +251,32 @@ sub getLobbyistData {
 	return $text;
 }
 
-sub checkAddressFormat {
-	my ($hash_ref, $name_hash, $ref) = @_;
-	# printHashRef($hash_ref);
+sub getManualData {
+	my ($assoc_hash, $name_hash, $add_hash, $association_nbr) = @_;
 	
-	if ($hash_ref->{'company'} =~ m/^(PO Box|Ste)/i) {
-		$hash_ref->{'company_type'} = 'ind';
-		$hash_ref->{'company'} = $name_hash->{'long_name'};
-		$hash_ref->{'company_address1'} = $hash_ref->{'1'};
-		$hash_ref->{'company_address2'} = $hash_ref->{'2'};
-		
-	} elsif ($ref =~ m/1385|954|1642|1649/) { #manual override  
-		
-		# exit;
-		$hash_ref->{'company_type'} = 'ind';
-		$hash_ref->{'company'} = $name_hash->{'long_name'};
-		$hash_ref->{'company_address1'} = $hash_ref->{'1'};
-		$hash_ref->{'company_address2'} = $hash_ref->{'2'};
+	if ($association_nbr eq '6146') {
+		$assoc_hash->{'association_nbr'} = $association_nbr;
+		$add_hash->{'address1'} = '200 S Sixth St, Ste 350';
+		$add_hash->{'city'} = 'Minneapolis';
+		$add_hash->{'state'} = 'MN';
+		$add_hash->{'zip'} = '55402';
+		$add_hash->{'country'} = 'US';
+		$add_hash->{'full_address'} = $add_hash->{'address1'} . ' ' 
+																. $add_hash->{'city'} . ' '
+																. $add_hash->{'state'} . ' ' 
+																. $add_hash->{'zip'};
+		return 'true';
+	} elsif ($association_nbr eq '5783') {
+		$assoc_hash->{'association_nbr'} = $association_nbr;
+		$add_hash->{'address1'} = '1 North Jefferson Avenue';
+		$add_hash->{'city'} = 'St Louis';
+		$add_hash->{'state'} = 'MO';
+		$add_hash->{'zip'} = '63103';
+		$add_hash->{'country'} = 'US';
+		$add_hash->{'full_address'} = $add_hash->{'address1'} . ' ' 
+																. $add_hash->{'city'} . ' '
+																. $add_hash->{'state'} . ' ' 
+																. $add_hash->{'zip'};
 	}
+
 }

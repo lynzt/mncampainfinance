@@ -1,0 +1,354 @@
+02/12/2014 - 00:42:05: skipping this: ACS State Healthcare LLC 
+02/12/2014 - 00:42:05: skipping this: Add Comm Leasing and Sales Corp 
+02/12/2014 - 00:42:05: skipping this: Advanced Healing System LLC 
+02/12/2014 - 00:42:05: skipping this: Ag Processing Inc, a Cooperative 
+02/12/2014 - 00:42:05: skipping this: Alliance for Marriage Foundation 
+02/12/2014 - 00:42:05: skipping this: Alliance for School Choice 
+02/12/2014 - 00:42:05: skipping this: Alliance for Student Achievement 
+02/12/2014 - 00:42:05: skipping this: Alliance of Health Care Ministries 
+02/12/2014 - 00:42:05: skipping this: Alpha Human Services Inc 
+02/12/2014 - 00:42:05: skipping this: American Ag Energy LLC 
+02/12/2014 - 00:42:05: skipping this: American Financial Services Assn 
+02/12/2014 - 00:42:05: skipping this: American Iron & Supply Co Inc 
+02/12/2014 - 00:42:05: skipping this: American Property Coalition 
+02/12/2014 - 00:42:05: skipping this: Americans for Technology Leadership 
+02/12/2014 - 00:42:05: skipping this: AmeriQuest Mortgage Co 
+02/12/2014 - 00:42:05: skipping this: Ames Construction Inc 
+02/12/2014 - 00:42:05: skipping this: AMPCO System Parking 
+02/12/2014 - 00:42:05: skipping this: Anoka-Hennepin Education MN 
+02/12/2014 - 00:42:05: skipping this: Appletree Institute 
+02/12/2014 - 00:42:05: skipping this: Arts Education Consortium of MN 
+02/12/2014 - 00:42:05: skipping this: Asian-Pacific Cultural Center 
+02/12/2014 - 00:42:05: skipping this: Assn for Nonsmokers-MN 
+02/12/2014 - 00:42:05: skipping this: Audatex Division, Solera Inc 
+02/12/2014 - 00:42:05: skipping this: Austin Mutual Insurance Co 
+02/12/2014 - 00:42:05: skipping this: Avis-Budget Group Inc 
+02/12/2014 - 00:42:05: skipping this: BAE Systems 
+02/12/2014 - 00:42:05: skipping this: Barr Pharmaceuticals 
+02/12/2014 - 00:42:05: skipping this: Base Management LLC 
+02/12/2014 - 00:42:05: skipping this: Bd of Pensions of Evangelical Lutheran Church in America 
+02/12/2014 - 00:42:05: skipping this: Bear Stearns & Co Inc 
+02/12/2014 - 00:42:05: skipping this: Bearing Point Inc 
+02/12/2014 - 00:42:05: skipping this: Behavior Alert Systems 
+02/12/2014 - 00:42:05: skipping this: Big Stone II 
+02/12/2014 - 00:42:05: skipping this: BioCee 
+02/12/2014 - 00:42:05: skipping this: BioFuel Energy Corp 
+02/12/2014 - 00:42:05: skipping this: Bixby Energy Systems 
+02/12/2014 - 00:42:05: skipping this: Bossardt Corp 
+02/12/2014 - 00:42:05: skipping this: BP Amoco Corp 
+02/12/2014 - 00:42:05: skipping this: Brainerd Fire Dept Relief Assn 
+02/12/2014 - 00:42:05: skipping this: Bridging Inc 
+02/12/2014 - 00:42:05: skipping this: Brighton Development 
+02/12/2014 - 00:42:05: skipping this: BRK Brands/First Alert in MN c/o MultiStates Assoc 
+02/12/2014 - 00:42:05: skipping this: Builders Group 
+02/12/2014 - 00:42:05: skipping this: Campaign for Conservation 
+02/12/2014 - 00:42:05: skipping this: Campaign for the MN Health Plan 
+02/12/2014 - 00:42:05: skipping this: Canal Street LP 
+02/12/2014 - 00:42:05: skipping this: Capital Equipment Tax Alliance 
+02/12/2014 - 00:42:05: skipping this: Capital Growth Madison Marquette 
+02/12/2014 - 00:42:05: skipping this: Capital One Financial Corp c/o 
+02/12/2014 - 00:42:05: skipping this: Caremark RX Inc 
+02/12/2014 - 00:42:05: skipping this: Caribou Coffee Co 
+02/12/2014 - 00:42:05: skipping this: Carlos Township 
+02/12/2014 - 00:42:05: skipping this: CarMax Inc 
+02/12/2014 - 00:42:05: skipping this: CASA MN 
+02/12/2014 - 00:42:05: skipping this: Cedar Fair LP d/b/a Valleyfair 
+02/12/2014 - 00:42:05: skipping this: Center City Housing Corp 
+02/12/2014 - 00:42:05: skipping this: Central Iron Range Sanitary District 
+02/12/2014 - 00:42:05: skipping this: Central Lakes Region Sanitary District 
+02/12/2014 - 00:42:05: skipping this: Central MN Transportation Alliance 
+02/12/2014 - 00:42:05: skipping this: Children's Discovery Museum 
+02/12/2014 - 00:42:05: skipping this: Children's Magic 
+02/12/2014 - 00:42:05: skipping this: ChoicePoint 
+02/12/2014 - 00:42:05: skipping this: Cingular Wireless 
+02/12/2014 - 00:42:05: skipping this: Citigroup Management Corp 
+02/12/2014 - 00:42:05: skipping this: Citizens Communications 
+02/12/2014 - 00:42:05: skipping this: Citizens for Education 
+02/12/2014 - 00:42:05: skipping this: Coalition for Natural Health Inc 
+02/12/2014 - 00:42:05: skipping this: Coalition of Energy Consumers and Producers 
+02/12/2014 - 00:42:05: skipping this: College of American Pathologists 
+02/12/2014 - 00:42:05: skipping this: Communications Workers of America 7200 
+02/12/2014 - 00:42:05: skipping this: Community Financial Enterprises LLC 
+02/12/2014 - 00:42:05: skipping this: COMPAS  Inc 
+02/12/2014 - 00:42:05: skipping this: Connection Services Network Inc 
+02/12/2014 - 00:42:05: skipping this: Convergys Corp 
+02/12/2014 - 00:42:05: skipping this: Cook County Commissioners 
+02/12/2014 - 00:42:05: skipping this: Cook County Economic Analysis Cncl 
+02/12/2014 - 00:42:05: skipping this: Cook County North Shore Hospital 
+02/12/2014 - 00:42:05: skipping this: Council for Electoral Leadership 
+02/12/2014 - 00:42:05: skipping this: Council of American Survey Research Organizations dba CASRO 
+02/12/2014 - 00:42:05: skipping this: CPM Development LLC 
+02/12/2014 - 00:42:05: skipping this: Crawford Capital Corp 
+02/12/2014 - 00:42:05: skipping this: Creative Outdoor Advertising 
+02/12/2014 - 00:42:05: skipping this: CTIA-THE WIRELESS ASSN 
+02/12/2014 - 00:42:05: skipping this: De LaSalle High School 
+02/12/2014 - 00:42:05: skipping this: Delaware North Inc 
+02/12/2014 - 00:42:05: skipping this: DIECA Communications Inc dba Covad Communications Co 
+02/12/2014 - 00:42:05: skipping this: Domestic Violence Legislative Alliance 
+02/12/2014 - 00:42:05: skipping this: Drug Policy Reform Group of MN 
+02/12/2014 - 00:42:05: skipping this: Duke Realty Corp 
+02/12/2014 - 00:42:05: skipping this: East Metro Medical Society 
+02/12/2014 - 00:42:05: skipping this: Eastman Kodak Co 
+02/12/2014 - 00:42:05: skipping this: Ebullient Investments LLC 
+02/12/2014 - 00:42:05: skipping this: Ecumen 
+02/12/2014 - 00:42:05: skipping this: Eden Prairie Firefighter Relief Assn 
+02/12/2014 - 00:42:05: skipping this: ElderCare Rights Alliance 
+02/12/2014 - 00:42:05: skipping this: Electronic Data Systems 
+02/12/2014 - 00:42:05: skipping this: Electronic Industries Alliance 
+02/12/2014 - 00:42:05: skipping this: Electronic Manufacturers Coalition for Responsible Recycling 
+02/12/2014 - 00:42:05: skipping this: Emerald Park LLC 
+02/12/2014 - 00:42:05: skipping this: Encampment Mining 
+02/12/2014 - 00:42:06: skipping this: Entiera 
+02/12/2014 - 00:42:06: skipping this: Environmental Sentry Protection LLC 
+02/12/2014 - 00:42:06: skipping this: Eschelon Telecom Inc 
+02/12/2014 - 00:42:06: skipping this: Eureka Recycling 
+02/12/2014 - 00:42:06: skipping this: Evangelical Lutheran Good Samaritan Society 
+02/12/2014 - 00:42:06: skipping this: Excel Title Holdings LLC 
+02/12/2014 - 00:42:06: skipping this: Executive Information Systems LLC 
+02/12/2014 - 00:42:06: skipping this: Exxon Mobil Corp 
+02/12/2014 - 00:42:06: skipping this: Falcon Waterfree Technologies 
+02/12/2014 - 00:42:06: skipping this: Family Supportive Housing Provider Group 
+02/12/2014 - 00:42:06: skipping this: Family Tree Clinic 
+02/12/2014 - 00:42:06: skipping this: Fashion Jewelry Trade Assn 
+02/12/2014 - 00:42:06: skipping this: Fibrowatt LLC 
+02/12/2014 - 00:42:06: skipping this: Financial Freedom Enterprises 
+02/12/2014 - 00:42:06: skipping this: Fine Associates 
+02/12/2014 - 00:42:06: skipping this: First District Assn 
+02/12/2014 - 00:42:06: skipping this: Florence Court AG LLC 
+02/12/2014 - 00:42:06: skipping this: FMR Corp 
+02/12/2014 - 00:42:06: skipping this: Frauenshuh Companies 
+02/12/2014 - 00:42:06: skipping this: Freedom Works Inc 
+02/12/2014 - 00:42:06: skipping this: FRM Associates 
+02/12/2014 - 00:42:06: skipping this: Gabbys Saloon & Eatery 
+02/12/2014 - 00:42:06: skipping this: Goldman Sachs & Co 
+02/12/2014 - 00:42:06: skipping this: Graduate and Professional Student Assembly 
+02/12/2014 - 00:42:06: skipping this: Great Outdoors MN (Proj of Conservation Campaign) 
+02/12/2014 - 00:42:06: skipping this: Greater Metropolitan Area Foreign Trade Zone 
+02/12/2014 - 00:42:06: skipping this: Greater Mpls Convention & Visitors Assn 
+02/12/2014 - 00:42:06: skipping this: Guardian Angels of Elk River 
+02/12/2014 - 00:42:06: skipping this: GWG Life Settlements 
+02/12/2014 - 00:42:06: skipping this: Haas Financial Group 
+02/12/2014 - 00:42:06: skipping this: Hamm Clinic 
+02/12/2014 - 00:42:06: skipping this: HCC Life Insurance Co 
+02/12/2014 - 00:42:06: skipping this: Healthsouth Corp 
+02/12/2014 - 00:42:06: skipping this: Healthy Legacy 
+02/12/2014 - 00:42:06: skipping this: Hendricksen PSG 
+02/12/2014 - 00:42:06: skipping this: Hennepin Theatre Trust 
+02/12/2014 - 00:42:06: skipping this: Hennepin-Carver Workforce Investment Bd 
+02/12/2014 - 00:42:06: skipping this: Heritage Development 
+02/12/2014 - 00:42:06: skipping this: Heritage Housing LLC 
+02/12/2014 - 00:42:06: skipping this: Hertz Corp 
+02/12/2014 - 00:42:06: skipping this: HFS Golden Rule LLC 
+02/12/2014 - 00:42:06: skipping this: Highway Technologies 
+02/12/2014 - 00:42:06: skipping this: Hines Interests Ltd Partnership 
+02/12/2014 - 00:42:06: skipping this: HIRED 
+02/12/2014 - 00:42:06: skipping this: HLR Service Corp 
+02/12/2014 - 00:42:06: skipping this: Hmong American Partnership 
+02/12/2014 - 00:42:06: skipping this: Home Depot Inc 
+02/12/2014 - 00:42:06: skipping this: Homeward Bound 
+02/12/2014 - 00:42:06: skipping this: Hope Academy 
+02/12/2014 - 00:42:06: skipping this: Horizon Wind Energy LLC 
+02/12/2014 - 00:42:06: skipping this: HPPS Ltd 
+02/12/2014 - 00:42:06: skipping this: HSBC-GR Corp 
+02/12/2014 - 00:42:06: skipping this: Human Services Inc 
+02/12/2014 - 00:42:06: skipping this: Hutchinson Telephone Co 
+02/12/2014 - 00:42:06: skipping this: IBEW Local 949 
+02/12/2014 - 00:42:06: skipping this: Immunization Action Coalition 
+02/12/2014 - 00:42:06: skipping this: ING 
+02/12/2014 - 00:42:06: skipping this: Integra Telecom of Washington 
+02/12/2014 - 00:42:06: skipping this: Integrated Community Solutions Inc 
+02/12/2014 - 00:42:06: skipping this: Intl Baccalaureate of MN 
+02/12/2014 - 00:42:06: skipping this: Ivy Tower Minneapolis LLC 
+02/12/2014 - 00:42:06: skipping this: J R's Appliance Disposal Inc 
+02/12/2014 - 00:42:06: skipping this: J2 Global Communication Inc 
+02/12/2014 - 00:42:06: skipping this: JLT Group Inc 
+02/12/2014 - 00:42:06: skipping this: John Deere Credit c/o MultiState Assoc 
+02/12/2014 - 00:42:06: skipping this: Joint County Natural Resources Bd 
+02/12/2014 - 00:42:06: skipping this: JPI Development 
+02/12/2014 - 00:42:06: skipping this: KODA Energy 
+02/12/2014 - 00:42:06: skipping this: Kraft Foods Global Inc by svc co Altria Corp Svcs Inc 
+02/12/2014 - 00:42:06: skipping this: LaGrande Township 
+02/12/2014 - 00:42:06: skipping this: Lakeside Health Care 
+02/12/2014 - 00:42:06: skipping this: Land Ho LLC 
+02/12/2014 - 00:42:06: skipping this: Lander Group 
+02/12/2014 - 00:42:06: skipping this: Leaf Valley Township 
+02/12/2014 - 00:42:06: skipping this: Legacy Land Development Co 
+02/12/2014 - 00:42:06: skipping this: Lets Go Fishing 
+02/12/2014 - 00:42:06: skipping this: Lewis & Clark Joint Powers 
+02/12/2014 - 00:42:06: skipping this: Lindquist & Vennum 
+02/12/2014 - 00:42:06: skipping this: Local Government Alliance 
+02/12/2014 - 00:42:06: skipping this: Lutheran Home Assn 
+02/12/2014 - 00:42:06: skipping this: Marshall Area Chamber of Comm/Transportation Committee 
+02/12/2014 - 00:42:06: skipping this: Martin Luther Manor (Martin LM LLC) 
+02/12/2014 - 00:42:06: skipping this: MCAR (MN Coalition for Adoption Reform) 
+02/12/2014 - 00:42:06: skipping this: MDU Resources Group Inc 
+02/12/2014 - 00:42:06: skipping this: MetLife 
+02/12/2014 - 00:42:06: skipping this: Metro Meals on Wheels Inc 
+02/12/2014 - 00:42:06: skipping this: Metro Work Center Inc 
+02/12/2014 - 00:42:06: skipping this: Metropolitan Coalition of Chambers 
+02/12/2014 - 00:42:06: skipping this: Metropolitan Dental Management 
+02/12/2014 - 00:42:06: skipping this: MGI Pharma Inc 
+02/12/2014 - 00:42:06: skipping this: Midwest Health Center for Women 
+02/12/2014 - 00:42:06: skipping this: Miller Brewing Co 
+02/12/2014 - 00:42:06: skipping this: Millionaire Greetings 
+02/12/2014 - 00:42:06: skipping this: Miltona Township 
+02/12/2014 - 00:42:06: skipping this: Minneapolis Club 
+02/12/2014 - 00:42:06: skipping this: Minneapolis Public Library Board 
+02/12/2014 - 00:42:06: skipping this: Minneapolis Retired Police Officers Assn 
+02/12/2014 - 00:42:06: skipping this: Minneapolis Taxi Owners Coalition 
+02/12/2014 - 00:42:06: skipping this: Minnesotans for Better Roads & Transit 
+02/12/2014 - 00:42:06: skipping this: MN Airlines LLC d/b/a Sun Country Airlines 
+02/12/2014 - 00:42:06: skipping this: MN Assn for Rural Telecommunications 
+02/12/2014 - 00:42:06: skipping this: MN Assn of Alternative Programs 
+02/12/2014 - 00:42:06: skipping this: MN Assn of Community Organizations for Reform Now 
+02/12/2014 - 00:42:06: skipping this: MN Assn of Laser Centers and Medical Spas 
+02/12/2014 - 00:42:06: skipping this: MN Assn of Mortgage Brokers 
+02/12/2014 - 00:42:06: skipping this: MN Assn of Personnel Services 
+02/12/2014 - 00:42:06: skipping this: MN Assn of Plumbing & Mechanical Officials 
+02/12/2014 - 00:42:06: skipping this: MN Automatic Merchandising Council 
+02/12/2014 - 00:42:06: skipping this: MN Board of Teaching 
+02/12/2014 - 00:42:06: skipping this: MN Business Policyholder Coalition 
+02/12/2014 - 00:42:06: skipping this: MN Campus Compact 
+02/12/2014 - 00:42:06: skipping this: MN Check Cashers Assn 
+02/12/2014 - 00:42:06: skipping this: MN Childrens Platform Coalition 
+02/12/2014 - 00:42:06: skipping this: MN Conservation Officers Assn (MCOA) 
+02/12/2014 - 00:42:06: skipping this: MN Council of Churches 
+02/12/2014 - 00:42:06: skipping this: MN Council on Economic Education 
+02/12/2014 - 00:42:06: skipping this: MN Credit Card Coalition 
+02/12/2014 - 00:42:06: skipping this: MN Dakotas Retail Hardware Assn 
+02/12/2014 - 00:42:06: skipping this: MN Financial Crimes Task Force (MNFCTF) 
+02/12/2014 - 00:42:06: skipping this: MN Girls Academy 
+02/12/2014 - 00:42:06: skipping this: MN Health Information 
+02/12/2014 - 00:42:06: skipping this: MN Native Wildflower/Grass Producers Assn 
+02/12/2014 - 00:42:06: skipping this: MN Natural Health-Legal Reform Project 
+02/12/2014 - 00:42:06: skipping this: MN Org for Vocational Education 
+02/12/2014 - 00:42:06: skipping this: MN Perfusion Society 
+02/12/2014 - 00:42:06: skipping this: MN Project 
+02/12/2014 - 00:42:06: skipping this: MN Property Tax Reform LLC 
+02/12/2014 - 00:42:06: skipping this: MN Quarter Horse Racing Assn 
+02/12/2014 - 00:42:06: skipping this: MN Regional Development Organization 
+02/12/2014 - 00:42:06: skipping this: MN Rural Health Cooperative 
+02/12/2014 - 00:42:06: skipping this: MN Senior Federation 
+02/12/2014 - 00:42:06: skipping this: MN Service Cooperatives 
+02/12/2014 - 00:42:06: skipping this: MN Shubert Performing Arts & Education Center 
+02/12/2014 - 00:42:06: skipping this: MN Society of Pathologists 
+02/12/2014 - 00:42:06: skipping this: MN Soybean Processors 
+02/12/2014 - 00:42:07: skipping this: MN Sports & Entertainment 
+02/12/2014 - 00:42:07: skipping this: MN Wholesale Druggists Assn 
+02/12/2014 - 00:42:07: skipping this: MN Wire 
+02/12/2014 - 00:42:07: skipping this: MN Youth Services Assn 
+02/12/2014 - 00:42:07: skipping this: Modular Building Systems Assn 
+02/12/2014 - 00:42:07: skipping this: Moe Township 
+02/12/2014 - 00:42:07: skipping this: Money Centers Inc 
+02/12/2014 - 00:42:07: skipping this: Mortgage Assn of MN dba Mortgage Bankers Assn of MN 
+02/12/2014 - 00:42:07: skipping this: Morton Grove Pharmaceuticals 
+02/12/2014 - 00:42:07: skipping this: Mounds View Public Schools 
+02/12/2014 - 00:42:07: skipping this: MSI Systems Integrators 
+02/12/2014 - 00:42:07: skipping this: Multimedia Games Inc 
+02/12/2014 - 00:42:07: skipping this: Museum of Russian Arts 
+02/12/2014 - 00:42:07: skipping this: MV Transportation Inc 
+02/12/2014 - 00:42:07: skipping this: NAPSAC 
+02/12/2014 - 00:42:07: skipping this: Natl Assn of Home Inspectors Inc 
+02/12/2014 - 00:42:07: skipping this: Natl Confectioners Assn 
+02/12/2014 - 00:42:07: skipping this: Natl Council to Prevent Delinquency 
+02/12/2014 - 00:42:07: skipping this: Natl Field Selling Assn 
+02/12/2014 - 00:42:07: skipping this: Natl Paint & Coatings Assn 
+02/12/2014 - 00:42:07: skipping this: Natl Vehicle Protection Assn 
+02/12/2014 - 00:42:07: skipping this: New Majority Project 
+02/12/2014 - 00:42:07: skipping this: New York Life Investment Mgmt LLC 
+02/12/2014 - 00:42:07: skipping this: Next Frontier LLC 
+02/12/2014 - 00:42:07: skipping this: North American Wetland Engineering LLC 
+02/12/2014 - 00:42:07: skipping this: North Metro Sheriffs Assn 
+02/12/2014 - 00:42:07: skipping this: North Metro Th 10 Corridor Coalition 
+02/12/2014 - 00:42:07: skipping this: Northcountry Cooperative Development Fund 
+02/12/2014 - 00:42:07: skipping this: Northeast Entrepreneur Fund Inc 
+02/12/2014 - 00:42:07: skipping this: Northfield Fire Relief Assn 
+02/12/2014 - 00:42:07: skipping this: Northland Foundation 
+02/12/2014 - 00:42:07: skipping this: Northwest Airlines Inc 
+02/12/2014 - 00:42:07: skipping this: NorthWrite Inc 
+02/12/2014 - 00:42:07: skipping this: Novell Inc 
+02/12/2014 - 00:42:07: skipping this: NTN Buzztime Inc 
+02/12/2014 - 00:42:07: skipping this: Omnicare Inc 
+02/12/2014 - 00:42:07: skipping this: Outland Renewable Energy 
+02/12/2014 - 00:42:07: skipping this: Pacific Flats LLC 
+02/12/2014 - 00:42:07: skipping this: Parents United Network 
+02/12/2014 - 00:42:07: skipping this: Pay Equity Coalition 
+02/12/2014 - 00:42:07: skipping this: Peachtree Settlement Funding Inc 
+02/12/2014 - 00:42:07: skipping this: Pittsburgh Blind Assn (PBA) 
+02/12/2014 - 00:42:07: skipping this: Planning Corp of America 
+02/12/2014 - 00:42:07: skipping this: PowerPick Players Club of MN 
+02/12/2014 - 00:42:07: skipping this: PPM Energy Inc 
+02/12/2014 - 00:42:07: skipping this: Prairie Crossing LLC 
+02/12/2014 - 00:42:07: skipping this: PrairieWave Communications Inc 
+02/12/2014 - 00:42:07: skipping this: Red Lake Tribal Council 
+02/12/2014 - 00:42:07: skipping this: Rein Midway Limited Partnership 
+02/12/2014 - 00:42:07: skipping this: Rent-A-Center Inc 
+02/12/2014 - 00:42:07: skipping this: Retail Crime Reduction Counsel 
+02/12/2014 - 00:42:07: skipping this: Retailers Protection Assn 
+02/12/2014 - 00:42:07: skipping this: Roche Diagnostics 
+02/12/2014 - 00:42:07: skipping this: Rottlund Homes 
+02/12/2014 - 00:42:07: skipping this: Rural Cellular Corp 
+02/12/2014 - 00:42:07: skipping this: SAF Hydroelectric LLC 
+02/12/2014 - 00:42:07: skipping this: Sanford Health Canby (fka Sioux Vly Hosp-Canby Campus) 
+02/12/2014 - 00:42:07: skipping this: Sanofi Pasteur 
+02/12/2014 - 00:42:07: skipping this: Schering Corporation 
+02/12/2014 - 00:42:07: skipping this: Service Contract Industry Council 
+02/12/2014 - 00:42:07: skipping this: Service Employees Intl Union 
+02/12/2014 - 00:42:07: skipping this: Seward Redesign Inc 
+02/12/2014 - 00:42:07: skipping this: Sexual Abuse Prevention Network 
+02/12/2014 - 00:42:07: skipping this: Shoot In MN 
+02/12/2014 - 00:42:07: skipping this: Simon Property Group 
+02/12/2014 - 00:42:07: skipping this: Single Sales Factor Coalition 
+02/12/2014 - 00:42:07: skipping this: Social Development Training & Action Center 
+02/12/2014 - 00:42:07: skipping this: Southeastern MN EMS Joint Powers 
+02/12/2014 - 00:42:07: skipping this: Southern Twin Cities Assn of Realtors 
+02/12/2014 - 00:42:07: skipping this: Southwest Casino & Hotel Corp 
+02/12/2014 - 00:42:07: skipping this: Southwest Windpower 
+02/12/2014 - 00:42:07: skipping this: Spring Lake Park Firefighters Relief Assn 
+02/12/2014 - 00:42:07: skipping this: Spring Lake Park-Blaine-Mounds View Fire Dept 
+02/12/2014 - 00:42:07: skipping this: St Cloud Housing & Redevelopment Authority 
+02/12/2014 - 00:42:07: skipping this: St Croix Valley Riders 
+02/12/2014 - 00:42:07: skipping this: St Louis County Fair Board of Directors 
+02/12/2014 - 00:42:07: skipping this: St Paul Regional AFL-CIO Labor Federation 
+02/12/2014 - 00:42:07: skipping this: StarchTech Inc 
+02/12/2014 - 00:42:07: skipping this: Steel Dynamics Inc 
+02/12/2014 - 00:42:07: skipping this: Stinger Systems Inc 
+02/12/2014 - 00:42:07: skipping this: Stora Enso North America 
+02/12/2014 - 00:42:07: skipping this: Strategic Business Management Inc 
+02/12/2014 - 00:42:07: skipping this: Student Legis Coalition 
+02/12/2014 - 00:42:07: skipping this: Studor Inc 
+02/12/2014 - 00:42:07: skipping this: Supportive Housing & Managed Care Pilot 
+02/12/2014 - 00:42:07: skipping this: Supportive Living Solutions LLC 
+02/12/2014 - 00:42:07: skipping this: SW Corridor Transp Coalition 
+02/12/2014 - 00:42:07: skipping this: Symantec Corp 
+02/12/2014 - 00:42:07: skipping this: TAMAR FINK 
+02/12/2014 - 00:42:07: skipping this: Tandem Developers LLC 
+02/12/2014 - 00:42:07: skipping this: TAP Pharmaceuticals Inc 
+02/12/2014 - 00:42:07: skipping this: Teamsters Joint Council 32 DRIVE 
+02/12/2014 - 00:42:07: skipping this: Toro Co 
+02/12/2014 - 00:42:07: skipping this: Tower Investments LLC 
+02/12/2014 - 00:42:07: skipping this: Town of Crane Lake 
+02/12/2014 - 00:42:07: skipping this: True Hero Simulations 
+02/12/2014 - 00:42:07: skipping this: Trustmark 
+02/12/2014 - 00:42:07: skipping this: Twin Star Medical 
+02/12/2014 - 00:42:07: skipping this: Tyco Electronics Corp (fka M/A-Com Inc) 
+02/12/2014 - 00:42:07: skipping this: UCB Pharma Inc 
+02/12/2014 - 00:42:07: skipping this: United Auto Workers 
+02/12/2014 - 00:42:07: skipping this: United Cerebral Palsy of MN Inc 
+02/12/2014 - 00:42:07: skipping this: University of MN Foundation 
+02/12/2014 - 00:42:07: skipping this: Urban Renaissance Coalition 
+02/12/2014 - 00:42:07: skipping this: UST Public Affairs Inc 
+02/12/2014 - 00:42:07: skipping this: Vadnais Lake Area Water Management Organization 
+02/12/2014 - 00:42:07: skipping this: Verizon Communications (CA) 
+02/12/2014 - 00:42:07: skipping this: Virtual Radiologic Corp 
+02/12/2014 - 00:42:07: skipping this: Wachovia Corp 
+02/12/2014 - 00:42:07: skipping this: Washington Center for Internships & Academic Seminars 
+02/12/2014 - 00:42:07: skipping this: WE the People Press 
+02/12/2014 - 00:42:07: skipping this: West Central MN EMS Corp 
+02/12/2014 - 00:42:07: skipping this: White Birch Inc 
+02/12/2014 - 00:42:07: skipping this: Window & Door Manufacturers Assn 
+02/12/2014 - 00:42:07: skipping this: Wisconsin Public Service Corp 
+02/12/2014 - 00:42:07: skipping this: Workers Comp Pharmacy Alliance  c/o MultiState Assoc 
+02/12/2014 - 00:42:07: skipping this: Wyeth-Ayerst Laboratories 
+02/12/2014 - 00:42:07: skipping this: Zalk Steel & Supply Co 
+02/13/2014 - 15:43:12: new record: 3805: 4th District Commander American Legion 

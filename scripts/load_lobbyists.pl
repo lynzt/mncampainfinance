@@ -105,7 +105,7 @@ sub getLobbyistDetails {
 		$lobbyist{'company'} = $name{'long_name'};
 		$lobbyist{'company_type'} = 'ind';
 		$lobbyist{'company_address1'} = $lobbyist{'1'};
-		$lobbyist{'company_city_state_zip'} = $lobbyist{'2'};
+		$lobbyist{'city_state_zip'} = $lobbyist{'2'};
 		$lobbyist{'phone'} = $lobbyist{'3'};
 		$lobbyist{'email'} = $lobbyist{'4'};
 
@@ -113,7 +113,7 @@ sub getLobbyistDetails {
 		$lobbyist{'company_type'} = 'bus';
 		$lobbyist{'company'} = $lobbyist{'1'};
 		$lobbyist{'company_address1'} = $lobbyist{'2'};
-		$lobbyist{'company_city_state_zip'} = $lobbyist{'3'};
+		$lobbyist{'city_state_zip'} = $lobbyist{'3'};
 		$lobbyist{'phone'} = $lobbyist{'4'};
 		$lobbyist{'email'} = $lobbyist{'5'};
 		checkAddressFormat(\%lobbyist, \%name, $lobbyist_id);
@@ -121,14 +121,14 @@ sub getLobbyistDetails {
 		$lobbyist{'company'} = $name{'long_name'};
 		$lobbyist{'company_type'} = 'ind';
 		$lobbyist{'company_address1'} = $lobbyist{'1'};
-		$lobbyist{'company_city_state_zip'} = $lobbyist{'2'};
+		$lobbyist{'city_state_zip'} = $lobbyist{'2'};
 		$lobbyist{'phone'} = $lobbyist{'3'};
 		$lobbyist{'email'} = $lobbyist{'4'};
 	} elsif ($lobbyist{'4'} =~ m/^Email/) {
 		$lobbyist{'company_type'} = 'bus';
 		$lobbyist{'company'} = $lobbyist{'1'};
 		$lobbyist{'company_address1'} = $lobbyist{'2'};
-		$lobbyist{'company_city_state_zip'} = $lobbyist{'3'};
+		$lobbyist{'city_state_zip'} = $lobbyist{'3'};
 		$lobbyist{'phone'} = $lobbyist{'4'};
 		$lobbyist{'email'} = $lobbyist{'5'};
 		checkAddressFormat(\%lobbyist, \%name, $lobbyist_id);
@@ -152,7 +152,7 @@ sub getLobbyistDetails {
 
 	print ("\tlobbyist: ". $name{'long_name'} ." \n");
 
-	%address = splitCityStateZip($lobbyist{'company_city_state_zip'});
+	%address = splitCityStateZip($lobbyist{'city_state_zip'});
 
 	printHash(%name);
 	exit;
@@ -161,9 +161,9 @@ sub getLobbyistDetails {
 	$address{'company_address2'} = $lobbyist{'company_address2'};
 
 	if ($address{'company_address2'} eq '') {
-		$address{'full_address'} = $lobbyist{'company_address1'} . ' ' . $lobbyist{'company_city_state_zip'};
+		$address{'full_address'} = $lobbyist{'company_address1'} . ' ' . $lobbyist{'city_state_zip'};
 	} else {
-		$address{'full_address'} = $lobbyist{'company_address1'} . ' ' . $lobbyist{'company_address2'} . ' ' . $lobbyist{'company_city_state_zip'};
+		$address{'full_address'} = $lobbyist{'company_address1'} . ' ' . $lobbyist{'company_address2'} . ' ' . $lobbyist{'city_state_zip'};
 	}
 	
 
@@ -314,6 +314,6 @@ sub checkAddressFormat {
 # $lobbyist{'company_type'} = 'bus';
 # 		$lobbyist{'company'} = $lobbyist{'1'};
 # 		$lobbyist{'company_address1'} = $lobbyist{'2'};
-# 		$lobbyist{'company_city_state_zip'} = $lobbyist{'3'};
+# 		$lobbyist{'city_state_zip'} = $lobbyist{'3'};
 # 		$lobbyist{'phone'} = $lobbyist{'4'};
 # 		$lobbyist{'email'} = $lobbyist{'5'};

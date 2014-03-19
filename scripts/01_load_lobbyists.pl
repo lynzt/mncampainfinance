@@ -8,32 +8,89 @@ use WWW::Mechanize;
 use JSON;
 use Data::Dumper;
 
-
 #
-# get id for any channel that has ??% as number because it wasn't found during usual run
+# loop thru "Lobbyists Linked to Associations": http://www.cfboard.state.mn.us/lobby/lbatoz.html
+#		loop a..z - get list of lobbyist and output details
+#		updates tables: lobbyists, addresses, associations$addresses, associations$lobbyists
 #
-require '/Users/ltechel/scripts/mncampainfinance/modules/common.pm';
+#		******  note: change prcessed_at datetime stamp per run... - config.pl file  ******
+#
 
-my $browser = WWW::Mechanize->new(autocheck=>0);
+my $root_path = '/Users/ltechel/scripts/mncampainfinance';
+my $cfg = new Config::Simple($root_path . '/modules/config.pl');
 
-# channel_id json
-# https://www.googleapis.com/youtube/v3/search?part=id%2Csnippet&maxResults=1&q=lynzteee&type=channel&key=AIzaSyAW7vPz_89NdtVK3jwioimGmsMPdwm5avg
-# my $lobbyist_index_url = 'http://www.cfboard.state.mn.us/lobby/lbatoz.html';
+require $root_path . '/modules/common.pm';
 
-my $log_file = '/Library/WebServer/Documents/cdragon/scripts/helper script/load_categories.txt';
+my $log_file = $root_path . '/scripts/load_categories.txt';
+my $processed_at = $cfg->param("common_vars.processed_at");
 
 mainProgram();
 
 sub mainProgram {
 	
-	processLobbyists()
+	processLobbyistsDb()
+	# processLobbyistsAlpha()
 	
 }
 
-sub processLobbyists {
+sub processLobbyistsDb {
+	my $association_url;
+
+	# $processed_at = '2014-03-13 00:00:00';
+	my $sql_stmt = "select registration_number, long_name
+		from mn_campaign_finance.lobbyists
+		where created_at >= '$processed_at'
+		-- where association_number in (6146, 5783)
+		-- limit 1
+		;";
+
+	# print ("sql_stmt: $sql_stmt \n");
+	# exit;
+	
+	my $query_handle = prepareAndExecute($sql_stmt);
+
+	$query_handle->bind_columns(\my ($registration_number, $name));
+	while($query_handle->fetch()) {
+
+		getLobbyistPageDb($registration_number, $name);
+		# exit;
+		# getLobbyistPageDb('518', $name);
+		# exit;
+
+	}
+}
+
+sub getLobbyistPageDb {
+	my ($lobbyist_id) = @_;
+
+	# getLobbyistDetails($lobbyist_id);
+	getLobbyistDetails('298');
+	
+
+	# lobbyist_id
+	# my ($stream) = @_;
+	# while (my $tag = $stream->get_token) {
+		# if ($tag->is_start_tag('a')) {
+			# my $lobbyist_id = $tag->get_attr('href');
+
+			# if ($lobbyist_id =~m /^\.\./) { # ..is a back index link - break here
+				# last;
+			# }
+			# $lobbyist_id =~ s/^lb//g;
+			# $lobbyist_id =~ s/\.html$//g;
+
+			
+			# getLobbyistDetails('9423');
+			# exit;
+	# 	}
+	# }
+}
+sub processLobbyistsAlpha {
 	my $lobbyist_url;
+	# print ("processed_at: $processed_at \n");
+	# exit;
 	for ('a'..'z') {
-	# for ('p'..'z') {
+	# for ('g'..'z') {
 		$lobbyist_url = "http://www.cfboard.state.mn.us/lobby/lbdetail/lbindex$_.html";
 		# $lobbyist_url = "http://www.cfboard.state.mn.us/lobby/lbdetail/lbindexm.html";
 
@@ -41,13 +98,13 @@ sub processLobbyists {
 			print ("\nindexpg: $lobbyist_url\n\n");
 
 			my $stream = HTML::TokeParser::Simple->new(url => $lobbyist_url);
-			getLobbyistPage($stream);
+			getLobbyistPageAlpha($stream);
 		}
 	}
 	# exit;
 }
 
-sub getLobbyistPage {
+sub getLobbyistPageAlpha {
 	my ($stream) = @_;
 	while (my $tag = $stream->get_token) {
 		if ($tag->is_start_tag('a')) {
@@ -59,10 +116,10 @@ sub getLobbyistPage {
 			$lobbyist_id =~ s/^lb//g;
 			$lobbyist_id =~ s/\.html$//g;
 
-			getLobbyistDetails($lobbyist_id);
+			# getLobbyistDetails($lobbyist_id);
 			# exit;
-			# getLobbyistDetails('2384');
-			# exit;
+			# getLobbyistDetails('9423');
+			exit;
 		}
 	}
 }
@@ -78,7 +135,9 @@ sub getLobbyistDetails {
 	my (%lobbyist, %name, %address);
 
 	$lobbyist{'name'} = getLobbyistName($stream2);
- 	%name = splitName_FirstMiddleLast($lobbyist{'name'});
+	$lobbyist{'processed_at'} = $processed_at;
+
+ 	%name = splitName_FirstMiddleLast($lobbyist{'name'}, 'ln_fn');
 
  	# printHash(%name);
  	# exit;
@@ -98,49 +157,43 @@ sub getLobbyistDetails {
 		$lobbyist{'company'} = $name{'long_name'};
 		$lobbyist{'company_type'} = 'ind';
 		$lobbyist{'company_address1'} = $lobbyist{'1'};
-		$lobbyist{'company_city_state_zip'} = $lobbyist{'2'};
+		$lobbyist{'city_state_zip'} = $lobbyist{'2'};
 		$lobbyist{'phone'} = $lobbyist{'3'};
 		$lobbyist{'email'} = $lobbyist{'4'};
 
 	} elsif ($lobbyist{'4'} =~ m/^Telephone/) {
 		if ($lobbyist{'3'} =~ m/Canada/i) {
-			# $lobbyist{'company'} = $name{'long_name'};
 			$lobbyist{'company_type'} = 'ind';
 			$lobbyist{'company_address1'} = $lobbyist{'1'};
 			$lobbyist{'company_address2'} = $lobbyist{'2'};
-			$lobbyist{'company_city_state_zip'} = $lobbyist{'3'};
+			$lobbyist{'city_state_zip'} = $lobbyist{'3'};
 			$lobbyist{'phone'} = $lobbyist{'4'};
 			$lobbyist{'email'} = $lobbyist{'5'};
 		} else {
 			$lobbyist{'company_type'} = 'bus';
 			$lobbyist{'company'} = $lobbyist{'1'};
 			$lobbyist{'company_address1'} = $lobbyist{'2'};
-			$lobbyist{'company_city_state_zip'} = $lobbyist{'3'};
+			$lobbyist{'city_state_zip'} = $lobbyist{'3'};
 			$lobbyist{'phone'} = $lobbyist{'4'};
 			$lobbyist{'email'} = $lobbyist{'5'};
-			checkAddressFormat(\%lobbyist, \%name, $lobbyist_id);
+			# checkAddressFormat(\%lobbyist, \%name, $lobbyist_id);
 		}
 	} elsif ($lobbyist{'3'} =~ m/^Email/) {
 		# $lobbyist{'company'} = $name{'long_name'};
 		$lobbyist{'company_type'} = 'ind';
 		$lobbyist{'company_address1'} = $lobbyist{'1'};
-		$lobbyist{'company_city_state_zip'} = $lobbyist{'2'};
-		# $lobbyist{'phone'} = $lobbyist{'3'};
+		$lobbyist{'city_state_zip'} = $lobbyist{'2'};
 		$lobbyist{'email'} = $lobbyist{'3'};
 	} elsif ($lobbyist{'4'} =~ m/^Email/) {
 		$lobbyist{'company_type'} = 'bus';
 		$lobbyist{'company'} = $lobbyist{'1'};
 		$lobbyist{'company_address1'} = $lobbyist{'2'};
-		$lobbyist{'company_city_state_zip'} = $lobbyist{'3'};
+		$lobbyist{'city_state_zip'} = $lobbyist{'3'};
 
-		# $lobbyist{'phone'} = $lobbyist{'4'};
 		$lobbyist{'email'} = $lobbyist{'4'};
-		checkAddressFormat(\%lobbyist, \%name, $lobbyist_id);
+		
 	}
-
-	# 
-	# exit;
-
+	
 
 	$lobbyist{'email'} =~ s/Email:\s//g;
 	if ($lobbyist{'email'} eq 'No Email') {
@@ -150,28 +203,28 @@ sub getLobbyistDetails {
 	}
 	
 	$lobbyist{'phone'} =~ s/Telephone:\s//g;
-	# %name = splitName_FirstMiddleLast($lobbyist{'name'});
 
 	print ("\tlobbyist: ". $name{'long_name'} ." \n");
+	checkAddressFormat(\%lobbyist, \%name, $lobbyist_id);
 
 	$address{'address1'} = $lobbyist{'company_address1'};
 	$address{'address2'} = $lobbyist{'company_address2'};
-	$address{'city_state_zip'} = $lobbyist{'company_city_state_zip'};
+	$address{'city_state_zip'} = $lobbyist{'city_state_zip'};
 	splitCityStateZip(\%address);	
 	formatFullAddress(\%address);
 
 	# printHash(%lobbyist);
 	# print (" \n");
+	# printHash(%name);
+	# print (" \n");
 	# printHash(%address);
 	# exit;
 
-	# my %return_company = touchCompany(\%lobbyist, \%address);
-	# $lobbyist{'company_id'} = $return_company{'id'};
-
 	my %return_lobbyist = touchLobbyists(\%lobbyist, \%name);
 	updateLobbyist_hash_byPk(\%lobbyist);
-	my %return_address = touchAddress(\%address); # l -> lobbist, not a -> association
-	touchAssociationsAddresses('l', $return_lobbyist{'id'}, $return_address{'id'});
+	updateLobbyist_name_byId(\%lobbyist, \%name);
+	my %return_address = touchAddress(\%address); 
+	touchAssociationsAddresses('l', $return_lobbyist{'id'}, $return_address{'id'}); # l -> lobbist, not a -> association
 	
 	getAssociations($stream2, \%lobbyist);
 }
@@ -197,7 +250,7 @@ sub getAssociations {
 
 			my (%association, %types);
 
-			$association{'name'} = getAssociationName($stream);
+			$association{'name'} = escapeWideChar(getAssociationName($stream));
 			$association{'association_nbr'} = getAssociationData($stream);
 			$association{'reg_date_orig'} = getAssociationData($stream);
 			$association{'term_date_orig'} = getAssociationData($stream);
@@ -218,8 +271,13 @@ sub getAssociations {
 			}
 			
 			%types = splitLobbyType($association{'type'});;
-			
+			print (" \n");
+			printHash(%association);
+
+			# printHexChars($association{'name'});
+
 			touchAssociation(\%association);
+			updateAssociation_name_byPK(\%association);
 			touchAssociationsLobbyists($association{'association_nbr'}, $lobbyist_ref->{'reg_nbr'}, $association{'reg_date'});
 			updateAssociationsLobbyists_hash_byPk(\%association, \%types, $lobbyist_ref->{'reg_nbr'});
 		}
@@ -286,11 +344,15 @@ sub checkAddressFormat {
 		$hash_ref->{'company_address1'} = $hash_ref->{'1'};
 		$hash_ref->{'company_address2'} = $hash_ref->{'2'};
 		
-	} elsif ($ref =~ m/1385|954|1642|1649/) { #manual override  
-		
-		$hash_ref->{'company_type'} = 'ind';
-		$hash_ref->{'company'} = $name_hash->{'long_name'};
+	} elsif ($ref =~ m/1385|954|1642|1649/) { # manual override  
+		# $hash_ref->{'company_type'} = 'ind';
+		# $hash_ref->{'company'} = $name_hash->{'long_name'};
 		$hash_ref->{'company_address1'} = $hash_ref->{'1'};
 		$hash_ref->{'company_address2'} = $hash_ref->{'2'};
+	} elsif ($ref =~ m/298/) { # manual override  
+		# $hash_ref->{'company_type'} = 'ind';
+		# $hash_ref->{'company'} = $name_hash->{'long_name'};
+		$hash_ref->{'company_address1'} = $hash_ref->{'1'};
+		$hash_ref->{'city_state_zip'} = $hash_ref->{'2'};
 	}
 }

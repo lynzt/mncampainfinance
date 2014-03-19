@@ -1,0 +1,2225 @@
+02/13/2014 - 15:43:12: new record: 3805: 4th District Commander American Legion 
+02/13/2014 - 15:44:13: new record: 3721: A & W Communications Inc 
+02/13/2014 - 15:44:40: new record: 5783: A G Edwards 
+
+
+02/13/2014 - 15:47:52: new record: 3984: A J Indoor Advertising 
+02/13/2014 - 15:47:52: new record: 2942: ABB Combustion Engineering 
+02/13/2014 - 15:47:52: new record: 2023: Abbott-Northwestern Hospital Inc 
+02/13/2014 - 15:47:52: new record: 3160: Accenture LLP 
+02/13/2014 - 15:47:52: new record: 4513: Access Cash 
+02/13/2014 - 15:47:52: new record: 3966: Accessible Space Inc 
+02/13/2014 - 15:47:52: new record: 2909: Ace Novelty Co Inc 
+02/13/2014 - 15:47:52: new record: 3673: Achievement Rehab Corp 
+02/13/2014 - 15:47:52: new record: 3371: Ackerberg Group 
+02/13/2014 - 15:47:52: new record: 6178: ACS State Healthcare LLC 
+02/13/2014 - 15:47:52: new record: 4845: Action on Alcohol and Teens- A Citizens' Group 
+02/13/2014 - 15:47:52: new record: 3662: Activelife Management Inc 
+02/13/2014 - 15:47:52: new record: 3174: Acupuncture Assn of MN 
+02/13/2014 - 15:47:52: new record: 5763: Add Comm Leasing and Sales Corp 
+02/13/2014 - 15:47:52: new record: 3373: Adoption Power 
+02/13/2014 - 15:47:52: new record: 5711: ADP Totalsource 
+02/13/2014 - 15:47:52: new record: 5268: Advanced Academics 
+02/13/2014 - 15:47:52: new record: 4790: Advanced Communications Group Inc 
+02/13/2014 - 15:47:52: new record: 5355: Advanced Drainage Systems 
+02/13/2014 - 15:47:52: new record: 6201: Advanced Healing System LLC 
+02/13/2014 - 15:47:52: new record: 4005: Advantage MN 
+02/13/2014 - 15:47:52: new record: 4381: Advocates for Marketplace Opt for Mainstreet 
+02/13/2014 - 15:47:52: new record: 3436: Aetna Life Insurance Co 
+02/13/2014 - 15:47:52: new record: 903: AFSCME  6 
+02/13/2014 - 15:47:52: new record: 904: AFSCME 14 
+02/13/2014 - 15:47:52: new record: 1400: AFSCME Arrowhead 96 
+02/13/2014 - 15:47:52: new record: 6165: Ag Processing Inc, a Cooperative 
+02/13/2014 - 15:47:52: new record: 3897: Ag-Chem Equipment 
+02/13/2014 - 15:47:52: new record: 4045: Agent Coalition for Health Care Reform 
+02/13/2014 - 15:47:52: new record: 4115: Air Taser Inc 
+02/13/2014 - 15:47:52: new record: 4597: Air Transport District 143 
+02/13/2014 - 15:47:52: new record: 3667: Airport Express 
+02/13/2014 - 15:47:52: new record: 5607: Airport Management Services LLC 
+02/13/2014 - 15:47:52: new record: 3451: Akona 
+02/13/2014 - 15:47:52: new record: 2866: Alamo Rent A Car 
+02/13/2014 - 15:47:52: new record: 4664: Alan Chazin Homes 
+02/13/2014 - 15:47:52: new record: 3957: ALD Communications Inc 
+02/13/2014 - 15:47:52: new record: 4551: Alexandra House 
+02/13/2014 - 15:47:52: new record: 4239: Alexandria Township 
+02/13/2014 - 15:47:52: new record: 4173: Alignis Inc 
+02/13/2014 - 15:47:52: new record: 3904: All England Enterprises 
+02/13/2014 - 15:47:52: new record: 5626: Allco Finance Corp 
+02/13/2014 - 15:47:52: new record: 4546: Allegiance Healthcare Corp 
+02/13/2014 - 15:47:52: new record: 2794: Alliance for Commitment to Education 
+02/13/2014 - 15:47:52: new record: 4234: Alliance for Convention Center Expansion 
+02/13/2014 - 15:47:52: new record: 5937: Alliance for Marriage Foundation 
+02/13/2014 - 15:47:52: new record: 5962: Alliance for School Choice 
+02/13/2014 - 15:47:52: new record: 5380: Alliance for Student Achievement 
+02/13/2014 - 15:47:52: new record: 1373: Alliance of American Insurers 
+02/13/2014 - 15:47:52: new record: 6085: Alliance of Health Care Ministries 
+02/13/2014 - 15:47:52: new record: 4653: Alliance Pipeline Inc -OLD- 
+02/13/2014 - 15:47:52: new record: 4930: Alliance Steel 
+02/13/2014 - 15:47:52: new record: 4244: Alpha Human Services Inc 
+02/13/2014 - 15:47:52: new record: 5499: Alpine Affiliates 
+02/13/2014 - 15:47:52: new record: 6898: Alpine Glass Inc 
+02/13/2014 - 15:47:52: new record: 3093: Alpine Industries Inc 
+02/13/2014 - 15:47:52: new record: 3922: Alter Scrap Processing/Alter Corp 
+02/13/2014 - 15:47:52: new record: 4218: Alter Trading Corporation 
+02/13/2014 - 15:47:52: new record: 4533: Ameri Care 
+02/13/2014 - 15:47:52: new record: 6020: American Ag Energy LLC 
+02/13/2014 - 15:47:52: new record: 4093: American Amusements Arcades 
+02/13/2014 - 15:47:52: new record: 5315: American Assn of Nurse Anesthetists 
+02/13/2014 - 15:47:52: new record: 19: American Assn of Univ Women-MN Ch 
+02/13/2014 - 15:47:52: new record: 407: American Automobile Manufacturers Assn 
+02/13/2014 - 15:47:52: new record: 3329: American Automotive Leasing Assn 
+02/13/2014 - 15:47:52: new record: 1758: American Beauty Assn 
+02/13/2014 - 15:47:52: new record: 4281: American Blood Resources Assn 
+02/13/2014 - 15:47:52: new record: 5133: American Cancer Society 
+02/13/2014 - 15:47:52: new record: 4672: American Collectors Assn 
+02/13/2014 - 15:47:52: new record: 4357: American Communcations Services Inc 
+02/13/2014 - 15:47:52: new record: 2314: American Council of Life Insurers 
+02/13/2014 - 15:47:52: new record: 5229: American Dog Owners Assn 
+02/13/2014 - 15:47:52: new record: 3015: American Family Agents Assn of MN 
+02/13/2014 - 15:47:52: new record: 3422: American Family Coalition 
+02/13/2014 - 15:47:52: new record: 3396: American Fed of TV & Radio Artists AFL-CIO 
+02/13/2014 - 15:47:52: new record: 5465: American Financial Services Assn 
+02/13/2014 - 15:47:52: new record: 5519: American Home Entitlement Programs 
+02/13/2014 - 15:47:52: new record: 5078: American Immigration Lawyers Assn 
+02/13/2014 - 15:47:52: new record: 5156: American Indian Business Development Corp 
+02/13/2014 - 15:47:52: new record: 3557: American International Group Inc 
+02/13/2014 - 15:47:52: new record: 3228: American Iron & Supply Co Inc 
+02/13/2014 - 15:47:52: new record: 27: American Legion of MN 
+02/13/2014 - 15:47:52: new record: 4292: American Lung Assn Minneapolis Chapter 
+02/13/2014 - 15:47:52: new record: 4163: American Medical Security 
+02/13/2014 - 15:47:52: new record: 3450: American Prof Pet Distributors Inc 
+02/13/2014 - 15:47:52: new record: 5989: American Property Coalition 
+02/13/2014 - 15:47:52: new record: 3686: American Red Cross, St Paul Ch 
+02/13/2014 - 15:47:52: new record: 5562: American Seniors Advocacy Project 
+02/13/2014 - 15:47:52: new record: 4110: American Soc of Composers Authors & Publishers 
+02/13/2014 - 15:47:52: new record: 2147: American Soc of Safety Eng-MN Ch 
+02/13/2014 - 15:47:52: new record: 5044: American Society for the Prevention of Cruelty to Animals 
+02/13/2014 - 15:47:52: new record: 4246: American Telecare Inc 
+02/13/2014 - 15:47:52: new record: 5481: American Utilities Management 
+02/13/2014 - 15:47:52: new record: 4211: American Water Works Assn 
+02/13/2014 - 15:47:52: new record: 5323: American Wind Energy Assn 
+02/13/2014 - 15:47:52: new record: 4465: American Wood Preservers Institute (AWPI) 
+02/13/2014 - 15:47:52: new record: 6095: Americans for Technology Leadership 
+02/13/2014 - 15:47:52: new record: 4898: AmeriNet Reporting Co Inc 
+02/13/2014 - 15:47:52: new record: 4371: AmeriPride Services Inc 
+02/13/2014 - 15:47:52: new record: 5381: AmeriQuest Mortgage Co 
+02/13/2014 - 15:47:52: new record: 4687: Ameritech 
+02/13/2014 - 15:47:52: new record: 4359: Ames Construction Inc 
+02/13/2014 - 15:47:52: new record: 4613: Amoco Petroleum Products 
+02/13/2014 - 15:47:52: new record: 5792: AMPCO System Parking 
+02/13/2014 - 15:47:52: new record: 4161: AMS Management Services 
+02/13/2014 - 15:47:52: new record: 3330: ANC Rental Corp 
+02/13/2014 - 15:47:52: new record: 4488: Andersen, Elmer 
+02/13/2014 - 15:47:52: new record: 4267: Anderson Chevrolet 
+02/13/2014 - 15:47:52: new record: 5254: Andrew Residence Management Inc 
+02/13/2014 - 15:47:52: new record: 2878: Animal Health Institute 
+02/13/2014 - 15:47:52: new record: 6908: Animal Rescue, Media & Education 
+02/13/2014 - 15:47:52: new record: 2422: Anoka Co Chamber of Commerce 
+02/13/2014 - 15:47:52: new record: 2753: Anoka Co Coalition 
+02/13/2014 - 15:47:52: new record: 3540: Anoka Cty Assn of Realtors 
+02/13/2014 - 15:47:52: new record: 5289: Anoka-Hennepin Education MN 
+02/13/2014 - 15:47:52: new record: 3260: APCOA (Air) 
+02/13/2014 - 15:47:52: new record: 3261: APCOA Inc (Parking) 
+02/13/2014 - 15:47:52: new record: 3664: Apple Computer Inc 
+02/13/2014 - 15:47:52: new record: 4905: Appleton Economic Development Authority 
+02/13/2014 - 15:47:52: new record: 3393: Appleton Prison Corp 
+02/13/2014 - 15:47:52: new record: 5680: Appletree Institute 
+02/13/2014 - 15:47:52: new record: 2961: Appliance Recycling Ctrs of America Inc 
+02/13/2014 - 15:47:52: new record: 5005: ARAMARK Correction Services Inc 
+02/13/2014 - 15:47:52: new record: 3504: ARCTCO Inc 
+02/13/2014 - 15:47:52: new record: 5284: Area II MN River Basin Projects Inc 
+02/13/2014 - 15:47:52: new record: 3052: Arkansas Louisiana Gas Co (ARKLA) 
+02/13/2014 - 15:47:52: new record: 3010: Armour Swift-Eckrich 
+02/13/2014 - 15:47:52: new record: 3726: Arrowhead Promotion & Fulfillment Co Inc 
+02/13/2014 - 15:47:53: new record: 3429: Arrowhead Regional Development Commission 
+02/13/2014 - 15:47:53: new record: 5397: Arts & Cultural Partnership of St Paul 
+02/13/2014 - 15:47:53: new record: 5671: Arts Education Consortium of MN 
+02/13/2014 - 15:47:53: new record: 3134: Aseptic Packaging Council 
+02/13/2014 - 15:47:53: new record: 53: Ashland Inc 
+02/13/2014 - 15:47:53: new record: 3586: Ashland Petroleum Co 
+02/13/2014 - 15:47:53: new record: 4663: Ashu Kataria 
+02/13/2014 - 15:47:53: new record: 4543: ASI Worldwide Communications Corp 
+02/13/2014 - 15:47:53: new record: 5293: Asian-Pacific Cultural Center 
+02/13/2014 - 15:47:53: new record: 4379: Aspen Waste Systems Inc 
+02/13/2014 - 15:47:53: new record: 4002: Assd Beer Distributors of MN 
+02/13/2014 - 15:47:53: new record: 3622: Assd Credit Bureaus of MN 
+02/13/2014 - 15:47:53: new record: 3744: ASSE Intl 
+02/13/2014 - 15:47:53: new record: 62: Assn for Nonsmokers-MN 
+02/13/2014 - 15:47:53: new record: 4250: Assn for Sensible Airport Planning (ASAP) 
+02/13/2014 - 15:47:53: new record: 3581: Assn of Community Cancer Centers 
+02/13/2014 - 15:47:53: new record: 4886: Assn of Equipment Manufacturers-Deere & Co 
+02/13/2014 - 15:47:53: new record: 3533: Assn of Long Distance Users Ltd 
+02/13/2014 - 15:47:53: new record: 4028: Assn of Metropolitan Soil & Water Conserv Dis 
+02/13/2014 - 15:47:53: new record: 4565: Assn of Professional Driving Instructors of MN 
+02/13/2014 - 15:47:53: new record: 4206: Associates Credit Corp 
+02/13/2014 - 15:47:53: new record: 5311: Assumption Home Inc 
+02/13/2014 - 15:47:53: new record: 4627: Astra Pharmaceuticals L P 
+02/13/2014 - 15:47:53: new record: 5178: AT & T 
+02/13/2014 - 15:47:53: new record: 2037: AT & T Corp 
+02/13/2014 - 15:47:53: new record: 5883: AT & T Services Inc/Western Region 
+02/13/2014 - 15:47:53: new record: 5379: AT Systems 
+02/13/2014 - 15:47:53: new record: 3841: Atwater School District Assn 
+02/13/2014 - 15:47:53: new record: 6023: Audatex Division, Solera Inc 
+02/13/2014 - 15:47:53: new record: 3884: Augsburg Fortress Publishers 
+02/13/2014 - 15:47:53: new record: 5527: Austin Mutual Insurance Co 
+02/13/2014 - 15:47:53: new record: 2413: Auto Recyclers of MN 
+02/13/2014 - 15:47:53: new record: 4887: Automated Wagering Intl 
+02/13/2014 - 15:47:53: new record: 4286: Automatic Data Processing 
+02/13/2014 - 15:47:53: new record: 472: Automotive Service Professionals of MN 
+02/13/2014 - 15:47:53: new record: 4581: AutoNation Inc 
+02/13/2014 - 15:47:53: new record: 3916: Autotote 
+02/13/2014 - 15:47:53: new record: 5863: Autumn Antlers Trophy Whitetail Lodge c/o Bob & Sandy Holig 
+02/13/2014 - 15:47:53: new record: 5403: Aventis Pasteur Inc 
+02/13/2014 - 15:47:53: new record: 5951: Avis-Budget Group Inc 
+02/13/2014 - 15:47:53: new record: 3411: AWS 
+02/13/2014 - 15:47:53: new record: 4878: B J Alan Co 
+02/13/2014 - 15:47:53: new record: 5208: B2 Public Relations Inc 
+02/13/2014 - 15:47:53: new record: 5430: BAA USA Inc 
+02/13/2014 - 15:47:53: new record: 5536: Babcock & Brown LLC 
+02/13/2014 - 15:47:53: new record: 4559: BAE Systems 
+02/13/2014 - 15:47:53: new record: 4568: Bailey Controls Co Division of Elsag Bailey Inc 
+02/13/2014 - 15:47:53: new record: 4187: Baker Investment Limited 
+02/13/2014 - 15:47:53: new record: 4952: Banana Joe's of MN Inc 
+02/13/2014 - 15:47:53: new record: 3567: Banc One 
+02/13/2014 - 15:47:53: new record: 2309: Bank Shares Inc 
+02/13/2014 - 15:47:53: new record: 3511: Bannochie Nursing Home Inc 
+02/13/2014 - 15:47:53: new record: 3484: Barbers, Hairstyling for Men & Women 
+02/13/2014 - 15:47:53: new record: 5571: Barlow Projects Inc 
+02/13/2014 - 15:47:53: new record: 3364: Barnesville & Crosslake Municipalities 
+02/13/2014 - 15:47:53: new record: 4729: Barr Pharmaceuticals 
+02/13/2014 - 15:47:53: new record: 3850: Bartlett, Deacon 
+02/13/2014 - 15:47:53: new record: 5753: Base Management LLC 
+02/13/2014 - 15:47:53: new record: 3056: Bay West Inc 
+02/13/2014 - 15:47:53: new record: 3287: BCED MN Inc/City Center Associates 
+02/13/2014 - 15:47:53: new record: 6305: Bd of Pensions of Evangelical Lutheran Church in America 
+02/13/2014 - 15:47:53: new record: 4313: Beamer Enterprises Inc 
+02/13/2014 - 15:47:53: new record: 5709: Bear Stearns & Co Inc 
+02/13/2014 - 15:47:53: new record: 4941: Bearing Point Inc 
+02/13/2014 - 15:47:53: new record: 4961: Bechtel Infrastructure Corp 
+02/13/2014 - 15:47:53: new record: 4300: Becklund Home Health Care 
+02/13/2014 - 15:47:53: new record: 5836: Behavior Alert Systems 
+02/13/2014 - 15:47:53: new record: 5304: Belgrade Nursing Home 
+02/13/2014 - 15:47:53: new record: 4125: Beltrami County 
+02/13/2014 - 15:47:53: new record: 3732: Berkley Administrators 
+02/13/2014 - 15:47:53: new record: 4817: Berkley Risk Administrators Co LLC 
+02/13/2014 - 15:47:53: new record: 5627: Berlex 
+02/13/2014 - 15:47:53: new record: 1955: Beverly Enterprises-No Div 
+02/13/2014 - 15:47:53: new record: 5842: Big Stone II 
+02/13/2014 - 15:47:53: new record: 6215: BioCee 
+02/13/2014 - 15:47:53: new record: 6179: BioFuel Energy Corp 
+02/13/2014 - 15:47:53: new record: 3565: Bio-Gro Systems Inc 
+02/13/2014 - 15:47:53: new record: 5255: Birchwood Care Home Inc 
+02/13/2014 - 15:47:53: new record: 5061: Bituminous Roadways 
+02/13/2014 - 15:47:53: new record: 5555: Bixby Energy Systems 
+02/13/2014 - 15:47:53: new record: 5618: Black & Veatch 
+02/13/2014 - 15:47:53: new record: 5724: Black Hills Corp 
+02/13/2014 - 15:47:53: new record: 3317: Blaske, Del and Polly 
+02/13/2014 - 15:47:53: new record: 5391: Bloomington Corporate Center LLC 
+02/13/2014 - 15:47:53: new record: 5296: Bloomington Federation of Teachers 1182 
+02/13/2014 - 15:47:53: new record: 2353: Blount Energy Resource Corp 
+02/13/2014 - 15:47:53: new record: 4084: BMI 
+02/13/2014 - 15:47:53: new record: 2173: Bois Forte Reservation Tribal Council 
+02/13/2014 - 15:47:53: new record: 3857: Boland & Associates 
+02/13/2014 - 15:47:53: new record: 3178: Bongard's Creameries 
+02/13/2014 - 15:47:53: new record: 5817: Bossardt Corp 
+02/13/2014 - 15:47:53: new record: 5188: Boston Scientific/ SciMed 
+02/13/2014 - 15:47:53: new record: 4571: Boyer Ford Trucks 
+02/13/2014 - 15:47:53: new record: 1595: BP Amoco Corp 
+02/13/2014 - 15:47:53: new record: 3986: Braham Area Community Development  Inc 
+02/13/2014 - 15:47:53: new record: 6111: Brainerd Fire Dept Relief Assn 
+02/13/2014 - 15:47:53: new record: 4172: Brandon Fisheries 
+02/13/2014 - 15:47:53: new record: 3072: Braun Intertec Corp 
+02/13/2014 - 15:47:53: new record: 4230: Breckenridge City of 
+02/13/2014 - 15:47:53: new record: 4789: Bresnan Communications 
+02/13/2014 - 15:47:53: new record: 3442: Brian Coyle Mpls DFL Caucus 
+02/13/2014 - 15:47:53: new record: 5682: Bridging Inc 
+02/13/2014 - 15:47:53: new record: 3259: Brighton Development 
+02/13/2014 - 15:47:53: new record: 2305: Briquetting Marketing & Service Inc 
+02/13/2014 - 15:47:53: new record: 5856: BRK Brands/First Alert in MN c/o MultiStates Assoc 
+02/13/2014 - 15:47:53: new record: 5734: Bromine Science and Environmental Forum 
+02/13/2014 - 15:47:53: new record: 1522: Brookfield Properties (US) LLC 
+02/13/2014 - 15:47:53: new record: 3211: Brooklyn Park  City of 
+02/13/2014 - 15:47:53: new record: 4452: Brooks Fiber Communications of MN Inc 
+02/13/2014 - 15:47:53: new record: 4375: Brooks Fiber Properties Inc 
+02/13/2014 - 15:47:53: new record: 286: Brotherhood 
+02/13/2014 - 15:47:53: new record: 907: Brotherhood of Locomotive Engineers 
+02/13/2014 - 15:47:53: new record: 4378: Brown & Williamson Tobacco Corp 
+02/13/2014 - 15:47:53: new record: 4872: Brown, Linda 
+02/13/2014 - 15:47:53: new record: 4858: Bryan Thao Worra for Hmong Community 
+02/13/2014 - 15:47:53: new record: 4850: Budget Rent-a-Car Corp 
+02/13/2014 - 15:47:53: new record: 5037: Buffalo Community Hospital 
+02/13/2014 - 15:47:53: new record: 5038: Buffalo Public Schools 
+02/13/2014 - 15:47:53: new record: 5638: Builders Group 
+02/13/2014 - 15:47:53: new record: 3675: Building Owners and Managers Assn of Duluth 
+02/13/2014 - 15:47:53: new record: 5418: Building Performance Research Institute 
+02/13/2014 - 15:47:53: new record: 5010: Bulk Vending Group 
+02/13/2014 - 15:47:53: new record: 3718: Bureau of Engraving 
+02/13/2014 - 15:47:53: new record: 2998: Burger King Corp 
+02/13/2014 - 15:47:53: new record: 2745: Burlington Resources Inc 
+02/13/2014 - 15:47:53: new record: 3625: Business Coalition on Campaign Finance 
+02/13/2014 - 15:47:53: new record: 3872: Business Landfill Coalition 
+02/13/2014 - 15:47:53: new record: 5576: Business Owners Group 
+02/13/2014 - 15:47:53: new record: 4928: C & P Aviation 
+02/13/2014 - 15:47:53: new record: 5322: C L E A R 
+02/13/2014 - 15:47:53: new record: 5684: C N G Financial Corp 
+02/13/2014 - 15:47:53: new record: 4041: Cable Access St Paul 
+02/13/2014 - 15:47:53: new record: 5531: Caesars Entertainment Inc 
+02/13/2014 - 15:47:53: new record: 5191: Cafax, a division of RL Polk Co 
+02/13/2014 - 15:47:53: new record: 4711: Cairo Construction Inc 
+02/13/2014 - 15:47:53: new record: 4535: Call 4 Wireless LLC 
+02/13/2014 - 15:47:53: new record: 4607: Calumet Gilts, Ltd 
+02/13/2014 - 15:47:53: new record: 5965: Campaign for Conservation 
+02/13/2014 - 15:47:53: new record: 6218: Campaign for the MN Health Plan 
+02/13/2014 - 15:47:53: new record: 6005: Canal Street LP 
+02/13/2014 - 15:47:53: new record: 3338: Canby Community Health Services 
+02/13/2014 - 15:47:53: new record: 2398: Canterbury Downs/Ladbroke Racing Corp 
+02/13/2014 - 15:47:53: new record: 4289: Capital City Trolley Inc 
+02/13/2014 - 15:47:53: new record: 5802: Capital Equipment Tax Alliance 
+02/13/2014 - 15:47:53: new record: 6079: Capital Growth Madison Marquette 
+02/13/2014 - 15:47:53: new record: 6087: Capital One Financial Corp c/o 
+02/13/2014 - 15:47:53: new record: 3407: Capital Partnerships Inc 
+02/13/2014 - 15:47:53: new record: 3456: Capitol American 
+02/13/2014 - 15:47:53: new record: 3336: Capitol American Life Insur Co 
+02/13/2014 - 15:47:53: new record: 4333: Capstone Auto Pawnbrokers 
+02/13/2014 - 15:47:53: new record: 3566: Cardinal Stritch University 
+02/13/2014 - 15:47:53: new record: 3408: CARE CPA 
+02/13/2014 - 15:47:53: new record: 4409: Care Transportation 
+02/13/2014 - 15:47:53: new record: 5623: Caremark RX Inc 
+02/13/2014 - 15:47:53: new record: 5649: Caribou Coffee Co 
+02/13/2014 - 15:47:53: new record: 6297: Carlos Township 
+02/13/2014 - 15:47:53: new record: 1649: Carlson Companies 
+02/13/2014 - 15:47:53: new record: 3258: Carlson Real Estate Co Inc 
+02/13/2014 - 15:47:53: new record: 3746: Carlton County Board of Commissioners 
+02/13/2014 - 15:47:53: new record: 6013: CarMax Inc 
+02/13/2014 - 15:47:53: new record: 4137: Carosel Bingo 
+02/13/2014 - 15:47:53: new record: 4032: Carpenters Employers Council 
+02/13/2014 - 15:47:53: new record: 5226: Carver Cnty Housing & Redevelopment Authority 
+02/13/2014 - 15:47:53: new record: 4552: Casa de Esperanza 
+02/13/2014 - 15:47:53: new record: 5977: CASA MN 
+02/13/2014 - 15:47:53: new record: 3970: Cash-n-Pawn 
+02/13/2014 - 15:47:53: new record: 5503: Catalyst Renewables Corp, fka NGP MN Biomass LLC 
+02/13/2014 - 15:47:53: new record: 3508: CATCH (Cit Attention Towards Cit Health Care) 
+02/13/2014 - 15:47:53: new record: 4888: Caterpillar Inc c/o Multistate Assoc Inc 
+02/13/2014 - 15:47:53: new record: 3606: Catholic Services for the Elderly 
+02/13/2014 - 15:47:53: new record: 5528: Catholic Workman Life Insurance 
+02/13/2014 - 15:47:53: new record: 3681: Causeway on Gull 
+02/13/2014 - 15:47:53: new record: 5472: CBR Incorporated 
+02/13/2014 - 15:47:53: new record: 5218: CCI-Maximus 
+02/13/2014 - 15:47:53: new record: 4098: Cedar Fair LP d/b/a Valleyfair 
+02/13/2014 - 15:47:53: new record: 4840: Cedar Lake Improvement Dist 
+02/13/2014 - 15:47:53: new record: 3420: Cedar Pines 
+02/13/2014 - 15:47:53: new record: 3987: Cedar-Riverside Entities 
+02/13/2014 - 15:47:53: new record: 4136: Cellular 2000 
+02/13/2014 - 15:47:53: new record: 4447: Cendant Corp 
+02/13/2014 - 15:47:53: new record: 4203: Cenerprise Inc 
+02/13/2014 - 15:47:53: new record: 4683: Cenex Harvest States Cooperatives 
+02/13/2014 - 15:47:53: new record: 5952: Center City Housing Corp 
+02/13/2014 - 15:47:53: new record: 5337: Centex Multi-Family Communities LP 
+02/13/2014 - 15:47:53: new record: 4192: Central Collections Service Inc 
+02/13/2014 - 15:47:53: new record: 5042: Central Community Housing Trust 
+02/13/2014 - 15:47:53: new record: 6246: Central Iron Range Sanitary District 
+02/13/2014 - 15:47:53: new record: 6181: Central Lakes Region Sanitary District 
+02/13/2014 - 15:47:53: new record: 93: Central Livestock Assn Inc 
+02/13/2014 - 15:47:53: new record: 5479: Central MN Arts Board 
+02/13/2014 - 15:47:53: new record: 4876: Central MN Counties Detention Group 
+02/13/2014 - 15:47:53: new record: 4104: Central MN Ethanol Cooperative 
+02/13/2014 - 15:47:53: new record: 4689: Central MN Events Center Task Force 
+02/13/2014 - 15:47:53: new record: 5054: Central MN Regional Jail Planning Comm 
+02/13/2014 - 15:47:53: new record: 4962: Central MN Transportation Alliance 
+02/13/2014 - 15:47:53: new record: 5828: Central States Life and Health Co of Omaha 
+02/13/2014 - 15:47:53: new record: 4867: Central Todd County Care Center Inc 
+02/13/2014 - 15:47:53: new record: 3702: Central Towers 
+02/13/2014 - 15:47:53: new record: 4901: Cephalon Inc 
+02/13/2014 - 15:47:53: new record: 4826: Certified Technologies Inc 
+02/13/2014 - 15:47:53: new record: 3320: Chambers of Comm-MN State Univ 
+02/13/2014 - 15:47:53: new record: 3854: Charter 
+02/13/2014 - 15:47:53: new record: 4043: Charter School Strategies Inc 
+02/13/2014 - 15:47:53: new record: 3514: Check Cashing Place Inc 
+02/13/2014 - 15:47:53: new record: 5050: Check Systems Midwest Inc dba Checkcare Systems 
+02/13/2014 - 15:47:53: new record: 3041: Chemical Dep Reg Coalition 
+02/13/2014 - 15:47:53: new record: 3560: Chemical Waste Management Inc 
+02/13/2014 - 15:47:53: new record: 4319: Chicago Board of Trade 
+02/13/2014 - 15:47:53: new record: 4318: Chicago Board Options Exchange 
+02/13/2014 - 15:47:53: new record: 4317: Chicago Mercantile Exchange 
+02/13/2014 - 15:47:53: new record: 1777: Chicago Title Insurance Co 
+02/13/2014 - 15:47:53: new record: 5750: Children's Discovery Museum 
+02/13/2014 - 15:47:53: new record: 4072: Children's Futures 
+02/13/2014 - 15:47:53: new record: 4181: Children's Grand Prix of MN 
+02/13/2014 - 15:47:53: new record: 5941: Children's Magic 
+02/13/2014 - 15:47:53: new record: 3403: Children's Safety Center Network 
+02/13/2014 - 15:47:53: new record: 5267: Children's Theatre Co 
+02/13/2014 - 15:47:53: new record: 3180: Chisago Co Historical Soc 
+02/13/2014 - 15:47:53: new record: 3893: Chisago Health Services 
+02/13/2014 - 15:47:53: new record: 4514: Chlorine Chemistry Council 
+02/13/2014 - 15:47:53: new record: 4114: Choice in Education Foundation 
+02/13/2014 - 15:47:53: new record: 3658: Choice in Education League of MN Inc 
+02/13/2014 - 15:47:53: new record: 6091: ChoicePoint 
+02/13/2014 - 15:47:53: new record: 5090: Chorus Communications Group 
+02/13/2014 - 15:47:53: new record: 6907: CHS Inc 
+02/13/2014 - 15:47:53: new record: 3740: CIGNA Corp 
+02/13/2014 - 15:47:53: new record: 5695: Cingular Wireless 
+02/13/2014 - 15:47:53: new record: 2091: Citicorp 
+02/13/2014 - 15:47:53: new record: 5081: Citigroup Management Corp 
+02/13/2014 - 15:47:53: new record: 3807: Citizens Committee for Dry Cask Storage 
+02/13/2014 - 15:47:53: new record: 4991: Citizens Committee for Legislative Reform 
+02/13/2014 - 15:47:53: new record: 5168: Citizens Communications 
+02/13/2014 - 15:47:53: new record: 3822: Citizens Council 
+02/13/2014 - 15:47:53: new record: 4918: Citizens Council on Voyageurs Natl Park 
+02/13/2014 - 15:47:53: new record: 3053: Citizens for a Better Environment 
+02/13/2014 - 15:47:53: new record: 4086: Citizens for a Choice in Health Care 
+02/13/2014 - 15:47:53: new record: 5831: Citizens for Education 
+02/13/2014 - 15:47:53: new record: 3083: Citizens for Educational Freedom 
+02/13/2014 - 15:47:53: new record: 4680: Citizens for Fiscal Responsibility 
+02/13/2014 - 15:47:53: new record: 4748: Citizens for Local Phone Choice 
+02/13/2014 - 15:47:53: new record: 4037: Citizens Lobby 
+02/13/2014 - 15:47:53: new record: 3561: Citizens of Shorewood 
+02/13/2014 - 15:47:53: new record: 3657: Citizens Reform Network 
+02/13/2014 - 15:47:53: new record: 3476: Citizens State Bank of Roseau 
+02/13/2014 - 15:47:53: new record: 4642: Citizens United for Baseball in MN 
+02/13/2014 - 15:47:53: new record: 5399: City & County Credit Union 
+02/13/2014 - 15:47:53: new record: 3590: Civic Center Authority 
+02/13/2014 - 15:47:53: new record: 5149: Civic Soft Inc 
+02/13/2014 - 15:47:53: new record: 4191: Classic Affairs  dba Sheiks Gentlemans Club 
+02/13/2014 - 15:47:53: new record: 4466: Clean Fuels MN 
+02/13/2014 - 15:47:54: new record: 5270: Clear Channel Outdoors d/b/a Clear Channel Airports 
+02/13/2014 - 15:47:54: new record: 5026: CLEC Consortium 
+02/13/2014 - 15:47:54: new record: 2550: Cleveland Cliffs Inc 
+02/13/2014 - 15:47:54: new record: 1084: Cliffs Mining Co 
+02/13/2014 - 15:47:54: new record: 5689: Cloquet City of 
+02/13/2014 - 15:47:54: new record: 5507: Cloquet Firefighters Local 880 
+02/13/2014 - 15:47:54: new record: 5098: Club Ashe LP 
+02/13/2014 - 15:47:54: new record: 3243: Coalition for Competition 
+02/13/2014 - 15:47:54: new record: 3398: Coalition for Effective Cost Containment 
+02/13/2014 - 15:47:54: new record: 4836: Coalition for Equitable Downtown Taxation 
+02/13/2014 - 15:47:54: new record: 4468: Coalition for Natural Health Inc 
+02/13/2014 - 15:47:54: new record: 4774: Coalition for Replacing the Provider Tax 
+02/13/2014 - 15:47:54: new record: 2922: Coalition for Responsible Vending Sales 
+02/13/2014 - 15:47:54: new record: 6142: Coalition of Energy Consumers and Producers 
+02/13/2014 - 15:47:54: new record: 4470: Coalition of Utility Counties 
+02/13/2014 - 15:47:54: new record: 5043: Coalition of Wetland Deliniators 
+02/13/2014 - 15:47:54: new record: 3392: Coldwell Banker Burnet 
+02/13/2014 - 15:47:54: new record: 3532: Coldwell Banker Real Estate Group 
+02/13/2014 - 15:47:54: new record: 3554: Cole Vision Corp 
+02/13/2014 - 15:47:54: new record: 4220: Collectors Consortium of MN Inc 
+02/13/2014 - 15:47:54: new record: 4339: College Fund 
+02/13/2014 - 15:47:54: new record: 6048: College of American Pathologists 
+02/13/2014 - 15:47:54: new record: 3448: Colonial Life & Accident Insur Co 
+02/13/2014 - 15:47:54: new record: 3914: Colonial Warehouse Inc 
+02/13/2014 - 15:47:54: new record: 3280: Combined Insurance Co 
+02/13/2014 - 15:47:54: new record: 2773: Commercial/Industrial Tax Equity Group(CITE) 
+02/13/2014 - 15:47:54: new record: 4426: Common Bond Communities 
+02/13/2014 - 15:47:54: new record: 3087: Communications Workers of America 
+02/13/2014 - 15:47:54: new record: 1576: Communications Workers of America 7200 
+02/13/2014 - 15:47:54: new record: 2479: Communications Workers of America 7201 
+02/13/2014 - 15:47:54: new record: 3684: Communications Workers of America 7214 
+02/13/2014 - 15:47:54: new record: 5701: Communications Workers of America Local 7250 
+02/13/2014 - 15:47:54: new record: 3276: Community Clinic Consortium 
+02/13/2014 - 15:47:54: new record: 5577: Community Financial Enterprises LLC 
+02/13/2014 - 15:47:54: new record: 4693: Community Home Program Co 
+02/13/2014 - 15:47:54: new record: 4868: Community Intervention Inc 
+02/13/2014 - 15:47:54: new record: 6899: Community Power 
+02/13/2014 - 15:47:54: new record: 5437: Community Reinvestment Fund 
+02/13/2014 - 15:47:54: new record: 3964: Community Resource Partnerships Inc 
+02/13/2014 - 15:47:54: new record: 3644: CompCare Publishers 
+02/13/2014 - 15:47:54: new record: 4315: CompuServ Inc 
+02/13/2014 - 15:47:54: new record: 4374: Computer Assisted Technologies Inc 
+02/13/2014 - 15:47:54: new record: 2951: Concerned Citizens For Light Rail 
+02/13/2014 - 15:47:54: new record: 3853: Concerned Citizens to Save the Timberwolves 
+02/13/2014 - 15:47:54: new record: 3067: Concerned Citizens/Reas Recon of CSAH 71 
+02/13/2014 - 15:47:54: new record: 4280: Confidential Inc 
+02/13/2014 - 15:47:54: new record: 2715: Congress of Advocates for the Retarded Inc 
+02/13/2014 - 15:47:54: new record: 5477: Connection Academy 
+02/13/2014 - 15:47:54: new record: 5681: Connection Services Network Inc 
+02/13/2014 - 15:47:54: new record: 5087: Consumers Voice 
+02/13/2014 - 15:47:54: new record: 2049: Continental Cablevision of St Paul Inc 
+02/13/2014 - 15:47:54: new record: 5406: Contractors Property Development Co 
+02/13/2014 - 15:47:54: new record: 3729: Control Design Supply Inc 
+02/13/2014 - 15:47:54: new record: 4540: Convention Center Food Service 
+02/13/2014 - 15:47:54: new record: 5516: Convergys Corp 
+02/13/2014 - 15:47:54: new record: 6053: Cook County Commissioners 
+02/13/2014 - 15:47:54: new record: 6054: Cook County Economic Analysis Cncl 
+02/13/2014 - 15:47:54: new record: 5988: Cook County North Shore Hospital 
+02/13/2014 - 15:47:54: new record: 4573: Coon Rapids City of 
+02/13/2014 - 15:47:54: new record: 3518: Cooperating Community Programs 
+02/13/2014 - 15:47:54: new record: 2780: Cooperating Fund Drive 
+02/13/2014 - 15:47:54: new record: 2489: Coors Brewing Co 
+02/13/2014 - 15:47:54: new record: 4958: Cornell Co 
+02/13/2014 - 15:47:54: new record: 5223: CORN-er Stone Farmers Cooperative 
+02/13/2014 - 15:47:54: new record: 3889: Cornerhouse 
+02/13/2014 - 15:47:54: new record: 4550: Cornerstone 
+02/13/2014 - 15:47:54: new record: 5129: Correctional Medical Services 
+02/13/2014 - 15:47:54: new record: 5065: Correctional Services Corp 
+02/13/2014 - 15:47:54: new record: 4310: Cosmetic Toiletry & Fragrance Assn 
+02/13/2014 - 15:47:54: new record: 4649: Cottage Grove Economic Development Authority 
+02/13/2014 - 15:47:54: new record: 5963: Council for Electoral Leadership 
+02/13/2014 - 15:47:54: new record: 6357: Council of American Survey Research Organizations dba CASRO 
+02/13/2014 - 15:47:54: new record: 4561: Council on Black Minnesotans 
+02/13/2014 - 15:47:54: new record: 5299: Country Manor Health Care & Rehab Center 
+02/13/2014 - 15:47:54: new record: 4069: CP Rail Systems 
+02/13/2014 - 15:47:54: new record: 6294: CPM Development LLC 
+02/13/2014 - 15:47:54: new record: 6902: Crane Lake Township 
+02/13/2014 - 15:47:54: new record: 5935: Crawford Capital Corp 
+02/13/2014 - 15:47:54: new record: 3250: Creative Equity Resources 
+02/13/2014 - 15:47:54: new record: 3108: Creative Games Technology Inc 
+02/13/2014 - 15:47:54: new record: 5656: Creative Outdoor Advertising 
+02/13/2014 - 15:47:54: new record: 5086: Credit Card Coalition 
+02/13/2014 - 15:47:54: new record: 5601: CREP Regions I Red River Basin Commission 
+02/13/2014 - 15:47:54: new record: 3562: Crepeau Companies 
+02/13/2014 - 15:47:54: new record: 4619: Crestview Corp 
+02/13/2014 - 15:47:54: new record: 5164: CRI Recycling Services 
+02/13/2014 - 15:47:54: new record: 4269: Criminal Rehabilitation Coalition 
+02/13/2014 - 15:47:54: new record: 3679: Croix League for Environmental Action Now 
+02/13/2014 - 15:47:54: new record: 2948: Croixland Properties Limited Partnership 
+02/13/2014 - 15:47:54: new record: 4943: CryptoLogic Inc 
+02/13/2014 - 15:47:54: new record: 4065: Crystal City of 
+02/13/2014 - 15:47:54: new record: 5001: Crystal Communications Inc dba HickoryTech 
+02/13/2014 - 15:47:54: new record: 5150: CT Corporation System 
+02/13/2014 - 15:47:54: new record: 6138: CTIA-THE WIRELESS ASSN 
+02/13/2014 - 15:47:54: new record: 5183: CUNA Mutual Group 
+02/13/2014 - 15:47:54: new record: 5774: CURE 
+02/13/2014 - 15:47:54: new record: 4175: Custom Energy LLC 
+02/13/2014 - 15:47:54: new record: 5204: Customers for CIP Reform 
+02/13/2014 - 15:47:54: new record: 4557: Customers for Electric Choice 
+02/13/2014 - 15:47:54: new record: 4296: CW Marketing Inc 
+02/13/2014 - 15:47:54: new record: 3555: Cyprus Northshore Mining Corp 
+02/13/2014 - 15:47:54: new record: 3699: D & R Star 
+02/13/2014 - 15:47:54: new record: 5541: D R Horton Homes Inc - MN 
+02/13/2014 - 15:47:54: new record: 1537: Dain Rauscher Inc 
+02/13/2014 - 15:47:54: new record: 5249: Dakota County United Educators 
+02/13/2014 - 15:47:54: new record: 4783: Dakota, MN & Eastern Railroad Corp 
+02/13/2014 - 15:47:54: new record: 3792: Dakota's Children Inc 
+02/13/2014 - 15:47:54: new record: 5809: De LaSalle High School 
+02/13/2014 - 15:47:54: new record: 4848: Deaf Blind Services of MN 
+02/13/2014 - 15:47:54: new record: 3611: Deafness Education & Advocacy Foundation 
+02/13/2014 - 15:47:54: new record: 5484: Deer River Healthcare Center 
+02/13/2014 - 15:47:54: new record: 4305: Deer Run LLP Wetland Restoration 
+02/13/2014 - 15:47:54: new record: 4075: Deere Credit Services Inc 
+02/13/2014 - 15:47:54: new record: 5554: Delaware North Inc 
+02/13/2014 - 15:47:54: new record: 3210: Dem-Con Landfill Inc 
+02/13/2014 - 15:47:54: new record: 4723: DHS Corp 
+02/13/2014 - 15:47:54: new record: 4052: Diamond Energy 
+02/13/2014 - 15:47:54: new record: 5995: DIECA Communications Inc dba Covad Communications Co 
+02/13/2014 - 15:47:54: new record: 4678: Dietary Supplement Safety & Science Coalition 
+02/13/2014 - 15:47:54: new record: 3074: Digital Equipment Corp 
+02/13/2014 - 15:47:54: new record: 5676: Direct TV Group 
+02/13/2014 - 15:47:54: new record: 3743: Disciples Ministry 
+02/13/2014 - 15:47:54: new record: 2817: Dispute Resolution Center 
+02/13/2014 - 15:47:54: new record: 3028: Distilled Spirits Council (Virginia) 
+02/13/2014 - 15:47:54: new record: 2945: District Energy St Paul Inc 
+02/13/2014 - 15:47:54: new record: 3903: District Memorial Hospital 
+02/13/2014 - 15:47:54: new record: 4847: District Two Planning Council 
+02/13/2014 - 15:47:54: new record: 3512: Diversified Medical 
+02/13/2014 - 15:47:54: new record: 5710: Doherty Employment Group Inc 
+02/13/2014 - 15:47:54: new record: 4554: Domestic Abuse Project 
+02/13/2014 - 15:47:54: new record: 5121: Domestic Violence Legislative Alliance 
+02/13/2014 - 15:47:54: new record: 4119: Domtar Inc 
+02/13/2014 - 15:47:54: new record: 5062: Don Laughlin's Riverside Resort & Hotel 
+02/13/2014 - 15:47:54: new record: 2012: Dougherty Dawkins Inc 
+02/13/2014 - 15:47:54: new record: 4185: Dougherty Financial Group LLC 
+02/13/2014 - 15:47:54: new record: 5240: Douglas County Hospital 
+02/13/2014 - 15:47:54: new record: 3917: Douglas-Michaels Corp 
+02/13/2014 - 15:47:54: new record: 3665: Dow Chemical Co 
+02/13/2014 - 15:47:54: new record: 3367: DowElanco 
+02/13/2014 - 15:47:54: new record: 3257: Downtown East Assn 
+02/13/2014 - 15:47:54: new record: 4091: Downtown St Paul Development Joint Venture 
+02/13/2014 - 15:47:54: new record: 4806: Dr Richard Green Institute for Teaching & Learning 
+02/13/2014 - 15:47:54: new record: 3339: Drong & Associates 
+02/13/2014 - 15:47:54: new record: 4842: Drug Policy Reform Group of MN 
+02/13/2014 - 15:47:54: new record: 5515: DSG Strategies Inc 
+02/13/2014 - 15:47:54: new record: 4199: Duffy Development 
+02/13/2014 - 15:47:54: new record: 4837: Duke Realty Corp 
+02/13/2014 - 15:47:54: new record: 2638: Duluth AFL-CIO Central Body 
+02/13/2014 - 15:47:54: new record: 4006: Duluth Clinic 
+02/13/2014 - 15:47:54: new record: 4222: Duluth Family Practice Residency Program 
+02/13/2014 - 15:47:54: new record: 5486: Duluth Firefighters Local 101 
+02/13/2014 - 15:47:54: new record: 5707: Duluth Hospitality League 
+02/13/2014 - 15:47:54: new record: 186: Duluth, Missabe and Iron Range Railway Co 
+02/13/2014 - 15:47:54: new record: 5272: Duluth/North Shore Sanitary District 
+02/13/2014 - 15:47:54: new record: 3328: DuPont Merck Pharmaceutical Co 
+02/13/2014 - 15:47:54: new record: 4593: E & J Gallo Winery 
+02/13/2014 - 15:47:54: new record: 3696: E F Johnson Co 
+02/13/2014 - 15:47:54: new record: 4834: E Lottery 
+02/13/2014 - 15:47:54: new record: 4101: E W Blanch Holdings Inc 
+02/13/2014 - 15:47:54: new record: 4473: Eagan Volunteer Fire Dept Relief Assn 
+02/13/2014 - 15:47:54: new record: 4575: Earth Tech Inc 
+02/13/2014 - 15:47:54: new record: 5492: East Central Solid Waste Commission 
+02/13/2014 - 15:47:54: new record: 5456: East Metro Medical Society 
+02/13/2014 - 15:47:54: new record: 3856: East Metropolitan Health Organization 
+02/13/2014 - 15:47:54: new record: 3900: East Side Beverage 
+02/13/2014 - 15:47:54: new record: 4788: East Side Neighborhood Dvlpmnt Co 
+02/13/2014 - 15:47:54: new record: 3550: Eastman Kodak Co 
+02/13/2014 - 15:47:54: new record: 4781: Eberhardt Co 
+02/13/2014 - 15:47:54: new record: 6122: Ebullient Investments LLC 
+02/13/2014 - 15:47:54: new record: 5580: Ecology Center 
+02/13/2014 - 15:47:54: new record: 4236: Economic Services Inc 
+02/13/2014 - 15:47:54: new record: 5609: Ecumen 
+02/13/2014 - 15:47:54: new record: 5445: Edelman 
+02/13/2014 - 15:47:54: new record: 5253: Eden Prairie Education Assn 
+02/13/2014 - 15:47:54: new record: 6182: Eden Prairie Firefighter Relief Assn 
+02/13/2014 - 15:47:54: new record: 3843: Eden Prairie Public Schools 
+02/13/2014 - 15:47:54: new record: 3103: Edina City of 
+02/13/2014 - 15:47:54: new record: 2496: Edina Firemans Relief Assn 
+02/13/2014 - 15:47:54: new record: 4500: Edison Schools Inc 
+02/13/2014 - 15:47:54: new record: 3286: EDS 
+02/13/2014 - 15:47:54: new record: 4731: Education  MN- Intermediate Dist 287 Local 2209 
+02/13/2014 - 15:47:54: new record: 1805: Education MN - Duluth 
+02/13/2014 - 15:47:54: new record: 5319: Education MN - Edina 
+02/13/2014 - 15:47:54: new record: 5244: Education MN - Osseo 
+02/13/2014 - 15:47:54: new record: 5264: Education MN - Roseville 
+02/13/2014 - 15:47:54: new record: 3629: Educational Cooperative Serv Unit of Metro 
+02/13/2014 - 15:47:54: new record: 5118: eFunds Corp 
+02/13/2014 - 15:47:54: new record: 4641: Ehlers & Associates Inc 
+02/13/2014 - 15:47:54: new record: 5902: El Toro Taxi 
+02/13/2014 - 15:47:54: new record: 3222: El, Sec, Voc Reg Mgmt Info Centers 
+02/13/2014 - 15:47:54: new record: 3316: Elanco Animal Health-Eli Lilly 
+02/13/2014 - 15:47:54: new record: 1316: ElderCare Rights Alliance 
+02/13/2014 - 15:47:54: new record: 5651: Election Systems & Software 
+02/13/2014 - 15:47:54: new record: 5740: Electronic Bingo Manuf Assn 
+02/13/2014 - 15:47:54: new record: 5645: Electronic Data Systems 
+02/13/2014 - 15:47:54: new record: 6052: Electronic Industries Alliance 
+02/13/2014 - 15:47:54: new record: 5612: Electronic Manufacturers Coalition for Responsible Recycling 
+02/13/2014 - 15:47:54: new record: 2868: Electronics Industries Assn 
+02/13/2014 - 15:47:54: new record: 4147: Elim Care Ministries 
+02/13/2014 - 15:47:54: new record: 5247: Elk River Education Assn 
+02/13/2014 - 15:47:54: new record: 3379: Elk River Landfill 
+02/13/2014 - 15:47:54: new record: 5778: Elko Speedway 
+02/13/2014 - 15:47:54: new record: 4640: Ely Public Utilities Commission 
+02/13/2014 - 15:47:54: new record: 5395: Emerald Park LLC 
+02/13/2014 - 15:47:54: new record: 2395: Emergency Food Shelf Network 
+02/13/2014 - 15:47:54: new record: 3383: Employers Assn Inc 
+02/13/2014 - 15:47:54: new record: 3296: Employers Health Insur Co 
+02/13/2014 - 15:47:54: new record: 3737: Employers Insurance of Wausau A Mutual Co 
+02/13/2014 - 15:47:54: new record: 3601: Employment Action Center 
+02/13/2014 - 15:47:54: new record: 5347: Empower MN 
+02/13/2014 - 15:47:54: new record: 6126: Encampment Mining 
+02/13/2014 - 15:47:54: new record: 2952: Endeco Inc 
+02/13/2014 - 15:47:54: new record: 5749: Endres Processing LLC 
+02/13/2014 - 15:47:54: new record: 3431: Energizer Power Systems Div/Eveready Battery 
+02/13/2014 - 15:47:54: new record: 4154: Energy Performance Systems 
+02/13/2014 - 15:47:54: new record: 3162: Energy Resource Center 
+02/13/2014 - 15:47:54: new record: 5324: Energy Services Group 
+02/13/2014 - 15:47:54: new record: 4796: Enhanced Energy Inc 
+02/13/2014 - 15:47:54: new record: 2416: Enron 
+02/13/2014 - 15:47:54: new record: 4539: Enron Capital & Trade Resources Corp 
+02/13/2014 - 15:47:54: new record: 3375: Entertainment Centers of America Inc 
+02/13/2014 - 15:47:54: new record: 6084: Entiera 
+02/13/2014 - 15:47:54: new record: 3594: Environmental Engineering & Management Ltd 
+02/13/2014 - 15:47:54: new record: 3678: Environmental Information Ltd 
+02/13/2014 - 15:47:54: new record: 5852: Environmental Justice Advocates of MN 
+02/13/2014 - 15:47:54: new record: 6166: Environmental Sentry Protection LLC 
+02/13/2014 - 15:47:54: new record: 4387: Environmental Trust Fund Coalition 
+02/13/2014 - 15:47:54: new record: 3509: Envirosys Inc 
+02/13/2014 - 15:47:54: new record: 3535: Envirotest Corp 
+02/13/2014 - 15:47:54: new record: 4828: Envirotest Technologies 
+02/13/2014 - 15:47:54: new record: 2874: Equifax Inc 
+02/13/2014 - 15:47:54: new record: 4885: Equipment Manuf Insti Deere & Co c/o MultiState Assoc Inc 
+02/13/2014 - 15:47:54: new record: 4984: Equity Residential Properties Trust 
+02/13/2014 - 15:47:54: new record: 3380: Equity Title 
+02/13/2014 - 15:47:54: new record: 4288: Ericsson Inc 
+02/13/2014 - 15:47:54: new record: 1672: Ernest K Lehmann & Associates Inc 
+02/13/2014 - 15:47:54: new record: 4999: Eschelon Telecom Inc 
+02/13/2014 - 15:47:54: new record: 4900: ESP Inc 
+02/13/2014 - 15:47:54: new record: 4109: Estate of Norman Gendein 
+02/13/2014 - 15:47:54: new record: 4438: ETC 
+02/13/2014 - 15:47:54: new record: 6193: Eureka Recycling 
+02/13/2014 - 15:47:54: new record: 3603: Evangelical Lutheran Good Samaritan Society 
+02/13/2014 - 15:47:54: new record: 2121: Eveleth Expansion Co 
+02/13/2014 - 15:47:55: new record: 4373: Eveleth Mines LLC dba EVTAC Mining 
+02/13/2014 - 15:47:55: new record: 1480: Eveleth Taconite Co 
+02/13/2014 - 15:47:55: new record: 6900: Eveleth-Gilbert Public Schools 
+02/13/2014 - 15:47:55: new record: 5093: Everest Property Management Co 
+02/13/2014 - 15:47:55: new record: 5878: Excel Title Holdings LLC 
+02/13/2014 - 15:47:55: new record: 5833: Executive Information Systems LLC 
+02/13/2014 - 15:47:55: new record: 5786: Exeter Realty Co 
+02/13/2014 - 15:47:55: new record: 4633: Extendicare Health Facilities Inc d/b/a Trevilla of Robbinsdale 
+02/13/2014 - 15:47:55: new record: 6168: Exxon Mobil Corp 
+02/13/2014 - 15:47:55: new record: 3919: Facility Systems Inc 
+02/13/2014 - 15:47:55: new record: 4237: Fair Airports Funding Committee 
+02/13/2014 - 15:47:55: new record: 5060: Fair Land Coalition 
+02/13/2014 - 15:47:55: new record: 4744: Fair Ridge Trail 
+02/13/2014 - 15:47:55: new record: 5712: FairCare Rx Discount Pharmacy 
+02/13/2014 - 15:47:55: new record: 3758: Fairmont City of 
+02/13/2014 - 15:47:55: new record: 5008: Fairview / Ebenezer 
+02/13/2014 - 15:47:55: new record: 6190: Falcon Waterfree Technologies 
+02/13/2014 - 15:47:55: new record: 4904: Fallon McElligot Inc 
+02/13/2014 - 15:47:55: new record: 5197: Family Networks 
+02/13/2014 - 15:47:55: new record: 2364: Family Service Inc 
+02/13/2014 - 15:47:55: new record: 3179: Family Service Inc - Learning Disabilities Program 
+02/13/2014 - 15:47:55: new record: 4674: Family Support Network 
+02/13/2014 - 15:47:55: new record: 6250: Family Supportive Housing Provider Group 
+02/13/2014 - 15:47:55: new record: 5444: Family Tree Clinic 
+02/13/2014 - 15:47:55: new record: 4556: Family Violence Network 
+02/13/2014 - 15:47:55: new record: 3493: Familystyle of St Paul Inc 
+02/13/2014 - 15:47:55: new record: 4358: FANS (Fans Advocating Intelligent Spending) 
+02/13/2014 - 15:47:55: new record: 5742: Fans Answer to New Stadium 
+02/13/2014 - 15:47:55: new record: 204: Fargo-Moorhead Home Builders Assn 
+02/13/2014 - 15:47:55: new record: 5413: Faribault Energy Park, LLC 
+02/13/2014 - 15:47:55: new record: 3656: Faribault Regional Center Comm Task Force 
+02/13/2014 - 15:47:55: new record: 5159: Farm Connect 
+02/13/2014 - 15:47:55: new record: 4582: Farm for Profit 
+02/13/2014 - 15:47:55: new record: 2787: Farmers Legal Action Group Inc 
+02/13/2014 - 15:47:55: new record: 5976: Fashion Jewelry Trade Assn 
+02/13/2014 - 15:47:55: new record: 4264: Father's Resource Center 
+02/13/2014 - 15:47:55: new record: 3423: Fathers Who Care 
+02/13/2014 - 15:47:55: new record: 3705: Fayette, Mark 
+02/13/2014 - 15:47:55: new record: 3749: Federal Cartridge Co/Environmental Mon Group 
+02/13/2014 - 15:47:55: new record: 3350: Federated Investors 
+02/13/2014 - 15:47:55: new record: 3142: Federated Mutual Insurance Co 
+02/13/2014 - 15:47:55: new record: 5544: Fergus Falls Economic Improvement Commission 
+02/13/2014 - 15:47:55: new record: 2738: Fergus Falls Regional Treatment Coalition 
+02/13/2014 - 15:47:55: new record: 5144: Fibrominn 
+02/13/2014 - 15:47:55: new record: 4822: Fibrowatt LLC 
+02/13/2014 - 15:47:55: new record: 3866: Fight for MN Inc 
+02/13/2014 - 15:47:55: new record: 5653: Financial Freedom Enterprises 
+02/13/2014 - 15:47:55: new record: 5755: Financial Service Centers of MN 
+02/13/2014 - 15:47:55: new record: 5117: Financial Services Coordinating Council 
+02/13/2014 - 15:47:55: new record: 215: Fine Associates 
+02/13/2014 - 15:47:55: new record: 216: Fingerhut Corp 
+02/13/2014 - 15:47:55: new record: 3801: Firefighters Assn of Mpls 82 
+02/13/2014 - 15:47:55: new record: 3799: First Bank Services Investment Services Inc 
+02/13/2014 - 15:47:55: new record: 4728: First Call MN 
+02/13/2014 - 15:47:55: new record: 6164: First District Assn 
+02/13/2014 - 15:47:55: new record: 5462: First Health Services Corp 
+02/13/2014 - 15:47:55: new record: 4478: First Natl Bank of Elk River 
+02/13/2014 - 15:47:55: new record: 3955: Firstcom Inc 
+02/13/2014 - 15:47:55: new record: 5449: Fleet Govt Advisory Services 
+02/13/2014 - 15:47:55: new record: 5460: Fleet Libris Information Solutions, a div of Fleet Bank 
+02/13/2014 - 15:47:55: new record: 6269: Florence Court AG LLC 
+02/13/2014 - 15:47:55: new record: 3911: Flour Exchange Bldg Corp 
+02/13/2014 - 15:47:55: new record: 3655: Fluorescent User Group 
+02/13/2014 - 15:47:55: new record: 4721: FM Frattalone Construction Inc 
+02/13/2014 - 15:47:55: new record: 6000: FMR Corp 
+02/13/2014 - 15:47:55: new record: 3604: Focus Homes Inc 
+02/13/2014 - 15:47:55: new record: 5733: Focus on the Family Action 
+02/13/2014 - 15:47:55: new record: 5300: Foley Nursing Center 
+02/13/2014 - 15:47:55: new record: 5698: Folwell Neighborhood Assn 
+02/13/2014 - 15:47:55: new record: 3116: Food First Coalition 
+02/13/2014 - 15:47:55: new record: 3101: Ford Motor Co - MN 
+02/13/2014 - 15:47:55: new record: 3209: Fortis Benefits Insur Co (Western Life) 
+02/13/2014 - 15:47:55: new record: 3525: Forum Insurance Co 
+02/13/2014 - 15:47:55: new record: 3033: Foster Wheeler Power Systems Inc 
+02/13/2014 - 15:47:55: new record: 5629: Fox Sports Net North 
+02/13/2014 - 15:47:55: new record: 5882: Frauenshuh Companies 
+02/13/2014 - 15:47:55: new record: 6016: Freedom Works Inc 
+02/13/2014 - 15:47:55: new record: 3084: Freeway Transfer Inc 
+02/13/2014 - 15:47:55: new record: 4369: Freight House Inc 
+02/13/2014 - 15:47:55: new record: 4160: Fridley City of 
+02/13/2014 - 15:47:55: new record: 3301: Friends of the Communication Ctr 
+02/13/2014 - 15:47:55: new record: 4992: Friends of the MN Valley 
+02/13/2014 - 15:47:55: new record: 5332: Friends of the St Paul Farmers Market 
+02/13/2014 - 15:47:55: new record: 5348: Friends of the St Paul Public Library 
+02/13/2014 - 15:47:55: new record: 4572: FRM Associates 
+02/13/2014 - 15:47:55: new record: 3780: Frogtown Action Alliance 
+02/13/2014 - 15:47:55: new record: 3207: Frontier Corporation 
+02/13/2014 - 15:47:55: new record: 3727: Fulfillment Systems Inc 
+02/13/2014 - 15:47:55: new record: 4388: Fund Kids First 
+02/13/2014 - 15:47:55: new record: 5900: Gabbys Saloon & Eatery 
+02/13/2014 - 15:47:55: new record: 4779: GAF Building Materials 
+02/13/2014 - 15:47:55: new record: 3725: Gage Marketing Group 
+02/13/2014 - 15:47:55: new record: 5354: GameTech Intl Inc 
+02/13/2014 - 15:47:55: new record: 5169: Garrison Kathio W Mille Lacs Lake Sanitary Sewer District 
+02/13/2014 - 15:47:55: new record: 4298: Gartner Refrigeration Inc 
+02/13/2014 - 15:47:55: new record: 4717: Gaylord City of 
+02/13/2014 - 15:47:55: new record: 3896: GD Searle & Co 
+02/13/2014 - 15:47:55: new record: 4106: GE Medical Systems 
+02/13/2014 - 15:47:55: new record: 4838: Gelco Corp dba GE Capital Fleet Services 
+02/13/2014 - 15:47:55: new record: 3730: Gellman, David 
+02/13/2014 - 15:47:55: new record: 2114: General Instrument Corp 
+02/13/2014 - 15:47:55: new record: 4117: General Sport Shows 
+02/13/2014 - 15:47:55: new record: 4610: Germanic American Institute 
+02/13/2014 - 15:47:55: new record: 2232: Getty/Hughes Co 
+02/13/2014 - 15:47:55: new record: 3202: Gillette Co 
+02/13/2014 - 15:47:55: new record: 4377: Glacial Hills, Inc 
+02/13/2014 - 15:47:55: new record: 3915: Glass Dealers Advertising Assn 
+02/13/2014 - 15:47:55: new record: 1109: Glass Packaging Institute 
+02/13/2014 - 15:47:55: new record: 4766: Glass Service Co Inc 
+02/13/2014 - 15:47:55: new record: 4150: GlaxoSmithKline 
+02/13/2014 - 15:47:55: new record: 4916: Glencoe Area Health Center 
+02/13/2014 - 15:47:55: new record: 2407: Global Crossing 
+02/13/2014 - 15:47:55: new record: 4609: Global Ventures I Inc 
+02/13/2014 - 15:47:55: new record: 5089: Gluek's Restaurant & Bar 
+02/13/2014 - 15:47:55: new record: 5881: GM Transmission 
+02/13/2014 - 15:47:55: new record: 5729: Go MN Fund 
+02/13/2014 - 15:47:55: new record: 5361: Goeden Fisheries 
+02/13/2014 - 15:47:55: new record: 5023: Golden Jack LLC/United Properties 
+02/13/2014 - 15:47:55: new record: 3342: Golden Rule Insur Co 
+02/13/2014 - 15:47:55: new record: 6043: Goldman Sachs & Co 
+02/13/2014 - 15:47:55: new record: 5425: Golf Acquisition Group 
+02/13/2014 - 15:47:55: new record: 1809: Good Neighbor Services Inc 
+02/13/2014 - 15:47:55: new record: 5307: Good Shepherd Community 
+02/13/2014 - 15:47:55: new record: 4067: Gopher Resource Corp 
+02/13/2014 - 15:47:55: new record: 3588: Graco Inc 
+02/13/2014 - 15:47:55: new record: 3936: Gradient Enterprises 
+02/13/2014 - 15:47:55: new record: 5533: Graduate and Professional Student Assembly 
+02/13/2014 - 15:47:55: new record: 4408: Graduate School of America 
+02/13/2014 - 15:47:55: new record: 2713: Grand Metro Public Ltd Co 
+02/13/2014 - 15:47:55: new record: 5644: Granite City Food & Brewery 
+02/13/2014 - 15:47:55: new record: 5798: Granite Falls EDA 
+02/13/2014 - 15:47:55: new record: 5630: Grassroots Recycling Network 
+02/13/2014 - 15:47:55: new record: 5708: Great American Merchandise & Events 
+02/13/2014 - 15:47:55: new record: 3331: Great Gamble 
+02/13/2014 - 15:47:55: new record: 4671: Great Lakes Collection Bureau 
+02/13/2014 - 15:47:55: new record: 3359: Great Lakes Management Co 
+02/13/2014 - 15:47:55: new record: 2907: Great Lakes Transportation Co 
+02/13/2014 - 15:47:55: new record: 2980: Great Northern Iron Ore Properties 
+02/13/2014 - 15:47:55: new record: 5985: Great Outdoors MN (Proj of Conservation Campaign) 
+02/13/2014 - 15:47:55: new record: 3237: Great West Life Insurance 
+02/13/2014 - 15:47:55: new record: 3542: Great Western Warehouse Bldg 
+02/13/2014 - 15:47:55: new record: 3643: Greater Lake Street Area Council 
+02/13/2014 - 15:47:55: new record: 5502: Greater Metropolitan Area Foreign Trade Zone 
+02/13/2014 - 15:47:55: new record: 4254: Greater Mpls Convention & Visitors Assn 
+02/13/2014 - 15:47:55: new record: 3770: Greater Mpls Day Care Assn 
+02/13/2014 - 15:47:55: new record: 2553: Greater Mpls Hospitality Council 
+02/13/2014 - 15:47:55: new record: 4464: Greater Mpls Metropolitan Housing Corp 
+02/13/2014 - 15:47:55: new record: 3133: Greater Rochester Area University Center 
+02/13/2014 - 15:47:55: new record: 4299: Green Institute 
+02/13/2014 - 15:47:55: new record: 3528: Green Tree Acceptance Inc 
+02/13/2014 - 15:47:55: new record: 3245: Greenpeace 
+02/13/2014 - 15:47:55: new record: 4094: Greenspring Co 
+02/13/2014 - 15:47:55: new record: 4253: GTE Telephone Operations 
+02/13/2014 - 15:47:55: new record: 5308: Guardian Angels of Elk River 
+02/13/2014 - 15:47:55: new record: 3666: Guardian Title Corp 
+02/13/2014 - 15:47:55: new record: 5182: Guidant/ Cardiac Pacemakers Inc 
+02/13/2014 - 15:47:55: new record: 4628: Guild Inc 
+02/13/2014 - 15:47:55: new record: 4493: Gull Harbor Owners Assn 
+02/13/2014 - 15:47:55: new record: 6132: GWG Life Settlements 
+02/13/2014 - 15:47:55: new record: 5514: H R B Management Inc 
+02/13/2014 - 15:47:55: new record: 5982: Haas Financial Group 
+02/13/2014 - 15:47:55: new record: 3890: Hallberg & Associates 
+02/13/2014 - 15:47:55: new record: 5746: Hallett Dock Co 
+02/13/2014 - 15:47:55: new record: 5088: Hamline Avenue Properties 
+02/13/2014 - 15:47:55: new record: 6205: Hamm Clinic 
+02/13/2014 - 15:47:55: new record: 4869: Harcourt Brace 
+02/13/2014 - 15:47:55: new record: 4995: Harmon Glass Co 
+02/13/2014 - 15:47:55: new record: 4174: Harmony Scenic Studios Inc 
+02/13/2014 - 15:47:55: new record: 5356: Harrah's Entertainment Inc 
+02/13/2014 - 15:47:55: new record: 4655: Hartley Nature Center Corp 
+02/13/2014 - 15:47:55: new record: 4684: Harvest States Cooperatives 
+02/13/2014 - 15:47:55: new record: 4083: Hatch, Eiden & Pihlstrom 
+02/13/2014 - 15:47:55: new record: 3751: Hawthorne Management 
+02/13/2014 - 15:47:55: new record: 3846: Hay Creek Mutual Fire Insurance Co 
+02/13/2014 - 15:47:55: new record: 3946: Hazardous Waste Management Assn 
+02/13/2014 - 15:47:55: new record: 3387: HB Fuller Co 
+02/13/2014 - 15:47:55: new record: 3255: HBE Corp 
+02/13/2014 - 15:47:55: new record: 5530: HCC Life Insurance Co 
+02/13/2014 - 15:47:55: new record: 4020: Health Care Campaign of MN 
+02/13/2014 - 15:47:55: new record: 4860: Health Care Consumer Protection Alliance 
+02/13/2014 - 15:47:55: new record: 3570: Health Industry Manufacturers Assn 
+02/13/2014 - 15:47:55: new record: 4956: Health Management Systems 
+02/13/2014 - 15:47:55: new record: 3691: Health Pack Assn Inc 
+02/13/2014 - 15:47:55: new record: 3530: Health Policy Coalition 
+02/13/2014 - 15:47:55: new record: 4532: Health Span Transportation 
+02/13/2014 - 15:47:55: new record: 3307: Health Trust Fund 
+02/13/2014 - 15:47:55: new record: 4338: HealthFund of MN 
+02/13/2014 - 15:47:55: new record: 5605: Healthsouth Corp 
+02/13/2014 - 15:47:55: new record: 6113: Healthy Legacy 
+02/13/2014 - 15:47:55: new record: 4275: Hearing Industries Assn 
+02/13/2014 - 15:47:55: new record: 4567: Hearth Products Assn 
+02/13/2014 - 15:47:55: new record: 5613: Heartland Energy & Recycling LLC 
+02/13/2014 - 15:47:55: new record: 4255: Heat Frost and Thermal Insulation Ed Fund 
+02/13/2014 - 15:47:55: new record: 6185: Hendricksen PSG 
+02/13/2014 - 15:47:55: new record: 3824: Hennepin Center for the Arts 
+02/13/2014 - 15:47:55: new record: 3424: Hennepin Conservation District 
+02/13/2014 - 15:47:55: new record: 3961: Hennepin County Assoc of Paramedics & EMTs 
+02/13/2014 - 15:47:55: new record: 4118: Hennepin County Community Corrections 
+02/13/2014 - 15:47:55: new record: 3376: Hennepin County Haulers 
+02/13/2014 - 15:47:55: new record: 2842: Hennepin County Reg Railroad Auth 
+02/13/2014 - 15:47:55: new record: 4219: Hennepin Faculty Associates 
+02/13/2014 - 15:47:55: new record: 5647: Hennepin Theatre Trust 
+02/13/2014 - 15:47:55: new record: 5907: Hennepin Yard LLC/John Robinson 
+02/13/2014 - 15:47:55: new record: 5934: Hennepin-Carver Workforce Investment Bd 
+02/13/2014 - 15:47:55: new record: 5889: Heritage Development 
+02/13/2014 - 15:47:55: new record: 5436: Heritage Housing LLC 
+02/13/2014 - 15:47:55: new record: 4662: Heritage Renovations LLC 
+02/13/2014 - 15:47:55: new record: 5146: Hermantown City of 
+02/13/2014 - 15:47:55: new record: 5736: Heron Lake Bioenergy LLC 
+02/13/2014 - 15:47:55: new record: 4505: Hertz Assoc Ltd 
+02/13/2014 - 15:47:55: new record: 4851: Hertz Corp 
+02/13/2014 - 15:47:55: new record: 4651: Herzog Environmental Inc 
+02/13/2014 - 15:47:55: new record: 6207: HFS Golden Rule LLC 
+02/13/2014 - 15:47:55: new record: 4608: Hiawatha Gilts Ltd 
+02/13/2014 - 15:47:55: new record: 5506: Hibbing Firefighters Local 173 
+02/13/2014 - 15:47:55: new record: 367: Hickory Tech Corp 
+02/13/2014 - 15:47:55: new record: 4080: High Plains 
+02/13/2014 - 15:47:55: new record: 4087: High Speed Bus Assn 
+02/13/2014 - 15:47:55: new record: 4982: Higher Education Cities Partnership 
+02/13/2014 - 15:47:55: new record: 5511: Highland Chateau Health Care Center 
+02/13/2014 - 15:47:55: new record: 4444: Highland Manor Inc d/b/a Oak Hills Living Center 
+02/13/2014 - 15:47:55: new record: 5602: Highpoint Surgical Center 
+02/13/2014 - 15:47:55: new record: 3795: Highway Construction Industry Council 
+02/13/2014 - 15:47:55: new record: 6212: Highway Technologies 
+02/13/2014 - 15:47:55: new record: 5595: Hines Interests Ltd Partnership 
+02/13/2014 - 15:47:55: new record: 5487: Hiniker Co 
+02/13/2014 - 15:47:55: new record: 5948: HIRED 
+02/13/2014 - 15:47:55: new record: 5648: Historic Theatre Group Ltd 
+02/13/2014 - 15:47:55: new record: 4023: HLR Service Corp 
+02/13/2014 - 15:47:55: new record: 6055: Hmong American Partnership 
+02/13/2014 - 15:47:55: new record: 5269: HMS Host Corporation 
+02/13/2014 - 15:47:55: new record: 3426: Hoechst-Roussel Pharmaceuticals 
+02/13/2014 - 15:47:55: new record: 4957: Holmes & Associates 
+02/13/2014 - 15:47:55: new record: 5910: Home Depot Inc 
+02/13/2014 - 15:47:55: new record: 4135: Homestyles Publishing and Marketing Inc 
+02/13/2014 - 15:47:55: new record: 5978: Homeward Bound 
+02/13/2014 - 15:47:55: new record: 5888: Hope Academy 
+02/13/2014 - 15:47:55: new record: 3128: Hopkins City of 
+02/13/2014 - 15:47:55: new record: 5317: Horizon Wind Energy LLC 
+02/13/2014 - 15:47:55: new record: 5400: Hormel Employees Credit Union 
+02/13/2014 - 15:47:55: new record: 5539: Hospice MN 
+02/13/2014 - 15:47:55: new record: 4340: Hostelling Int'l- MN AYH 
+02/13/2014 - 15:47:55: new record: 5266: Household International 
+02/13/2014 - 15:47:55: new record: 3813: Houston City of 
+02/13/2014 - 15:47:55: new record: 5929: HPPS Ltd 
+02/13/2014 - 15:47:55: new record: 3878: HSBC-GR Corp 
+02/13/2014 - 15:47:55: new record: 4950: Hubert's 
+02/13/2014 - 15:47:55: new record: 5034: Hughes Oncology 
+02/13/2014 - 15:47:55: new record: 4139: Human Service Associates 
+02/13/2014 - 15:47:55: new record: 6011: Human Services Inc 
+02/13/2014 - 15:47:55: new record: 4702: Hunt/Gregory Associates LLC 
+02/13/2014 - 15:47:55: new record: 3453: Hunt-Wesson Inc 
+02/13/2014 - 15:47:55: new record: 285: Hutchinson Telephone Co 
+02/13/2014 - 15:47:56: new record: 5570: I-94/TH10 Interregional Connection Coalition 
+02/13/2014 - 15:47:56: new record: 5759: IATSE Local 490 
+02/13/2014 - 15:47:56: new record: 4215: IBEW Local 16 
+02/13/2014 - 15:47:56: new record: 5373: IBEW Local 949 
+02/13/2014 - 15:47:56: new record: 5313: IBEW State of MN 
+02/13/2014 - 15:47:56: new record: 1749: IBEW-St Council 
+02/13/2014 - 15:47:56: new record: 4265: Ice Cream Bar Inc 
+02/13/2014 - 15:47:56: new record: 5415: ICG Communications Inc 
+02/13/2014 - 15:47:56: new record: 4823: ID Certify Inc 
+02/13/2014 - 15:47:56: new record: 3281: IDS Life Insurance Co 
+02/13/2014 - 15:47:56: new record: 5116: iFIDS.com 
+02/13/2014 - 15:47:56: new record: 3385: IGT 
+02/13/2014 - 15:47:56: new record: 4923: Image Data LLC 
+02/13/2014 - 15:47:56: new record: 5212: Imation 
+02/13/2014 - 15:47:56: new record: 6031: Immunization Action Coalition 
+02/13/2014 - 15:47:56: new record: 5782: Impark 
+02/13/2014 - 15:47:56: new record: 5522: IMS Health  c/o MultiStates Assoc 
+02/13/2014 - 15:47:56: new record: 5657: Ind School Dist 544 Fergus Falls 
+02/13/2014 - 15:47:56: new record: 4587: Independent Analytical Testing Laboratories 
+02/13/2014 - 15:47:56: new record: 1956: Independent Business Assn of MN 
+02/13/2014 - 15:47:56: new record: 3789: Independent Charities of America 
+02/13/2014 - 15:47:56: new record: 2966: Independent Land Title Assn 
+02/13/2014 - 15:47:56: new record: 4012: Independent School District 196 
+02/13/2014 - 15:47:56: new record: 3777: Independent School District 281 Robbinsdale 
+02/13/2014 - 15:47:56: new record: 3886: Independent School District 861 
+02/13/2014 - 15:47:56: new record: 4433: Indian Child Welfare Law Center 
+02/13/2014 - 15:47:56: new record: 5049: IndiVisual Learning Center 
+02/13/2014 - 15:47:56: new record: 4989: ING 
+02/13/2014 - 15:47:56: new record: 679: ING Americas 
+02/13/2014 - 15:47:56: new record: 5474: Injury Treatment Center 
+02/13/2014 - 15:47:56: new record: 1122: Inland Steel Mining Co 
+02/13/2014 - 15:47:56: new record: 2680: Inst for the Dev of Amaranth Products Inc 
+02/13/2014 - 15:47:56: new record: 3352: Institute for Environmental Assessment 
+02/13/2014 - 15:47:56: new record: 3568: Institute for Professional Development 
+02/13/2014 - 15:47:56: new record: 5994: Integra Telecom of Washington 
+02/13/2014 - 15:47:56: new record: 6109: Integrated Community Solutions Inc 
+02/13/2014 - 15:47:56: new record: 5821: Intel Corp of MN  c/o MultiStates Assoc 
+02/13/2014 - 15:47:56: new record: 5389: Intelligent Nutrients Inc 
+02/13/2014 - 15:47:56: new record: 3357: Inter City Oil Co 
+02/13/2014 - 15:47:56: new record: 4942: Interactive Gaming Council 
+02/13/2014 - 15:47:56: new record: 4632: Inter-Faith Social Services Inc d/b/a Carlton Nursing Home 
+02/13/2014 - 15:47:56: new record: 3035: Intermediate District 287 
+02/13/2014 - 15:47:56: new record: 3401: Intermediate School Districts 917 
+02/13/2014 - 15:47:56: new record: 4054: International Falls City of 
+02/13/2014 - 15:47:56: new record: 5276: International Paper 
+02/13/2014 - 15:47:56: new record: 5375: Internet Alliance 
+02/13/2014 - 15:47:56: new record: 3253: Interplastic Corp 
+02/13/2014 - 15:47:56: new record: 3865: Interstate Bonding Inc 
+02/13/2014 - 15:47:56: new record: 4713: Intertec Market Reports- dba Natl Market Reports 
+02/13/2014 - 15:47:56: new record: 4202: Interwest Management Inc 
+02/13/2014 - 15:47:56: new record: 2733: Intl Alliance for Sustainable Agric 
+02/13/2014 - 15:47:56: new record: 3100: Intl Assn of Machinists & Aerospace Wkrs 143 
+02/13/2014 - 15:47:56: new record: 3402: Intl Assn of Machinists & Aerospace Wkrs 1833 
+02/13/2014 - 15:47:56: new record: 916: Intl Assn of Machinists & Aerospace Wrks 924 
+02/13/2014 - 15:47:56: new record: 5980: Intl Baccalaureate of MN 
+02/13/2014 - 15:47:56: new record: 1868: Intl Business Machines Corp-MN 
+02/13/2014 - 15:47:56: new record: 302: Intl Chiropractors Assn 
+02/13/2014 - 15:47:56: new record: 3362: Intl Express Corp 
+02/13/2014 - 15:47:56: new record: 2182: Intl Franchise Assn 
+02/13/2014 - 15:47:56: new record: 762: Intl Paper Co 
+02/13/2014 - 15:47:56: new record: 2720: Intl Telecharge Inc 
+02/13/2014 - 15:47:56: new record: 2857: Intl Union of Operating Eng 70 
+02/13/2014 - 15:47:56: new record: 4599: Intl Wolf Center 
+02/13/2014 - 15:47:56: new record: 3741: Intracorp 
+02/13/2014 - 15:47:56: new record: 3486: Investment Advisors Inc 
+02/13/2014 - 15:47:56: new record: 5022: Investment Coin Tax Coalition 
+02/13/2014 - 15:47:56: new record: 3089: Investment Management Inc 
+02/13/2014 - 15:47:56: new record: 3633: Involuntary Unemployment Insurance Coalition 
+02/13/2014 - 15:47:56: new record: 5761: IRIS 
+02/13/2014 - 15:47:56: new record: 5434: Itasca Medical Center 
+02/13/2014 - 15:47:56: new record: 3745: ITC Information Systems 
+02/13/2014 - 15:47:56: new record: 3627: It's Time MN 
+02/13/2014 - 15:47:56: new record: 4166: ITWHI-CONE 
+02/13/2014 - 15:47:56: new record: 5261: Ivy Tower Minneapolis LLC 
+02/13/2014 - 15:47:56: new record: 4243: J & H Marsh & McLennan 
+02/13/2014 - 15:47:56: new record: 5646: J R L Enterprises - I Can Learn 
+02/13/2014 - 15:47:56: new record: 5806: J R's Appliance Disposal Inc 
+02/13/2014 - 15:47:56: new record: 6061: J2 Global Communication Inc 
+02/13/2014 - 15:47:56: new record: 4193: Jacob Wetterling Foundation 
+02/13/2014 - 15:47:56: new record: 4044: Jacobs Realty II Inc 
+02/13/2014 - 15:47:56: new record: 5770: JADT Group 
+02/13/2014 - 15:47:56: new record: 4491: James Ford Bell Foundation 
+02/13/2014 - 15:47:56: new record: 3908: Janco Inc 
+02/13/2014 - 15:47:56: new record: 5841: Jefferson Commons at Berry Street, LP 
+02/13/2014 - 15:47:56: new record: 5258: Jefferson Govt Relations LLC 
+02/13/2014 - 15:47:56: new record: 3213: Jennie-OTurkey Store Inc 
+02/13/2014 - 15:47:56: new record: 4824: JG Wentworth 
+02/13/2014 - 15:47:56: new record: 4355: JLT Group Inc 
+02/13/2014 - 15:47:56: new record: 4487: Jockeys Guild Inc 
+02/13/2014 - 15:47:56: new record: 2913: John Alden Life Insurance Co 
+02/13/2014 - 15:47:56: new record: 1989: John Deere Co 
+02/13/2014 - 15:47:56: new record: 6069: John Deere Credit c/o MultiState Assoc 
+02/13/2014 - 15:47:56: new record: 3943: John G Stark MD 
+02/13/2014 - 15:47:56: new record: 4398: Johnson Brothers Liquor Co 
+02/13/2014 - 15:47:56: new record: 4165: Joint Comm on Accreditation  of Healthcare 
+02/13/2014 - 15:47:56: new record: 6058: Joint County Natural Resources Bd 
+02/13/2014 - 15:47:56: new record: 4440: Joint East Range Economic Development Authority 
+02/13/2014 - 15:47:56: new record: 3502: Joint Powers Natural Resources Bd 
+02/13/2014 - 15:47:56: new record: 3962: Joint Property Tax Advisory Committee 
+02/13/2014 - 15:47:56: new record: 5636: Joint Water Commission 
+02/13/2014 - 15:47:56: new record: 3024: Josten's 
+02/13/2014 - 15:47:56: new record: 5895: JPI Development 
+02/13/2014 - 15:47:56: new record: 3793: Jungle Theater 
+02/13/2014 - 15:47:56: new record: 3527: Junkers Sanitation Inc 
+02/13/2014 - 15:47:56: new record: 3318: Justice Fellowship 
+02/13/2014 - 15:47:56: new record: 4776: Kapala Glodek Funeral Services 
+02/13/2014 - 15:47:56: new record: 4453: Kaplan Companies 
+02/13/2014 - 15:47:56: new record: 3473: Kaplan, Strangis and Kaplan 
+02/13/2014 - 15:47:56: new record: 3995: Kasson Mantorville Telephone Co 
+02/13/2014 - 15:47:56: new record: 3972: Kenetech Windpower Inc (Minneapolis) 
+02/13/2014 - 15:47:56: new record: 4092: Kenetech Windpower Inc (San Fransisco) 
+02/13/2014 - 15:47:56: new record: 5070: Key Investment Inc 
+02/13/2014 - 15:47:56: new record: 5586: Kidde PLC 
+02/13/2014 - 15:47:56: new record: 4659: KidsPeace 
+02/13/2014 - 15:47:56: new record: 5014: Kiewit-Mortenson, A Joint Venture 
+02/13/2014 - 15:47:56: new record: 4690: Kleespie Tank 
+02/13/2014 - 15:47:56: new record: 5262: Klodt Inc 
+02/13/2014 - 15:47:56: new record: 5271: Knife River-Larsmont Sanitary District 
+02/13/2014 - 15:47:56: new record: 4798: Knoll Pharmaceuticals 
+02/13/2014 - 15:47:56: new record: 696: Knutson, Flynn & Deans PA 
+02/13/2014 - 15:47:56: new record: 3410: Knutson/Barton Mallow 
+02/13/2014 - 15:47:56: new record: 5725: Koch Industries Inc 
+02/13/2014 - 15:47:56: new record: 5862: KODA Energy 
+02/13/2014 - 15:47:56: new record: 3482: Kohlberg Kravis Roberts & Co 
+02/13/2014 - 15:47:56: new record: 4854: Koochiching Economic Development Authority 
+02/13/2014 - 15:47:56: new record: 3102: Kraft Foods Global Inc by svc co Altria Corp Svcs Inc 
+02/13/2014 - 15:47:56: new record: 5619: Kunda Mediators Lobbyist Et Al Intl 
+02/13/2014 - 15:47:56: new record: 3515: L & G Rebein Inc 
+02/13/2014 - 15:47:56: new record: 3844: LA Gear 
+02/13/2014 - 15:47:56: new record: 4130: Labor Management Committee 
+02/13/2014 - 15:47:56: new record: 4240: LaGrande Township 
+02/13/2014 - 15:47:56: new record: 3066: Lake Calhoun Associates 
+02/13/2014 - 15:47:56: new record: 4055: Lake City City of 
+02/13/2014 - 15:47:56: new record: 4123: Lake County 
+02/13/2014 - 15:47:56: new record: 4616: Lake Crystal Area Recreation Center Assn 
+02/13/2014 - 15:47:56: new record: 3980: Lake Minnetonka Communication Commission 
+02/13/2014 - 15:47:56: new record: 4890: Lake Owasso Parent Group 
+02/13/2014 - 15:47:56: new record: 4105: Lake Pulaski Improvement District 
+02/13/2014 - 15:47:56: new record: 3582: Lake Region Manufacturing Co 
+02/13/2014 - 15:47:56: new record: 2955: Lake Superior Center 
+02/13/2014 - 15:47:56: new record: 2320: Lake Superior Paper Industries 
+02/13/2014 - 15:47:56: new record: 1001: Lakedale Telephone Co 
+02/13/2014 - 15:47:56: new record: 4739: Lakefield Junction LLP 
+02/13/2014 - 15:47:56: new record: 5370: Lakehead Environmental 
+02/13/2014 - 15:47:56: new record: 6152: Lakeside Health Care 
+02/13/2014 - 15:47:56: new record: 5700: Lakewood Health System 
+02/13/2014 - 15:47:56: new record: 6313: Land Ho LLC 
+02/13/2014 - 15:47:56: new record: 334: Land O Lakes Inc 
+02/13/2014 - 15:47:56: new record: 3182: Lander Group 
+02/13/2014 - 15:47:56: new record: 4937: Landmark Theatre Corp 
+02/13/2014 - 15:47:56: new record: 5237: Las Americas Inc 
+02/13/2014 - 15:47:56: new record: 3290: Laurel Village Joint Venture Partners 
+02/13/2014 - 15:47:56: new record: 5521: Laurent Development Co 
+02/13/2014 - 15:47:56: new record: 3773: Law Enforcement Labor Services Inc 
+02/13/2014 - 15:47:56: new record: 3956: LDB International Corporation 
+02/13/2014 - 15:47:56: new record: 4569: LDDS  Communications Inc 
+02/13/2014 - 15:47:56: new record: 4712: LDM Development 
+02/13/2014 - 15:47:56: new record: 3038: Lead Free Kids Inc 
+02/13/2014 - 15:47:56: new record: 6299: Leaf Valley Township 
+02/13/2014 - 15:47:56: new record: 5650: Leap Frog School House 
+02/13/2014 - 15:47:56: new record: 3641: Leder, Mort 
+02/13/2014 - 15:47:56: new record: 3360: Lederle Labs 
+02/13/2014 - 15:47:56: new record: 5885: Legacy Land Development Co 
+02/13/2014 - 15:47:56: new record: 4892: Legal Aid Society of Minneapolis 
+02/13/2014 - 15:47:56: new record: 1360: Legal Rights Center Inc 
+02/13/2014 - 15:47:56: new record: 4626: Legal Services Advocacy Project 
+02/13/2014 - 15:47:56: new record: 5483: Leisure Hills Health & Rehabilitation 
+02/13/2014 - 15:47:56: new record: 2859: Leisure Time Inc 
+02/13/2014 - 15:47:56: new record: 4293: Leonard Street and Deinard Legal Clinic 
+02/13/2014 - 15:47:56: new record: 5903: Lesly Cab 
+02/13/2014 - 15:47:56: new record: 5330: Let MN Vote 
+02/13/2014 - 15:47:56: new record: 6002: Lets Go Fishing 
+02/13/2014 - 15:47:56: new record: 6905: Leukemia & Lymphoma Society 
+02/13/2014 - 15:47:56: new record: 3598: Lewis & Clark Joint Powers 
+02/13/2014 - 15:47:56: new record: 3534: Lexington Co 
+02/13/2014 - 15:47:56: new record: 4879: Lexmark Intl Inc 
+02/13/2014 - 15:47:56: new record: 4040: Libertarian Party of MN 
+02/13/2014 - 15:47:56: new record: 2656: Liberty Diversified Industries 
+02/13/2014 - 15:47:56: new record: 4283: Liberty Savings Bank 
+02/13/2014 - 15:47:56: new record: 4965: Liberty Trading Corp 
+02/13/2014 - 15:47:56: new record: 3683: LifeUSA Insurance Co 
+02/13/2014 - 15:47:56: new record: 4129: Lilly, David & Diane 
+02/13/2014 - 15:47:56: new record: 3776: Limousine/Personal Transportation Group 
+02/13/2014 - 15:47:56: new record: 4085: Lincoln Pipestone Rural Water 
+02/13/2014 - 15:47:56: new record: 3928: Lindenfelser Landfill Inc 
+02/13/2014 - 15:47:56: new record: 5614: Lindquist & Vennum 
+02/13/2014 - 15:47:56: new record: 3418: LINTEX 
+02/13/2014 - 15:47:56: new record: 4747: Litchfied Rescue Squad Auxiliary Inc 
+02/13/2014 - 15:47:56: new record: 1976: Little Six Inc 
+02/13/2014 - 15:47:56: new record: 5426: Living Benefits Financial Services 
+02/13/2014 - 15:47:56: new record: 4245: Loan Repayment Assistance Program of 
+02/13/2014 - 15:47:56: new record: 5120: Local Government Alliance 
+02/13/2014 - 15:47:56: new record: 5510: Local Government Information Systems 
+02/13/2014 - 15:47:56: new record: 1417: Lockheed Martin 
+02/13/2014 - 15:47:56: new record: 4902: Londen Insurance Group 
+02/13/2014 - 15:47:56: new record: 3468: Long Lake City of 
+02/13/2014 - 15:47:56: new record: 4392: Long-Term Care Management Group 
+02/13/2014 - 15:47:56: new record: 5463: Long-Term Care Pharmacy Alliance 
+02/13/2014 - 15:47:56: new record: 3769: Loretto City of 
+02/13/2014 - 15:47:56: new record: 3913: Loring Corners Inc 
+02/13/2014 - 15:47:56: new record: 3783: Lottery Enterprises Inc 
+02/13/2014 - 15:47:56: new record: 4515: Low Incidence Parent Advisory Committee Dist 287 
+02/13/2014 - 15:47:56: new record: 3279: Lundgren Bros 
+02/13/2014 - 15:47:56: new record: 5911: Lutheran Home Assn 
+02/13/2014 - 15:47:56: new record: 3521: Luverne Area Facilities 
+02/13/2014 - 15:47:56: new record: 3912: Lynch, Lee 
+02/13/2014 - 15:47:56: new record: 5394: Lyndale West Partners LLC 
+02/13/2014 - 15:47:56: new record: 3848: Lyon County 
+02/13/2014 - 15:47:56: new record: 5694: Magellan Development Group Ltd 
+02/13/2014 - 15:47:56: new record: 3796: Mankato Citizens Telephone Co/Mid-Comm Inc 
+02/13/2014 - 15:47:56: new record: 5056: Maple Manor Enterprises of Rochester Inc d/b/a Maple Manor Nursing Home 
+02/13/2014 - 15:47:56: new record: 3467: Maple Plain City of 
+02/13/2014 - 15:47:56: new record: 4953: Maple River Education Coalition 
+02/13/2014 - 15:47:56: new record: 5382: Marathon Ashland 
+02/13/2014 - 15:47:56: new record: 4719: Marchant Investment & Mgmt Co Inc 
+02/13/2014 - 15:47:56: new record: 4710: Margot Siegel 
+02/13/2014 - 15:47:56: new record: 2526: Mark VII Distributors 
+02/13/2014 - 15:47:56: new record: 3621: Marquette Bancshares Inc 
+02/13/2014 - 15:47:56: new record: 3377: Marquette Bank Minneapolis 
+02/13/2014 - 15:47:56: new record: 3449: Marriage & Family Therapists 
+02/13/2014 - 15:47:56: new record: 6284: Marshall Area Chamber of Comm/Transportation Committee 
+02/13/2014 - 15:47:56: new record: 4126: Marshall County 
+02/13/2014 - 15:47:56: new record: 5954: Martin Luther Manor (Martin LM LLC) 
+02/13/2014 - 15:47:56: new record: 3032: Marvin Lumber & Cedar Co 
+02/13/2014 - 15:47:56: new record: 5777: Mathwig Development Corp 
+02/13/2014 - 15:47:56: new record: 5092: Mayo Health System 
+02/13/2014 - 15:47:56: new record: 5500: MBNA Corporation 
+02/13/2014 - 15:47:56: new record: 6229: MCAR (MN Coalition for Adoption Reform) 
+02/13/2014 - 15:47:56: new record: 4168: MCC 
+02/13/2014 - 15:47:56: new record: 3006: McCaw Cellular Communications Inc 
+02/13/2014 - 15:47:56: new record: 5416: McCollister & Co 
+02/13/2014 - 15:47:56: new record: 3851: McDaniels, Steve 
+02/13/2014 - 15:47:56: new record: 3537: McDonald, Robert and Marion 
+02/13/2014 - 15:47:56: new record: 4424: McDonough Organization with Respect and Equality (MORE) 
+02/13/2014 - 15:47:56: new record: 4675: McGowan, Michael and Richard 
+02/13/2014 - 15:47:56: new record: 4443: McGraw Hill c/o MultiStates Associates 
+02/13/2014 - 15:47:56: new record: 2137: MCI 
+02/13/2014 - 15:47:56: new record: 5997: MDU Resources Group Inc 
+02/13/2014 - 15:47:56: new record: 2850: Meadowbrook Women's Clinic 
+02/13/2014 - 15:47:56: new record: 4758: MedAmerica Insurance Co 
+02/13/2014 - 15:47:56: new record: 4757: MediaOne of Delaware Inc 
+02/13/2014 - 15:47:56: new record: 4420: Medical Institute of MN 
+02/13/2014 - 15:47:56: new record: 3818: Medicine Lake Bus Co 
+02/13/2014 - 15:47:56: new record: 3303: Medina City of 
+02/13/2014 - 15:47:56: new record: 3704: Mediq Care Inc 
+02/13/2014 - 15:47:56: new record: 5085: MedPro Inc 
+02/13/2014 - 15:47:57: new record: 5310: Melrose Hosp/Pine Villa Care Center 
+02/13/2014 - 15:47:57: new record: 2714: Melrose Telephone Co 
+02/13/2014 - 15:47:57: new record: 5398: Members Cooperative Credit Union 
+02/13/2014 - 15:47:57: new record: 3531: Memorial Blood Center of Mpls 
+02/13/2014 - 15:47:57: new record: 5019: Mendota Heights City of 
+02/13/2014 - 15:47:57: new record: 4816: Mendota Mdwakanton Dakota 
+02/13/2014 - 15:47:57: new record: 3752: Mercury Technologies of MN Inc 
+02/13/2014 - 15:47:57: new record: 3918: Meridian Oil Corp 
+02/13/2014 - 15:47:57: new record: 4457: MESABA Airlines 
+02/13/2014 - 15:47:57: new record: 5767: Mesabi Nugget LLC 
+02/13/2014 - 15:47:57: new record: 2982: Mesabi Trust 
+02/13/2014 - 15:47:57: new record: 4365: Meshbesher & Spence, Ltd. 
+02/13/2014 - 15:47:57: new record: 1639: Metalcasters of MN 
+02/13/2014 - 15:47:57: new record: 3932: MetLife 
+02/13/2014 - 15:47:57: new record: 5025: Metris Co 
+02/13/2014 - 15:47:57: new record: 4411: Metro Cable Channel 6 
+02/13/2014 - 15:47:57: new record: 6098: Metro Meals on Wheels Inc 
+02/13/2014 - 15:47:57: new record: 4911: Metro Treatment of MN 
+02/13/2014 - 15:47:57: new record: 2925: Metro Work Center Inc 
+02/13/2014 - 15:47:57: new record: 4537: Metropolitan Anesthesia Network LLP 
+02/13/2014 - 15:47:57: new record: 4402: Metropolitan Area Agency on Aging Inc 
+02/13/2014 - 15:47:57: new record: 5599: Metropolitan Coalition of Chambers 
+02/13/2014 - 15:47:57: new record: 5591: Metropolitan Dental Management 
+02/13/2014 - 15:47:57: new record: 5165: Metropolitan Federation of Alternative Schools 
+02/13/2014 - 15:47:57: new record: 132: Metropolitan Healthcare 
+02/13/2014 - 15:47:57: new record: 4536: Metropolitan Pharmacy 
+02/13/2014 - 15:47:57: new record: 5130: Metropolitan Radio Board 
+02/13/2014 - 15:47:57: new record: 3899: MF Bank & Co Inc 
+02/13/2014 - 15:47:57: new record: 5928: MGI Pharma Inc 
+02/13/2014 - 15:47:57: new record: 3311: MGM Liquor Warehouse Intl Inc 
+02/13/2014 - 15:47:57: new record: 4158: Michigan Physicians Mutual Liability Co 
+02/13/2014 - 15:47:57: new record: 4138: MicroVoice Applications 
+02/13/2014 - 15:47:57: new record: 4768: MidAmerican Energy Co 
+02/13/2014 - 15:47:57: new record: 5105: Middle St Croix Watershed Organization 
+02/13/2014 - 15:47:57: new record: 4553: Mid-MN Women's Center 
+02/13/2014 - 15:47:57: new record: 4459: Midwest Auto Parts Distributors Inc 
+02/13/2014 - 15:47:57: new record: 4090: Midwest Delivery Service 
+02/13/2014 - 15:47:57: new record: 3062: Midwest Direct Marketing Assn 
+02/13/2014 - 15:47:57: new record: 4039: Midwest Farmworkers Employment & Training Inc 
+02/13/2014 - 15:47:57: new record: 2957: Midwest Gas, a division of Midwest Power Syst 
+02/13/2014 - 15:47:57: new record: 2972: Midwest Health Center for Women 
+02/13/2014 - 15:47:57: new record: 4068: Midwest Information Systems 
+02/13/2014 - 15:47:57: new record: 4229: Midwest Intrst L Lvl Radioactive Waste Comm 
+02/13/2014 - 15:47:57: new record: 5826: Midwest Mountaineering 
+02/13/2014 - 15:47:57: new record: 1855: Midwestern States Fed of Bev Lic 
+02/13/2014 - 15:47:57: new record: 5377: Mille Lacs Landowners 
+02/13/2014 - 15:47:57: new record: 392: Miller & Schroeder Financial Inc 
+02/13/2014 - 15:47:57: new record: 2310: Miller Brewing Co 
+02/13/2014 - 15:47:57: new record: 3692: Miller Dwan Medical Center 
+02/13/2014 - 15:47:57: new record: 6220: Millionaire Greetings 
+02/13/2014 - 15:47:57: new record: 5099: Mills Properties Inc 
+02/13/2014 - 15:47:57: new record: 6298: Miltona Township 
+02/13/2014 - 15:47:57: new record: 3585: Mineral Deposits (Pty Ltd) Inc 
+02/13/2014 - 15:47:57: new record: 3710: Minneapolis Chamber of Commerce 
+02/13/2014 - 15:47:57: new record: 3304: Minneapolis Club 
+02/13/2014 - 15:47:57: new record: 3051: Minneapolis Employees Retirement Fund (MERF) 
+02/13/2014 - 15:47:57: new record: 2754: Minneapolis Federation of Alternative Schools 
+02/13/2014 - 15:47:57: new record: 4899: Minneapolis Fire Dept, Local 82 
+02/13/2014 - 15:47:57: new record: 5768: Minneapolis Hospitality Assn 
+02/13/2014 - 15:47:57: new record: 4233: Minneapolis Jewish Federation 
+02/13/2014 - 15:47:57: new record: 4934: Minneapolis Medical Research Foundation 
+02/13/2014 - 15:47:57: new record: 3494: Minneapolis Pipefitters Local 539 
+02/13/2014 - 15:47:57: new record: 3497: Minneapolis Plumbers Local 15 
+02/13/2014 - 15:47:57: new record: 4799: Minneapolis Professional Employees Assn 
+02/13/2014 - 15:47:57: new record: 4859: Minneapolis Property Rights Action Committee 
+02/13/2014 - 15:47:57: new record: 3690: Minneapolis Public Library Board 
+02/13/2014 - 15:47:57: new record: 5138: Minneapolis Retired Police Officers Assn 
+02/13/2014 - 15:47:57: new record: 4026: Minneapolis Taxi Federation 
+02/13/2014 - 15:47:57: new record: 5898: Minneapolis Taxi Owners Coalition 
+02/13/2014 - 15:47:57: new record: 1301: Minneapolis Teachers Retirement Fund Assn 
+02/13/2014 - 15:47:57: new record: 4475: Minneapolis Urban League 
+02/13/2014 - 15:47:57: new record: 2813: Minneapolis Youth Coordinating Board 
+02/13/2014 - 15:47:57: new record: 4290: Minneapolis YWCA 
+02/13/2014 - 15:47:57: new record: 2983: Minnesotans Against Abusive Gambling 
+02/13/2014 - 15:47:57: new record: 4413: Minnesotans Against Gambling 
+02/13/2014 - 15:47:57: new record: 4049: Minnesotans for a Fuel Alternative 
+02/13/2014 - 15:47:57: new record: 3761: Minnesotans for Accountable Spending & Tax 
+02/13/2014 - 15:47:57: new record: 3037: Minnesotans for Affordable Health Care 
+02/13/2014 - 15:47:57: new record: 5886: Minnesotans for Better Roads & Transit 
+02/13/2014 - 15:47:57: new record: 4700: Minnesotans for HMO Reform Inc 
+02/13/2014 - 15:47:57: new record: 2613: Minnesotans for Improved Juvenile Justice Cr 
+02/13/2014 - 15:47:57: new record: 4162: Minnesotans for Pub Saf Comm Michael Jordan 
+02/13/2014 - 15:47:57: new record: 5547: Minnesotans for Responsible Gaming 
+02/13/2014 - 15:47:57: new record: 3063: Minnesotans for Safe Eye Care 
+02/13/2014 - 15:47:57: new record: 4360: Minnesotans for School Choice 
+02/13/2014 - 15:47:57: new record: 3520: Minnesotans for Term Limits 
+02/13/2014 - 15:47:57: new record: 5476: Minnesotans Instructing Children at Home 
+02/13/2014 - 15:47:57: new record: 3676: Minnesotans Involved in Family Farming 
+02/13/2014 - 15:47:57: new record: 3867: Minnetonka Acres Limited Partnership 
+02/13/2014 - 15:47:57: new record: 4474: Minnetonka Fire Relief Assn 
+02/13/2014 - 15:47:57: new record: 3417: Minnetonka Health Care Center 
+02/13/2014 - 15:47:57: new record: 2581: Mississippi Headwaters Board 
+02/13/2014 - 15:47:57: new record: 5326: MN (State) Pipe Trades 
+02/13/2014 - 15:47:57: new record: 5578: MN Academic Excellence Foundation 
+02/13/2014 - 15:47:57: new record: 5114: MN Accommodation Coalition 
+02/13/2014 - 15:47:57: new record: 3998: MN Aff Ntl Abortion & Reproductive Rights 
+02/13/2014 - 15:47:57: new record: 5083: MN Agro Forestry Cooperative 
+02/13/2014 - 15:47:57: new record: 3830: MN Air Medical Council 
+02/13/2014 - 15:47:57: new record: 6082: MN Airlines LLC d/b/a Sun Country Airlines 
+02/13/2014 - 15:47:57: new record: 3668: MN Airport Ground Transportation Assn 
+02/13/2014 - 15:47:57: new record: 1810: MN Alliance for Arts in Ed 
+02/13/2014 - 15:47:57: new record: 3054: MN Alliance for Fair Competition 
+02/13/2014 - 15:47:57: new record: 2852: MN Alliance for Progressive Action 
+02/13/2014 - 15:47:57: new record: 5780: MN Alliance for Safe Highways 
+02/13/2014 - 15:47:57: new record: 5199: MN Alliance for Telecommunications Competition 
+02/13/2014 - 15:47:57: new record: 3791: MN Alliance of Concerned Dentists 
+02/13/2014 - 15:47:57: new record: 5860: MN Apple Growers Assn 
+02/13/2014 - 15:47:57: new record: 2931: MN Aquafarms Inc 
+02/13/2014 - 15:47:57: new record: 5696: MN Aquarium LLC 
+02/13/2014 - 15:47:57: new record: 3874: MN Arena Limited Partnership 
+02/13/2014 - 15:47:57: new record: 5429: MN Assn for Children's Mental Health 
+02/13/2014 - 15:47:57: new record: 4827: MN Assn for Counseling & Development 
+02/13/2014 - 15:47:57: new record: 2286: MN Assn for Rural Telecommunications 
+02/13/2014 - 15:47:57: new record: 3042: MN Assn for Shared Service Equity 
+02/13/2014 - 15:47:57: new record: 4270: MN Assn of Alternative Programs 
+02/13/2014 - 15:47:57: new record: 3870: MN Assn of Auto Brokers 
+02/13/2014 - 15:47:57: new record: 440: MN Assn of Campground Operators 
+02/13/2014 - 15:47:57: new record: 5338: MN Assn of Community Organizations for Reform Now 
+02/13/2014 - 15:47:57: new record: 4238: MN Assn of Community Rehab Organizations 
+02/13/2014 - 15:47:57: new record: 3989: MN Assn of Credit Unions 
+02/13/2014 - 15:47:57: new record: 4936: MN Assn of Drainage Inspectors 
+02/13/2014 - 15:47:57: new record: 3754: MN Assn of Extension Agents 
+02/13/2014 - 15:47:57: new record: 4446: MN Assn of Home Medical Equipment Services 
+02/13/2014 - 15:47:57: new record: 2227: MN Assn of Local Housing Finance Agencies 
+02/13/2014 - 15:47:57: new record: 3073: MN Assn of Medicaid Rehab Assn 
+02/13/2014 - 15:47:57: new record: 4353: MN Assn of Mortgage Brokers 
+02/13/2014 - 15:47:57: new record: 1377: MN Assn of Mutual Insur Co 
+02/13/2014 - 15:47:57: new record: 5424: MN Assn of Parole Officers 
+02/13/2014 - 15:47:57: new record: 3105: MN Assn of Personnel Services 
+02/13/2014 - 15:47:57: new record: 5850: MN Assn of Plumbing & Mechanical Officials 
+02/13/2014 - 15:47:57: new record: 4501: MN Assn of Private Detectives 
+02/13/2014 - 15:47:57: new record: 4516: MN Assn of Problem Gambling 
+02/13/2014 - 15:47:57: new record: 2700: MN Assn of Prof Appraisers 
+02/13/2014 - 15:47:57: new record: 2610: MN Assn of Reg Develop Org 
+02/13/2014 - 15:47:57: new record: 1608: MN Assn of Rehab Facilities 
+02/13/2014 - 15:47:57: new record: 2792: MN Assn of Rental Dealers 
+02/13/2014 - 15:47:57: new record: 5573: MN Assn of Tanning Salons 
+02/13/2014 - 15:47:57: new record: 2964: MN Assn of Urban Counties 
+02/13/2014 - 15:47:57: new record: 4198: MN Atheists 
+02/13/2014 - 15:47:57: new record: 4594: MN Audubon Council 
+02/13/2014 - 15:47:57: new record: 2831: MN Auto Rebuilders Assn 
+02/13/2014 - 15:47:57: new record: 1607: MN Automatic Merchandising Council 
+02/13/2014 - 15:47:57: new record: 3541: MN Biotechnolgy Assn 
+02/13/2014 - 15:47:57: new record: 6289: MN Board of Teaching 
+02/13/2014 - 15:47:57: new record: 5822: MN Book and Literary Arts Building Inc (d/b/a Open Book) 
+02/13/2014 - 15:47:57: new record: 4767: MN Brewing Co 
+02/13/2014 - 15:47:57: new record: 2390: MN Business Educators Inc 
+02/13/2014 - 15:47:57: new record: 4345: MN Business Finance Inc 
+02/13/2014 - 15:47:57: new record: 3485: MN Business Network 
+02/13/2014 - 15:47:57: new record: 6233: MN Business Policyholder Coalition 
+02/13/2014 - 15:47:57: new record: 1800: MN Business Utilities Users Council 
+02/13/2014 - 15:47:57: new record: 6331: MN Campus Compact 
+02/13/2014 - 15:47:57: new record: 3129: MN Cemetery Assn 
+02/13/2014 - 15:47:57: new record: 4456: MN Chapter Natl Assn of Ped Nurse Assts & Practitioners 
+02/13/2014 - 15:47:57: new record: 5764: MN Check Cashers Assn 
+02/13/2014 - 15:47:57: new record: 3659: MN Chemical Technology Alliance 
+02/13/2014 - 15:47:57: new record: 2493: MN Childrens Advocates Inc 
+02/13/2014 - 15:47:57: new record: 5919: MN Childrens Platform Coalition 
+02/13/2014 - 15:47:57: new record: 4504: MN Christian Coalition 
+02/13/2014 - 15:47:57: new record: 1995: MN Citizens for Animal Care (MCAC) 
+02/13/2014 - 15:47:57: new record: 3767: MN Citizens for Limited Legislative Terms 
+02/13/2014 - 15:47:57: new record: 4372: MN Coalition for Biomedical and Human Serv 
+02/13/2014 - 15:47:57: new record: 4025: MN Coalition of Responsible Retailers 
+02/13/2014 - 15:47:57: new record: 3925: MN Coalition of Sexual Assault Services 
+02/13/2014 - 15:47:57: new record: 2821: MN Comm for Prevention/Child Abuse 
+02/13/2014 - 15:47:57: new record: 4706: MN Community College Faculty Assn 
+02/13/2014 - 15:47:57: new record: 3990: MN Community Financial Services Center 
+02/13/2014 - 15:47:57: new record: 3615: MN Concerned Citizens for Radiation Safety 
+02/13/2014 - 15:47:57: new record: 2385: MN Concrete Products Assn (MCPA) 
+02/13/2014 - 15:47:57: new record: 3612: MN Conference of Catholic Health Facilities 
+02/13/2014 - 15:47:57: new record: 2619: MN Conservation Officers Assn (MCOA) 
+02/13/2014 - 15:47:57: new record: 4368: MN Consumer Alliance 
+02/13/2014 - 15:47:57: new record: 4591: MN Consumer Health Care Council Inc 
+02/13/2014 - 15:47:57: new record: 3723: MN Consumer Towing Assn 
+02/13/2014 - 15:47:57: new record: 2558: MN Cooperation Off for Sm Bus & JC 
+02/13/2014 - 15:47:57: new record: 2997: MN Council for Quality 
+02/13/2014 - 15:47:57: new record: 6158: MN Council of Churches 
+02/13/2014 - 15:47:57: new record: 4312: MN Council of Dog Clubs 
+02/13/2014 - 15:47:57: new record: 1500: MN Council of Paint & Dec Contractors 
+02/13/2014 - 15:47:57: new record: 4224: MN Council on Compulsive Gambling 
+02/13/2014 - 15:47:57: new record: 4579: MN Council on Economic Education 
+02/13/2014 - 15:47:57: new record: 4142: MN County Engineers Assn 
+02/13/2014 - 15:47:57: new record: 3275: MN Courier/Cartage Assn Inc 
+02/13/2014 - 15:47:57: new record: 5172: MN Craft Brewers Guild 
+02/13/2014 - 15:47:57: new record: 3879: MN Creative Services Coalition 
+02/13/2014 - 15:47:57: new record: 5835: MN Credit Card Coalition 
+02/13/2014 - 15:47:57: new record: 5076: MN Crop Improvement Assn 
+02/13/2014 - 15:47:57: new record: 3902: MN Currency Exchange 
+02/13/2014 - 15:47:57: new record: 503: MN Dakotas Retail Hardware Assn 
+02/13/2014 - 15:47:57: new record: 4022: MN DARE Inc 
+02/13/2014 - 15:47:57: new record: 2144: MN Darkhouse & Angling 
+02/13/2014 - 15:47:57: new record: 3706: MN Deer Farmers Assn 
+02/13/2014 - 15:47:57: new record: 2900: MN Defense Lawyers Assn 
+02/13/2014 - 15:47:57: new record: 6903: MN Dense Breast Coalition 
+02/13/2014 - 15:47:57: new record: 1154: MN Deputy Registrars Assn 
+02/13/2014 - 15:47:57: new record: 4153: MN Disability Law Center, div of Mid-MN Legal Assistance 
+02/13/2014 - 15:47:57: new record: 3635: MN Diversified Industries 
+02/13/2014 - 15:47:57: new record: 4257: MN Drywall Council 
+02/13/2014 - 15:47:57: new record: 3447: MN Education Cooperative Network 
+02/13/2014 - 15:47:57: new record: 5566: MN Education League 
+02/13/2014 - 15:47:57: new record: 1952: MN Education Media Organization (MEMO) 
+02/13/2014 - 15:47:57: new record: 3125: MN Emergency Medical Services Assn 
+02/13/2014 - 15:47:57: new record: 3569: MN Employee Executive Team 
+02/13/2014 - 15:47:57: new record: 3002: MN Energy Consumers (MEC) 
+02/13/2014 - 15:47:57: new record: 3736: MN Environmental Fund 
+02/13/2014 - 15:47:57: new record: 3636: MN Environmental Health Assn 
+02/13/2014 - 15:47:57: new record: 2889: MN Equal Access Network Services Inc 
+02/13/2014 - 15:47:57: new record: 3043: MN Fair Share Inc 
+02/13/2014 - 15:47:57: new record: 3722: MN Fair Trade Coalition 
+02/13/2014 - 15:47:57: new record: 1990: MN Family Institute 
+02/13/2014 - 15:47:57: new record: 3196: MN Federated Humane Society 
+02/13/2014 - 15:47:58: new record: 4726: MN Federation of Professional Employees/AFT 
+02/13/2014 - 15:47:58: new record: 4734: MN Festival & Events Assn 
+02/13/2014 - 15:47:58: new record: 5879: MN Financial Crimes Task Force (MNFCTF) 
+02/13/2014 - 15:47:58: new record: 2348: MN Fire Chiefs Assn 
+02/13/2014 - 15:47:58: new record: 1830: MN Found for Better Hearing & Speech 
+02/13/2014 - 15:47:58: new record: 4410: MN Freelance Court Reporters Assn 
+02/13/2014 - 15:47:58: new record: 3144: MN Friends of Public Education 
+02/13/2014 - 15:47:58: new record: 2642: MN Fulfillment Assn 
+02/13/2014 - 15:47:58: new record: 5051: MN Gaming Distributors Assn 
+02/13/2014 - 15:47:58: new record: 4291: MN General Crime Victims Coalition 
+02/13/2014 - 15:47:58: new record: 6071: MN Girls Academy 
+02/13/2014 - 15:47:58: new record: 2015: MN Glass Assn 
+02/13/2014 - 15:47:58: new record: 5384: MN Golf Course Owners Assn 
+02/13/2014 - 15:47:58: new record: 4770: MN Head Start Assn 
+02/13/2014 - 15:47:58: new record: 4035: MN Health Data Institute 
+02/13/2014 - 15:47:58: new record: 809: MN Health Information 
+02/13/2014 - 15:47:58: new record: 3855: MN Health PA 
+02/13/2014 - 15:47:58: new record: 2969: MN Healthcare Partners Inc 
+02/13/2014 - 15:47:58: new record: 520: MN Hearing Aid Society 
+02/13/2014 - 15:47:58: new record: 3516: MN Home Therapeutics Inc 
+02/13/2014 - 15:47:58: new record: 5279: MN Homeowners Alliance 
+02/13/2014 - 15:47:58: new record: 3239: MN Hospitality Council 
+02/13/2014 - 15:47:58: new record: 3614: MN Hotel & Lodging Assn 
+02/13/2014 - 15:47:58: new record: 2626: MN Humane Society 
+02/13/2014 - 15:47:58: new record: 5371: MN Independent Auto Glass Assn 
+02/13/2014 - 15:47:58: new record: 3787: MN Independent Health Care Providers Coal 
+02/13/2014 - 15:47:58: new record: 3967: MN Independent Pay Phone Assn 
+02/13/2014 - 15:47:58: new record: 5440: MN Indian Economic Development Fund 
+02/13/2014 - 15:47:58: new record: 2946: MN Industrial Containment Facility Inc 
+02/13/2014 - 15:47:58: new record: 4538: MN Information and Referral Alliance 
+02/13/2014 - 15:47:58: new record: 5193: MN Initiative Supporting Standards-based Learning and Education 
+02/13/2014 - 15:47:58: new record: 4152: MN Institute of Public Health 
+02/13/2014 - 15:47:58: new record: 2616: MN Insurance Co 
+02/13/2014 - 15:47:58: new record: 5096: MN Intellectual Property Law Assn Inc 
+02/13/2014 - 15:47:58: new record: 4412: MN Interdistrict Directors of Special Education 
+02/13/2014 - 15:47:58: new record: 2135: MN Interior Design Legislative Comm (ASID) 
+02/13/2014 - 15:47:58: new record: 4448: MN International Center 
+02/13/2014 - 15:47:58: new record: 4472: MN Internet Services 
+02/13/2014 - 15:47:58: new record: 3790: MN Investment Partners 
+02/13/2014 - 15:47:58: new record: 4862: MN Iron & Steel Co 
+02/13/2014 - 15:47:58: new record: 3707: MN IUI Legislative Coalition 
+02/13/2014 - 15:47:58: new record: 894: MN Jewelers Assn 
+02/13/2014 - 15:47:58: new record: 2138: MN Jobs With Peace Campaign 
+02/13/2014 - 15:47:58: new record: 1045: MN Joint Media Committee 
+02/13/2014 - 15:47:58: new record: 3949: MN Laborers Employers Coop & Educ Trust 
+02/13/2014 - 15:47:58: new record: 3680: MN Labor-Mgmt Environmental Coalition 
+02/13/2014 - 15:47:58: new record: 3997: MN Land Owners Assn 
+02/13/2014 - 15:47:58: new record: 5241: MN Lathing & Plastering Bureau 
+02/13/2014 - 15:47:58: new record: 3427: MN Lawful Gaming Distributors Assn 
+02/13/2014 - 15:47:58: new record: 3459: MN Lawyers Intl Human Rights Cmte 
+02/13/2014 - 15:47:58: new record: 531: MN League of Credit Unions 
+02/13/2014 - 15:47:58: new record: 789: MN League of Savings & Community Bankers 
+02/13/2014 - 15:47:58: new record: 2755: MN Licensed Psychologists 
+02/13/2014 - 15:47:58: new record: 5213: MN Life Committee 
+02/13/2014 - 15:47:58: new record: 4843: MN Literacy Council Inc 
+02/13/2014 - 15:47:58: new record: 3833: MN Logo Sign Group 
+02/13/2014 - 15:47:58: new record: 4307: MN Long-Term Care Pharmacy Coalition 
+02/13/2014 - 15:47:58: new record: 3906: MN Masonic Home 
+02/13/2014 - 15:47:58: new record: 2612: MN McDonald's Independent Owner/Oper 
+02/13/2014 - 15:47:58: new record: 2532: MN Metro Senior Federation 
+02/13/2014 - 15:47:58: new record: 2367: MN Motor Carriers Inc 
+02/13/2014 - 15:47:58: new record: 1198: MN Motorcycle Riders Assn 
+02/13/2014 - 15:47:58: new record: 2209: MN Motorsports Volunteers 
+02/13/2014 - 15:47:58: new record: 3361: MN Multiple Sclerosis Soc 
+02/13/2014 - 15:47:58: new record: 5512: MN Native Wildflower/Grass Producers Assn 
+02/13/2014 - 15:47:58: new record: 4844: MN Natl Guard Enlisted Assn (MNEGA) 
+02/13/2014 - 15:47:58: new record: 4380: MN Natural Health Coalition Action Network 
+02/13/2014 - 15:47:58: new record: 4925: MN Natural Health-Legal Reform Project 
+02/13/2014 - 15:47:58: new record: 4141: MN Obstetrical & Gynecological Society 
+02/13/2014 - 15:47:58: new record: 5233: MN Opp Ind Ctr 
+02/13/2014 - 15:47:58: new record: 3815: MN Opticians Society 
+02/13/2014 - 15:47:58: new record: 2861: MN Org for Vocational Education 
+02/13/2014 - 15:47:58: new record: 4016: MN Organization for Vocational Education 
+02/13/2014 - 15:47:58: new record: 1127: MN Osteopathic Medical Society 
+02/13/2014 - 15:47:58: new record: 3218: MN Paralegal Assn 
+02/13/2014 - 15:47:58: new record: 3859: MN Pawnbrokers Assn 
+02/13/2014 - 15:47:58: new record: 3524: MN PERA Police & Fire Pension Fund Assn 
+02/13/2014 - 15:47:58: new record: 6231: MN Perfusion Society 
+02/13/2014 - 15:47:58: new record: 4171: MN Pest Control Assn 
+02/13/2014 - 15:47:58: new record: 3445: MN Pet Supply Assn 
+02/13/2014 - 15:47:58: new record: 2737: MN Petroleum Council 
+02/13/2014 - 15:47:58: new record: 4574: MN Physician - Patient Alliance 
+02/13/2014 - 15:47:58: new record: 2204: MN Police Pension Council 
+02/13/2014 - 15:47:58: new record: 4077: MN Portable Restroom Operators 
+02/13/2014 - 15:47:58: new record: 47: MN Project 
+02/13/2014 - 15:47:58: new record: 4476: MN Project Innovation 
+02/13/2014 - 15:47:58: new record: 5993: MN Property Tax Reform LLC 
+02/13/2014 - 15:47:58: new record: 1803: MN Psychologists in Priv Practice 
+02/13/2014 - 15:47:58: new record: 3475: MN PTA/PTSA 
+02/13/2014 - 15:47:58: new record: 3365: MN Public Lobby 
+02/13/2014 - 15:47:58: new record: 1653: MN Public Television Assn 
+02/13/2014 - 15:47:58: new record: 2229: MN Quarter Horse Racing Assn 
+02/13/2014 - 15:47:58: new record: 4666: MN Real Estate Services Assn 
+02/13/2014 - 15:47:58: new record: 3579: MN Recreation Coalition 
+02/13/2014 - 15:47:58: new record: 3597: MN Regional Development Organization 
+02/13/2014 - 15:47:58: new record: 3613: MN Resort Assn 
+02/13/2014 - 15:47:58: new record: 5546: MN Responsible Property Investors - MRPI 
+02/13/2014 - 15:47:58: new record: 1782: MN Retail Alliance 
+02/13/2014 - 15:47:58: new record: 4416: MN Right to Housing Campaign 
+02/13/2014 - 15:47:58: new record: 6196: MN Rural Health Cooperative 
+02/13/2014 - 15:47:58: new record: 583: MN Secured Transaction Reports Inc 
+02/13/2014 - 15:47:58: new record: 3096: MN Senior Federation 
+02/13/2014 - 15:47:58: new record: 3650: MN Service Cooperative 7 
+02/13/2014 - 15:47:58: new record: 3505: MN Service Cooperative 9 
+02/13/2014 - 15:47:58: new record: 5402: MN Service Cooperatives 
+02/13/2014 - 15:47:58: new record: 9: MN Services Cooperative 
+02/13/2014 - 15:47:58: new record: 6038: MN Shubert Performing Arts & Education Center 
+02/13/2014 - 15:47:58: new record: 3814: MN SILS Providers 
+02/13/2014 - 15:47:58: new record: 3584: MN Smoke-Free Coalition 
+02/13/2014 - 15:47:58: new record: 6897: MN Society of Interventional Pain Physicians 
+02/13/2014 - 15:47:58: new record: 6018: MN Society of Pathologists 
+02/13/2014 - 15:47:58: new record: 4531: MN Solutions 
+02/13/2014 - 15:47:58: new record: 5773: MN Soybean Processors 
+02/13/2014 - 15:47:58: new record: 5111: MN Specialty Physicians Inc 
+02/13/2014 - 15:47:58: new record: 1994: MN Sportfishing Congress (MSC) 
+02/13/2014 - 15:47:58: new record: 5865: MN Sports & Entertainment 
+02/13/2014 - 15:47:58: new record: 3404: MN State Academies for the Deaf/Blind 
+02/13/2014 - 15:47:58: new record: 634: MN State Automobile Assn (AAA) 
+02/13/2014 - 15:47:58: new record: 1711: MN State Band 
+02/13/2014 - 15:47:58: new record: 2375: MN State Bowling Proprietors Assn 
+02/13/2014 - 15:47:58: new record: 4042: MN State Colleges and Universities 
+02/13/2014 - 15:47:58: new record: 3221: MN State Patrol Supervisors Assn 
+02/13/2014 - 15:47:58: new record: 1295: MN State Sheriffs Assn 
+02/13/2014 - 15:47:58: new record: 2995: MN Super Bowl Task Force 
+02/13/2014 - 15:47:58: new record: 5020: MN Talented Youth Math Project 
+02/13/2014 - 15:47:58: new record: 4682: MN Taxpayers in Exile 
+02/13/2014 - 15:47:58: new record: 3229: MN Tech College Student Assn 
+02/13/2014 - 15:47:58: new record: 4149: MN Technical Services Assn 
+02/13/2014 - 15:47:58: new record: 2167: MN Technology Corridor Corp 
+02/13/2014 - 15:47:58: new record: 4960: MN Tenants Network 
+02/13/2014 - 15:47:58: new record: 4509: MN Tenants Union 
+02/13/2014 - 15:47:58: new record: 969: MN Thoroughbred Assn 
+02/13/2014 - 15:47:58: new record: 3786: MN Thoroughbred Assn 
+02/13/2014 - 15:47:58: new record: 4733: MN Tobacco Store Assn Inc 
+02/13/2014 - 15:47:58: new record: 5160: MN Trail Hounds Assn 
+02/13/2014 - 15:47:58: new record: 2930: MN Transfer System (MTS) 
+02/13/2014 - 15:47:58: new record: 4985: MN Transit Constructors 
+02/13/2014 - 15:47:58: new record: 3082: MN Transporation Group 
+02/13/2014 - 15:47:58: new record: 4223: MN Valley Alfalfa Producers 
+02/13/2014 - 15:47:58: new record: 3465: MN Valley Transit Authority 
+02/13/2014 - 15:47:58: new record: 4031: MN Wall & Ceiling Contractors Assn 
+02/13/2014 - 15:47:58: new record: 2731: MN Waste Assn (MWA) 
+02/13/2014 - 15:47:58: new record: 4699: MN Water Fowl Assn 
+02/13/2014 - 15:47:58: new record: 4638: MN Water Quality Assn 
+02/13/2014 - 15:47:58: new record: 4629: MN Waters (fka MN Lakes Assn) 
+02/13/2014 - 15:47:58: new record: 3827: MN Weapon Collector Assn 
+02/13/2014 - 15:47:58: new record: 2145: MN Wellspring 
+02/13/2014 - 15:47:58: new record: 1725: MN Wholesale Druggists Assn 
+02/13/2014 - 15:47:58: new record: 5475: MN Wind Energy Assn 
+02/13/2014 - 15:47:58: new record: 999: MN Wins 
+02/13/2014 - 15:47:58: new record: 6223: MN Wire 
+02/13/2014 - 15:47:58: new record: 3551: MN Wood Promotion Council 
+02/13/2014 - 15:47:58: new record: 6015: MN Youth Services Assn 
+02/13/2014 - 15:47:58: new record: 4971: MN Youth Soccer Assn 
+02/13/2014 - 15:47:58: new record: 3295: Mocol Truck Line Assn 
+02/13/2014 - 15:47:58: new record: 5741: Modular Building Systems Assn 
+02/13/2014 - 15:47:58: new record: 6300: Moe Township 
+02/13/2014 - 15:47:58: new record: 4486: Money Centers Inc 
+02/13/2014 - 15:47:58: new record: 5077: Monticello-Big Lake Community Hospital 
+02/13/2014 - 15:47:58: new record: 4009: Monumental General Insurance Group 
+02/13/2014 - 15:47:58: new record: 155: Moorhead Chamber of Commerce 
+02/13/2014 - 15:47:58: new record: 5504: Moorhead Firefighters Local 1323 
+02/13/2014 - 15:47:58: new record: 4544: Moose Intl Loyal Order of Moose 
+02/13/2014 - 15:47:58: new record: 5661: Moravian Care Ministries 
+02/13/2014 - 15:47:58: new record: 5287: Morgan Stanley Investment Mgmt 
+02/13/2014 - 15:47:58: new record: 5572: Morris Campus Student Assn 
+02/13/2014 - 15:47:58: new record: 4145: Morris City of 
+02/13/2014 - 15:47:58: new record: 403: Mortgage Assn of MN dba Mortgage Bankers Assn of MN 
+02/13/2014 - 15:47:58: new record: 4498: Mortgage Insurance Companies of America 
+02/13/2014 - 15:47:58: new record: 6003: Morton Grove Pharmaceuticals 
+02/13/2014 - 15:47:58: new record: 5303: Mother of Mercy Nursing Home 
+02/13/2014 - 15:47:58: new record: 2211: Mothers Against Drunk Driving (MADD) 
+02/13/2014 - 15:47:58: new record: 1827: Motorcycle Industry Council Inc 
+02/13/2014 - 15:47:58: new record: 5958: Mounds View Public Schools 
+02/13/2014 - 15:47:58: new record: 4563: Mount Olivet Rolling Acres 
+02/13/2014 - 15:47:58: new record: 3938: MP Large Light and Power Group 
+02/13/2014 - 15:47:58: new record: 5407: Mpls/St Paul Intl Airport Cab Drivers Assn 
+02/13/2014 - 15:47:58: new record: 4259: Mr Movies 
+02/13/2014 - 15:47:58: new record: 6116: MSI Systems Integrators 
+02/13/2014 - 15:47:58: new record: 4335: MSP Real Estate Services Inc 
+02/13/2014 - 15:47:58: new record: 5336: Multi-Gaming Management Inc 
+02/13/2014 - 15:47:58: new record: 6060: Multimedia Games Inc 
+02/13/2014 - 15:47:58: new record: 4143: Multiple Sclerosis Society 
+02/13/2014 - 15:47:58: new record: 3800: Municipal Parking Inc 
+02/13/2014 - 15:47:58: new record: 3323: Municipal Service Corp 
+02/13/2014 - 15:47:58: new record: 6329: Museum of Russian Arts 
+02/13/2014 - 15:47:58: new record: 4915: Music to Our Ears 
+02/13/2014 - 15:47:58: new record: 3810: Mutual Protective & Medico Life Insurance Co 
+02/13/2014 - 15:47:58: new record: 414: Mutual Service Insurance Co 
+02/13/2014 - 15:47:58: new record: 5849: MV Transportation Inc 
+02/13/2014 - 15:47:58: new record: 4196: NACM North Central (Natl Assn of Credit Mgmt) 
+02/13/2014 - 15:47:58: new record: 6081: NAPSAC 
+02/13/2014 - 15:47:58: new record: 2906: Natl Assn for Plastic Container Recovery 
+02/13/2014 - 15:47:58: new record: 2914: Natl Assn of Fundraising Ticket Manfg 
+02/13/2014 - 15:47:58: new record: 5779: Natl Assn of Home Inspectors Inc 
+02/13/2014 - 15:47:58: new record: 1816: Natl Assn of Housing & Redevelopment Officials 
+02/13/2014 - 15:47:58: new record: 4924: Natl Assn of Lottery Purchasers 
+02/13/2014 - 15:47:58: new record: 3313: Natl Assn of Security Companies Inc 
+02/13/2014 - 15:47:58: new record: 3620: Natl Assn of Temporary Services of MN 
+02/13/2014 - 15:47:58: new record: 2653: Natl Assn of Theatre Owners of MN 
+02/13/2014 - 15:47:58: new record: 3076: Natl Audubon Society 
+02/13/2014 - 15:47:58: new record: 4348: Natl Auto/Truckstops Inc 
+02/13/2014 - 15:47:58: new record: 5329: Natl Benefits, TSA Co 
+02/13/2014 - 15:47:58: new record: 2596: Natl Board of Fur Farm Orgs 
+02/13/2014 - 15:47:58: new record: 6044: Natl Confectioners Assn 
+02/13/2014 - 15:47:58: new record: 5986: Natl Council to Prevent Delinquency 
+02/13/2014 - 15:47:58: new record: 3734: Natl Electrical Manufacturers Assn-Batteries 
+02/13/2014 - 15:47:58: new record: 2709: Natl Electrical Manufacturers Assn-Lamps 
+02/13/2014 - 15:47:58: new record: 548: Natl Farmers Organization-MN 
+02/13/2014 - 15:47:58: new record: 638: Natl Fed of the Blind-MN Chapter 
+02/13/2014 - 15:47:58: new record: 4467: Natl Federation of Independent Business / MN 
+02/13/2014 - 15:47:58: new record: 5557: Natl Field Selling Assn 
+02/13/2014 - 15:47:58: new record: 3471: Natl Football League 
+02/13/2014 - 15:47:58: new record: 4261: Natl Paint & Coatings Assn 
+02/13/2014 - 15:47:59: new record: 3685: Natl School Bus Service Inc 
+02/13/2014 - 15:47:59: new record: 4437: Natl Solid Wastes Management Assn 
+02/13/2014 - 15:47:59: new record: 3457: Natl Steel Corp 
+02/13/2014 - 15:47:59: new record: 4880: Natl Structured Settlements Trade Assn 
+02/13/2014 - 15:47:59: new record: 4496: Natl Telephone Communications 
+02/13/2014 - 15:47:59: new record: 3653: Natl Title Resources Corp 
+02/13/2014 - 15:47:59: new record: 2391: Natl Vehicle Leasing Assn 
+02/13/2014 - 15:47:59: new record: 5795: Natl Vehicle Protection Assn 
+02/13/2014 - 15:47:59: new record: 4407: Natl Wholesale Druggists Assn 
+02/13/2014 - 15:47:59: new record: 4752: Nature Vision Inc 
+02/13/2014 - 15:47:59: new record: 5220: NAVITAS 
+02/13/2014 - 15:47:59: new record: 4482: NCS Pearson 
+02/13/2014 - 15:47:59: new record: 3040: NE Entrepreneur Fund Inc 
+02/13/2014 - 15:47:59: new record: 4007: NE Entrepreneurer Fund 
+02/13/2014 - 15:47:59: new record: 629: NE MN Development Assn 
+02/13/2014 - 15:47:59: new record: 4987: Neerland & Oyaas Inc 
+02/13/2014 - 15:47:59: new record: 996: Neighborhood Employment Network 
+02/13/2014 - 15:47:59: new record: 4821: Neighborhood Health Care Network 
+02/13/2014 - 15:47:59: new record: 5148: Neighborhood House 
+02/13/2014 - 15:47:59: new record: 2904: Network Computing Services Inc 
+02/13/2014 - 15:47:59: new record: 5581: New Ball Park Inc 
+02/13/2014 - 15:47:59: new record: 5455: New Beginnings 
+02/13/2014 - 15:47:59: new record: 4499: New Brighton Care Center 
+02/13/2014 - 15:47:59: new record: 4485: New Chance 
+02/13/2014 - 15:47:59: new record: 4277: New England Fertilizer Co 
+02/13/2014 - 15:47:59: new record: 3369: New Horizon Child Care Inc 
+02/13/2014 - 15:47:59: new record: 3605: New London Nursing Home Inc 
+02/13/2014 - 15:47:59: new record: 6163: New Majority Project 
+02/13/2014 - 15:47:59: new record: 3513: New Money Express Inc 
+02/13/2014 - 15:47:59: new record: 5730: New York Life Investment Mgmt LLC 
+02/13/2014 - 15:47:59: new record: 5917: Next Frontier LLC 
+02/13/2014 - 15:47:59: new record: 3472: Nichols/Conlan Financial Co 
+02/13/2014 - 15:47:59: new record: 3880: Nico Products Inc 
+02/13/2014 - 15:47:59: new record: 3419: NILE Health Care Center 
+02/13/2014 - 15:47:59: new record: 5248: No St Paul-Maplewood-Oakdale Educ Assn 
+02/13/2014 - 15:47:59: new record: 4926: Nobles County 
+02/13/2014 - 15:47:59: new record: 4606: Nokomis Pork Inc 
+02/13/2014 - 15:47:59: new record: 3883: Nonprescription Drug Manufacturers Assn 
+02/13/2014 - 15:47:59: new record: 4285: Noram Energy Management   (see Mn Entertnmt.Dvlpmt.Corp) 
+02/13/2014 - 15:47:59: new record: 3887: Noreen, Roger 
+02/13/2014 - 15:47:59: new record: 649: Norhaven Inc 
+02/13/2014 - 15:47:59: new record: 3954: Norlight Telecommunications Inc 
+02/13/2014 - 15:47:59: new record: 4922: Normandy Hotel 
+02/13/2014 - 15:47:59: new record: 3825: Norris Education Innovations Inc 
+02/13/2014 - 15:47:59: new record: 3409: Norstan Network Services Inc 
+02/13/2014 - 15:47:59: new record: 4297: Norstar Power, LLC 
+02/13/2014 - 15:47:59: new record: 5800: North American Wetland Engineering LLC 
+02/13/2014 - 15:47:59: new record: 653: North Central Life Insurance Co 
+02/13/2014 - 15:47:59: new record: 2728: North Hennepin Chamber of Commerce 
+02/13/2014 - 15:47:59: new record: 4773: North Metro Highway 100 Council 
+02/13/2014 - 15:47:59: new record: 6174: North Metro Sheriffs Assn 
+02/13/2014 - 15:47:59: new record: 5058: North Metro Telecommunications Commission (NMTC) 
+02/13/2014 - 15:47:59: new record: 5205: North Metro Th 10 Corridor Coalition 
+02/13/2014 - 15:47:59: new record: 3026: North Star Steel Co 
+02/13/2014 - 15:47:59: new record: 4866: North Suburban Area Chamber of Commerce 
+02/13/2014 - 15:47:59: new record: 4066: North Suburban Cable Commission 
+02/13/2014 - 15:47:59: new record: 5918: Northcountry Cooperative Development Fund 
+02/13/2014 - 15:47:59: new record: 4221: Northeast Entrepreneur Fund Inc 
+02/13/2014 - 15:47:59: new record: 2384: Northeast Metro 916 Intermediate School Dist 
+02/13/2014 - 15:47:59: new record: 4740: Northeast Quadrant 
+02/13/2014 - 15:47:59: new record: 5662: Northern American Insulation Mfgs Assn 
+02/13/2014 - 15:47:59: new record: 3849: Northern Counties Land Use Coordinating Board 
+02/13/2014 - 15:47:59: new record: 4696: Northern Hospitality 
+02/13/2014 - 15:47:59: new record: 5006: Northern Itasca Health Care Center 
+02/13/2014 - 15:47:59: new record: 297: Northern MN Utilities 
+02/13/2014 - 15:47:59: new record: 6183: Northfield Fire Relief Assn 
+02/13/2014 - 15:47:59: new record: 3428: Northland Foundation 
+02/13/2014 - 15:47:59: new record: 5232: Northome City of 
+02/13/2014 - 15:47:59: new record: 663: Northwest Airlines Inc 
+02/13/2014 - 15:47:59: new record: 5357: Northwest Corridor Partnership 
+02/13/2014 - 15:47:59: new record: 5853: Northwest MN Foundation 
+02/13/2014 - 15:47:59: new record: 1022: Northwestern Lumber Assn Inc 
+02/13/2014 - 15:47:59: new record: 3809: Northwoods Audubon Center Inc 
+02/13/2014 - 15:47:59: new record: 5843: NorthWrite Inc 
+02/13/2014 - 15:47:59: new record: 3241: Novartis Crop Protection Inc 
+02/13/2014 - 15:47:59: new record: 2981: Novartis Seeds Inc 
+02/13/2014 - 15:47:59: new record: 5909: Novell Inc 
+02/13/2014 - 15:47:59: new record: 5868: NTN Buzztime Inc 
+02/13/2014 - 15:47:59: new record: 3334: NutriSystem Inc 
+02/13/2014 - 15:47:59: new record: 5201: Nutrition Services Inc 
+02/13/2014 - 15:47:59: new record: 2691: N-Viro Resources 
+02/13/2014 - 15:47:59: new record: 662: NW Agri-Dealers Assn Inc 
+02/13/2014 - 15:47:59: new record: 2921: NW MN Emerg Med Serv Corp 
+02/13/2014 - 15:47:59: new record: 5064: NW Monument Builders Assn 
+02/13/2014 - 15:47:59: new record: 671: NW Tobacco & Candy Assn 
+02/13/2014 - 15:47:59: new record: 3332: NWC Limited Partnership 
+02/13/2014 - 15:47:59: new record: 3372: NWNL Health Network 
+02/13/2014 - 15:47:59: new record: 3950: Oak Grove Sanitary Landfill Site Trust Comm 
+02/13/2014 - 15:47:59: new record: 4284: Oakgrove Landfill Trust 
+02/13/2014 - 15:47:59: new record: 3538: Oberdorfer, Daniel 
+02/13/2014 - 15:47:59: new record: 5592: Oberthur Gaming Technologies 
+02/13/2014 - 15:47:59: new record: 3757: Occupational Healthcare Management Services 
+02/13/2014 - 15:47:59: new record: 2620: Ochs Services Inc 
+02/13/2014 - 15:47:59: new record: 3910: Ogden Entertainment Group 
+02/13/2014 - 15:47:59: new record: 4231: Oglebay Norton Co 
+02/13/2014 - 15:47:59: new record: 4469: Oleo Inc 
+02/13/2014 - 15:47:59: new record: 3470: Olson, Richard G 
+02/13/2014 - 15:47:59: new record: 5991: Omnicare Inc 
+02/13/2014 - 15:47:59: new record: 4970: Opponents of a Unicameral House (OUCH) 
+02/13/2014 - 15:47:59: new record: 4681: OPUS Northwest LLC 
+02/13/2014 - 15:47:59: new record: 4865: Orphan Medical 
+02/13/2014 - 15:47:59: new record: 2156: Osseo Federation of Teachers 
+02/13/2014 - 15:47:59: new record: 2818: Otsego City-Wright County 
+02/13/2014 - 15:47:59: new record: 5739: Our Children Our Future 
+02/13/2014 - 15:47:59: new record: 4803: Outdoor Amusement Business Assn Inc 
+02/13/2014 - 15:47:59: new record: 5971: Outland Renewable Energy 
+02/13/2014 - 15:47:59: new record: 4343: Owatonna Housing and Redevelopment Authority 
+02/13/2014 - 15:47:59: new record: 4596: PAB Genetic Transfer, LLC 
+02/13/2014 - 15:47:59: new record: 3753: PAC TAX 
+02/13/2014 - 15:47:59: new record: 5949: Pacific Flats LLC 
+02/13/2014 - 15:47:59: new record: 6904: Packaging Corporation of America 
+02/13/2014 - 15:47:59: new record: 3842: Paisley Park Enterprises 
+02/13/2014 - 15:47:59: new record: 5548: Paradies Shops 
+02/13/2014 - 15:47:59: new record: 997: Parents In Community Action 
+02/13/2014 - 15:47:59: new record: 5453: Parents United Network 
+02/13/2014 - 15:47:59: new record: 5346: PAREO 
+02/13/2014 - 15:47:59: new record: 4132: Park Glen Natl Insurance Co 
+02/13/2014 - 15:47:59: new record: 4945: Parke Davis, a div of Warner Lambert 
+02/13/2014 - 15:47:59: new record: 4732: Parker Hughes Institute 
+02/13/2014 - 15:47:59: new record: 5560: Partnership for Choice in Education 
+02/13/2014 - 15:47:59: new record: 5583: Partnership for Mercury Free Vehicles 
+02/13/2014 - 15:47:59: new record: 3894: Paster Enterprises 
+02/13/2014 - 15:47:59: new record: 4361: Pat Carl & Associates 
+02/13/2014 - 15:47:59: new record: 4417: Patients Aware Together - P.A.T. 
+02/13/2014 - 15:47:59: new record: 3803: Paul Revere PAC 
+02/13/2014 - 15:47:59: new record: 4207: Pawn Coalition 
+02/13/2014 - 15:47:59: new record: 5959: Pay Equity Coalition 
+02/13/2014 - 15:47:59: new record: 4282: Paychex Inc 
+02/13/2014 - 15:47:59: new record: 5309: Paynesville Area Hospital 
+02/13/2014 - 15:47:59: new record: 4670: PCL Construction Services Inc 
+02/13/2014 - 15:47:59: new record: 4805: Peace Officers Federation of Mpls 
+02/13/2014 - 15:47:59: new record: 6107: Peachtree Settlement Funding Inc 
+02/13/2014 - 15:47:59: new record: 3159: Pediatric Specialists PA 
+02/13/2014 - 15:47:59: new record: 4657: Pegasus 
+02/13/2014 - 15:47:59: new record: 4122: Pennington County 
+02/13/2014 - 15:47:59: new record: 4660: Penumbra Theater Co 
+02/13/2014 - 15:47:59: new record: 4157: People Serving People 
+02/13/2014 - 15:47:59: new record: 694: Peoples Cooperative Power Assn 
+02/13/2014 - 15:47:59: new record: 695: Peoples Natural Gas Co 
+02/13/2014 - 15:47:59: new record: 3694: PepsiCo Inc 
+02/13/2014 - 15:47:59: new record: 4461: Perkins Inc 
+02/13/2014 - 15:47:59: new record: 3498: Personal Transportation Assn 
+02/13/2014 - 15:47:59: new record: 3720: Pete McGill & Associates Inc 
+02/13/2014 - 15:47:59: new record: 4705: Peter C Kelsey 
+02/13/2014 - 15:47:59: new record: 2089: Peterson, William & Associates Ltd 
+02/13/2014 - 15:47:59: new record: 3463: Petroleum Tank Group 
+02/13/2014 - 15:47:59: new record: 3152: Pheasants Forever 
+02/13/2014 - 15:47:59: new record: 2237: Philip Morris USA Inc 
+02/13/2014 - 15:47:59: new record: 3506: Physicians Surgical Services Inc 
+02/13/2014 - 15:47:59: new record: 3217: Pillsbury Co (The) 
+02/13/2014 - 15:47:59: new record: 2935: Pine Manors Inc 
+02/13/2014 - 15:47:59: new record: 3226: Pipe Tobacco Council Inc 
+02/13/2014 - 15:47:59: new record: 2988: Pipefitters Local 455 
+02/13/2014 - 15:47:59: new record: 3268: Pipefitters Local 539 
+02/13/2014 - 15:47:59: new record: 6219: Pittsburgh Blind Assn (PBA) 
+02/13/2014 - 15:47:59: new record: 6032: Planning Corp of America 
+02/13/2014 - 15:47:59: new record: 3023: Plato Building 
+02/13/2014 - 15:47:59: new record: 4708: Pleasuredome Resorts Inc 
+02/13/2014 - 15:47:59: new record: 3269: Plumbers Local 15 
+02/13/2014 - 15:47:59: new record: 4058: Plumbers Local 34 
+02/13/2014 - 15:47:59: new record: 5467: Plymouth Financial Co Inc 
+02/13/2014 - 15:47:59: new record: 3779: Plymouth Metrolink 
+02/13/2014 - 15:47:59: new record: 3430: Portable Rechargeable Battery Assn 
+02/13/2014 - 15:47:59: new record: 2306: Powerhouse Inc 
+02/13/2014 - 15:47:59: new record: 5606: PowerPick Players Club of MN 
+02/13/2014 - 15:47:59: new record: 4692: PPG Industries Inc 
+02/13/2014 - 15:47:59: new record: 5924: PPM Energy Inc 
+02/13/2014 - 15:47:59: new record: 6195: Prairie Crossing LLC 
+02/13/2014 - 15:47:59: new record: 3764: Prairie Island Religious Taskforce 
+02/13/2014 - 15:47:59: new record: 5523: PrairieWave Communications Inc 
+02/13/2014 - 15:47:59: new record: 2262: Praxair 
+02/13/2014 - 15:47:59: new record: 4825: Preferred Car Rental 
+02/13/2014 - 15:47:59: new record: 3831: PreferredOne Management Corp 
+02/13/2014 - 15:47:59: new record: 4204: Premier Risk Tech Services Inc 
+02/13/2014 - 15:47:59: new record: 1962: Premium Acceptance Corp 
+02/13/2014 - 15:47:59: new record: 5660: Presbyterian Family Foundation Inc 
+02/13/2014 - 15:47:59: new record: 4586: Presbyterian Homes of MN 
+02/13/2014 - 15:47:59: new record: 4342: PRIDE / Family & Childrens Service 
+02/13/2014 - 15:47:59: new record: 4754: Primera Foods Corp 
+02/13/2014 - 15:47:59: new record: 3847: Primerica Financial Services Home Mortgages 
+02/13/2014 - 15:47:59: new record: 3682: Private Sector Systems Inc 
+02/13/2014 - 15:47:59: new record: 4276: Pro Family Television 
+02/13/2014 - 15:47:59: new record: 3765: Pro Insurance Underwriters Inc 
+02/13/2014 - 15:47:59: new record: 3421: Pro-Choice Resources 
+02/13/2014 - 15:47:59: new record: 4432: Proctor City of 
+02/13/2014 - 15:47:59: new record: 4745: Project Foundation Home Away Centers Inc 
+02/13/2014 - 15:47:59: new record: 4685: Project REAP 
+02/13/2014 - 15:47:59: new record: 4197: Property Tax Study Project 
+02/13/2014 - 15:47:59: new record: 3873: Provell Inc 
+02/13/2014 - 15:47:59: new record: 3654: PRP Mixed Waste Lobbying Group 
+02/13/2014 - 15:47:59: new record: 4631: Public Art St Paul 
+02/13/2014 - 15:47:59: new record: 5513: Public Hospital/Policy Group 
+02/13/2014 - 15:47:59: new record: 5412: Public Interveners Network 
+02/13/2014 - 15:47:59: new record: 3047: Public/Private Partnership For Gtr MN 
+02/13/2014 - 15:47:59: new record: 5277: Pure Choice 
+02/13/2014 - 15:47:59: new record: 3337: Pure Water Aquaculture 
+02/13/2014 - 15:47:59: new record: 5109: QPrime 
+02/13/2014 - 15:47:59: new record: 5059: Quad Cities Cable Communications Commission 
+02/13/2014 - 15:47:59: new record: 4226: Quality Health Alliance 
+02/13/2014 - 15:47:59: new record: 3804: Quantum Health Resources 
+02/13/2014 - 15:47:59: new record: 4667: Quast, Oscar R 
+02/13/2014 - 15:47:59: new record: 4974: Quest Communications Intl 
+02/13/2014 - 15:47:59: new record: 3965: Quicksilver Courier 
+02/13/2014 - 15:47:59: new record: 4967: Qwest Communications 
+02/13/2014 - 15:47:59: new record: 4959: Qwest Wireless LLC 
+02/13/2014 - 15:47:59: new record: 5353: Rahr Malting Co 
+02/13/2014 - 15:47:59: new record: 5011: Railroad Expansion Communities 
+02/13/2014 - 15:47:59: new record: 4795: Ramsey County Truancy & Curfew Center 
+02/13/2014 - 15:47:59: new record: 5390: Rand Corp Financial Services 
+02/13/2014 - 15:47:59: new record: 4100: Randolf Capital Co 
+02/13/2014 - 15:47:59: new record: 5295: Rapids Power LLC 
+02/13/2014 - 15:47:59: new record: 4986: Raytheon Engineers & Constructors Inc 
+02/13/2014 - 15:47:59: new record: 5067: Reading Railroad 
+02/13/2014 - 15:47:59: new record: 4415: Real Estate Recycling 
+02/13/2014 - 15:47:59: new record: 3153: Recomp Inc 
+02/13/2014 - 15:47:59: new record: 3154: Recomp of MN Inc 
+02/13/2014 - 15:47:59: new record: 4921: Recreation 2000 Initiative, MN Parks & Trail Council 
+02/13/2014 - 15:47:59: new record: 3634: Recyclights 
+02/13/2014 - 15:47:59: new record: 5325: Recycling Assn of MN 
+02/13/2014 - 15:47:59: new record: 3797: Red Lake Tribal Council 
+02/13/2014 - 15:47:59: new record: 4159: Red Lake Watershed Dist 
+02/13/2014 - 15:47:59: new record: 5655: Red River Basin Commission 
+02/13/2014 - 15:47:59: new record: 5447: Red Road Foundation 
+02/13/2014 - 15:47:59: new record: 4604: Red Rock Pork Inc 
+02/13/2014 - 15:47:59: new record: 4274: Red Wing Health Center 
+02/13/2014 - 15:47:59: new record: 4178: Red Wing Port Authority 
+02/13/2014 - 15:47:59: new record: 735: Red Wing Shoe Co Inc 
+02/13/2014 - 15:47:59: new record: 4576: Redwood Falls City of 
+02/13/2014 - 15:47:59: new record: 5887: Regency Commercial Svcs 
+02/13/2014 - 15:47:59: new record: 4247: Regent Aviation 
+02/13/2014 - 15:47:59: new record: 2376: Regional Transit 
+02/13/2014 - 15:47:59: new record: 4524: Regional Treatment Center Coalition 
+02/13/2014 - 15:47:59: new record: 4830: Regions Hospital 
+02/13/2014 - 15:47:59: new record: 3045: Rehab Providers of MN 
+02/13/2014 - 15:47:59: new record: 3632: Rehbein Inc 
+02/13/2014 - 15:47:59: new record: 3640: Rein Midway Limited Partnership 
+02/13/2014 - 15:47:59: new record: 5422: Reinhardt & Anderson 
+02/13/2014 - 15:48:00: new record: 4217: Reliance Real Estate Services 
+02/13/2014 - 15:48:00: new record: 4784: Reliever Airport Coalition 
+02/13/2014 - 15:48:00: new record: 4994: Renew Resources Inc 
+02/13/2014 - 15:48:00: new record: 3214: Rent-A-Car Alliance 
+02/13/2014 - 15:48:00: new record: 3602: Rent-A-Center Inc 
+02/13/2014 - 15:48:00: new record: 3921: Rental Research Services Inc 
+02/13/2014 - 15:48:00: new record: 4884: Repeal All Silly & Senseless Laws 
+02/13/2014 - 15:48:00: new record: 3863: Residential Environmental Learning Centers 
+02/13/2014 - 15:48:00: new record: 4064: Resource Funding LTD 
+02/13/2014 - 15:48:00: new record: 5242: Resource Life Insurance 
+02/13/2014 - 15:48:00: new record: 2233: Resources for Child Caring Inc 
+02/13/2014 - 15:48:00: new record: 5561: Responsible Animals Owners of MN 
+02/13/2014 - 15:48:00: new record: 5388: Responsible Mortgage Lender Coalition 
+02/13/2014 - 15:48:00: new record: 6186: Retail Crime Reduction Counsel 
+02/13/2014 - 15:48:00: new record: 4742: Retailers Protection Assn 
+02/13/2014 - 15:48:00: new record: 2552: Reuter Inc/Green Isle Environmental Services 
+02/13/2014 - 15:48:00: new record: 3852: Rhone-Poulenc Rorer Pharmaceuticals Inc 
+02/13/2014 - 15:48:00: new record: 4445: Richfield Fire Dept Relief Assn 
+02/13/2014 - 15:48:00: new record: 4370: Rick's Cabaret International Inc 
+02/13/2014 - 15:48:00: new record: 4759: Ridgerunner's Snowmobile Club 
+02/13/2014 - 15:48:00: new record: 4760: Riley Brothers Construction 
+02/13/2014 - 15:48:00: new record: 3578: RisComp/RJA 
+02/13/2014 - 15:48:00: new record: 4503: Rise Inc 
+02/13/2014 - 15:48:00: new record: 5122: River of Life of MN Inc 
+02/13/2014 - 15:48:00: new record: 5153: Riverbend Center for Enterprise Facilitation 
+02/13/2014 - 15:48:00: new record: 3755: Riverplace Inc 
+02/13/2014 - 15:48:00: new record: 4963: Riverside Resort Hotel & Casino 
+02/13/2014 - 15:48:00: new record: 2637: R-Kids (Remember Kids in Divorce Settlements) 
+02/13/2014 - 15:48:00: new record: 931: Robbinsdale Federation of Teachers 
+02/13/2014 - 15:48:00: new record: 4933: Robert C Muir Co 
+02/13/2014 - 15:48:00: new record: 4364: Robins, Kaplan, Miller & Ciresi 
+02/13/2014 - 15:48:00: new record: 5875: Roche Diagnostics 
+02/13/2014 - 15:48:00: new record: 3837: Rock Bottom of Minneapolis Inc 
+02/13/2014 - 15:48:00: new record: 5731: Rocky MTN Group LLC 
+02/13/2014 - 15:48:00: new record: 4873: Ronneng, Leo 
+02/13/2014 - 15:48:00: new record: 5509: Roseville Properties Management Co 
+02/13/2014 - 15:48:00: new record: 5143: Rose-Wild 
+02/13/2014 - 15:48:00: new record: 6049: Rottlund Homes 
+02/13/2014 - 15:48:00: new record: 4337: Royalton School District- I.S.D. 485 
+02/13/2014 - 15:48:00: new record: 4644: Ruffed Grouse Society 
+02/13/2014 - 15:48:00: new record: 5735: Rural Cellular Corp 
+02/13/2014 - 15:48:00: new record: 5185: Rural Preservation Corp 
+02/13/2014 - 15:48:00: new record: 4177: Rusten - Henkel & Co 
+02/13/2014 - 15:48:00: new record: 5719: SAF Hydroelectric LLC 
+02/13/2014 - 15:48:00: new record: 4855: Safe at Home Inc 
+02/13/2014 - 15:48:00: new record: 4062: Safe Efficient Single Trailer Operations Coal 
+02/13/2014 - 15:48:00: new record: 3834: SAFPLAN (State Assn of Family Plan Clinics) 
+02/13/2014 - 15:48:00: new record: 4709: Sage Co 
+02/13/2014 - 15:48:00: new record: 4063: Saints Road Project 
+02/13/2014 - 15:48:00: new record: 763: Sandoz Pharmaceuticals 
+02/13/2014 - 15:48:00: new record: 5250: Sanford Health Canby (fka Sioux Vly Hosp-Canby Campus) 
+02/13/2014 - 15:48:00: new record: 3697: Sanifill Inc 
+02/13/2014 - 15:48:00: new record: 5686: Sanofi Pasteur 
+02/13/2014 - 15:48:00: new record: 5633: Sanofi-Synthelabo 
+02/13/2014 - 15:48:00: new record: 5663: SAP America c/o MultiStates Assoc 
+02/13/2014 - 15:48:00: new record: 5041: Saturn Retail Enterprises Inc 
+02/13/2014 - 15:48:00: new record: 3198: Save Cedar Lake Park 
+02/13/2014 - 15:48:00: new record: 3742: Savitt, Steven 
+02/13/2014 - 15:48:00: new record: 5119: SBC 
+02/13/2014 - 15:48:00: new record: 4495: SBR Inc 
+02/13/2014 - 15:48:00: new record: 3923: SC Johnson & Son Inc 
+02/13/2014 - 15:48:00: new record: 2701: Schering Corporation 
+02/13/2014 - 15:48:00: new record: 4082: Schering Laboratories/Schering Plough 
+02/13/2014 - 15:48:00: new record: 4545: Schering- Plough External Affairs Inc 
+02/13/2014 - 15:48:00: new record: 4677: Schnitzer Iron & Metal MERLA Site Group 
+02/13/2014 - 15:48:00: new record: 1590: School District 1 Mpls 
+02/13/2014 - 15:48:00: new record: 4839: Schroeder, Dr Bruce 
+02/13/2014 - 15:48:00: new record: 5376: SCICom Data Services Ltd 
+02/13/2014 - 15:48:00: new record: 3942: Scott Health Care 
+02/13/2014 - 15:48:00: new record: 3626: SeaQuest Partners Ltd 
+02/13/2014 - 15:48:00: new record: 3414: Security Pacific Housing Services Inc 
+02/13/2014 - 15:48:00: new record: 5688: SEGA Corporation 
+02/13/2014 - 15:48:00: new record: 5360: Segway LLC 
+02/13/2014 - 15:48:00: new record: 5446: Septer Corporation 
+02/13/2014 - 15:48:00: new record: 5587: Serco Group Inc 
+02/13/2014 - 15:48:00: new record: 4735: Seren Innovations Inc 
+02/13/2014 - 15:48:00: new record: 5589: Service Contract Industry Council 
+02/13/2014 - 15:48:00: new record: 2924: Service Employees Intl Union 
+02/13/2014 - 15:48:00: new record: 3086: Service Employees Intl Union Local 113 
+02/13/2014 - 15:48:00: new record: 3895: Seward Redesign Inc 
+02/13/2014 - 15:48:00: new record: 5597: Sexual Abuse Prevention Network 
+02/13/2014 - 15:48:00: new record: 4720: SFX Entertainment 
+02/13/2014 - 15:48:00: new record: 3593: Shakopee City of 
+02/13/2014 - 15:48:00: new record: 4889: Shared Resource Management Inc 
+02/13/2014 - 15:48:00: new record: 4646: Sheehan, John 
+02/13/2014 - 15:48:00: new record: 5321: Sherburne County Rural Telephone Co 
+02/13/2014 - 15:48:00: new record: 5495: Sheridan Development Corp LLC 
+02/13/2014 - 15:48:00: new record: 3713: Sherwin-Williams Co 
+02/13/2014 - 15:48:00: new record: 4602: Shetek V & VI Inc 
+02/13/2014 - 15:48:00: new record: 3291: Shiely Co 
+02/13/2014 - 15:48:00: new record: 5003: Shingle Creek Watershed Management Commission 
+02/13/2014 - 15:48:00: new record: 5793: Shoot In MN 
+02/13/2014 - 15:48:00: new record: 3860: Shorewood City of 
+02/13/2014 - 15:48:00: new record: 4635: Shorty's Heavy Duty Wrecker Service 
+02/13/2014 - 15:48:00: new record: 4435: Shuffle Master Inc 
+02/13/2014 - 15:48:00: new record: 3415: Signal Communications Corp 
+02/13/2014 - 15:48:00: new record: 5892: SignBridge Communications 
+02/13/2014 - 15:48:00: new record: 5575: Silicon Valley Toxics Coalition 
+02/13/2014 - 15:48:00: new record: 5273: Silver Creek Township & Castle Danger-Stewart River Sanitary Dist 
+02/13/2014 - 15:48:00: new record: 5818: Simon Property Group 
+02/13/2014 - 15:48:00: new record: 5861: Single Sales Factor Coalition 
+02/13/2014 - 15:48:00: new record: 4935: Sixth and Nicollet LLC 
+02/13/2014 - 15:48:00: new record: 4216: SKB Environmental (use 3262) 
+02/13/2014 - 15:48:00: new record: 5231: Sky Ventures LLC 
+02/13/2014 - 15:48:00: new record: 5877: Skylane Family Limited Partnership 
+02/13/2014 - 15:48:00: new record: 5107: Smarte Carte 
+02/13/2014 - 15:48:00: new record: 6906: SMG 
+02/13/2014 - 15:48:00: new record: 3798: Smith, Smith & Smith 
+02/13/2014 - 15:48:00: new record: 2608: Smokeless Tobacco Council Inc 
+02/13/2014 - 15:48:00: new record: 4703: Snowmobile Educational Safety & Research Assn 
+02/13/2014 - 15:48:00: new record: 4004: Snyder Drug Stores 
+02/13/2014 - 15:48:00: new record: 3248: Snyders Liquors 
+02/13/2014 - 15:48:00: new record: 5031: Sobriety High School 
+02/13/2014 - 15:48:00: new record: 6129: Social Development Training & Action Center 
+02/13/2014 - 15:48:00: new record: 5679: Society for Diagnostic Medical Sonography 
+02/13/2014 - 15:48:00: new record: 5095: Society of Glass and Ceramic Decorators 
+02/13/2014 - 15:48:00: new record: 4391: Soderberg Apartment Specialists 
+02/13/2014 - 15:48:00: new record: 3885: Solid Waste Integrated Systems Corp 
+02/13/2014 - 15:48:00: new record: 4658: Solvay Pharameuticals Inc 
+02/13/2014 - 15:48:00: new record: 3031: Sonoco Products Co 
+02/13/2014 - 15:48:00: new record: 4929: South Beach LLC 
+02/13/2014 - 15:48:00: new record: 4336: South Metro Police & Fire Training Center 
+02/13/2014 - 15:48:00: new record: 4978: South Metro Public Safety Training Facility 
+02/13/2014 - 15:48:00: new record: 3292: South St Paul City of 
+02/13/2014 - 15:48:00: new record: 6062: Southeastern MN EMS Joint Powers 
+02/13/2014 - 15:48:00: new record: 3933: Southern MN Grain Inspection Inc 
+02/13/2014 - 15:48:00: new record: 2547: Southern MN Hwy Improvement Assn 
+02/13/2014 - 15:48:00: new record: 3460: Southern Twin Cities Assn of Realtors 
+02/13/2014 - 15:48:00: new record: 5443: Southwest Casino & Hotel Corp 
+02/13/2014 - 15:48:00: new record: 3982: Southwest Metro Transit 
+02/13/2014 - 15:48:00: new record: 4584: Southwest Regional Development Commission 
+02/13/2014 - 15:48:00: new record: 6094: Southwest Windpower 
+02/13/2014 - 15:48:00: new record: 4027: Spancrete Midwest Co 
+02/13/2014 - 15:48:00: new record: 4741: Speak the Word Church 
+02/13/2014 - 15:48:00: new record: 3161: Special Transportation Providers 
+02/13/2014 - 15:48:00: new record: 5497: Special Transportation Services Assn 
+02/13/2014 - 15:48:00: new record: 2600: Specialty Vehicle Inst of America 
+02/13/2014 - 15:48:00: new record: 3363: Spee-Dee Delivery 
+02/13/2014 - 15:48:00: new record: 4603: Split Rock Pork, Inc 
+02/13/2014 - 15:48:00: new record: 6117: Spring Lake Park Firefighters Relief Assn 
+02/13/2014 - 15:48:00: new record: 5251: Spring Lake Park-Blaine-Mounds View Fire Dept 
+02/13/2014 - 15:48:00: new record: 5880: Spring Valley Ponds LLC 
+02/13/2014 - 15:48:00: new record: 3750: Springsted Inc 
+02/13/2014 - 15:48:00: new record: 4601: Spronk Brothers III 
+02/13/2014 - 15:48:00: new record: 3639: St Anthony Falls Group 
+02/13/2014 - 15:48:00: new record: 5641: St Anthony Mills, LLC 
+02/13/2014 - 15:48:00: new record: 3293: St Benedict's Center 
+02/13/2014 - 15:48:00: new record: 4430: St Cloud Area Legal Services 
+02/13/2014 - 15:48:00: new record: 4056: St Cloud Housing & Redevelopment Authority 
+02/13/2014 - 15:48:00: new record: 4311: St Cloud Riverside Hospital 
+02/13/2014 - 15:48:00: new record: 4630: St Cloud State University 
+02/13/2014 - 15:48:00: new record: 3596: St Cloud Stearns Cty Hous & Redevel Authority 
+02/13/2014 - 15:48:00: new record: 5930: St Croix Valley Riders 
+02/13/2014 - 15:48:00: new record: 2435: St Louis County Bd 
+02/13/2014 - 15:48:00: new record: 6108: St Louis County Fair Board of Directors 
+02/13/2014 - 15:48:00: new record: 3523: St Mary's Medical Center 
+02/13/2014 - 15:48:00: new record: 4112: St Mary's University of MN 
+02/13/2014 - 15:48:00: new record: 5305: St Michael's Hospital 
+02/13/2014 - 15:48:00: new record: 5200: St Paul Cogeneration 
+02/13/2014 - 15:48:00: new record: 4813: St Paul Cogeneration LLC 
+02/13/2014 - 15:48:00: new record: 3832: St Paul Convention and Visitors Bureau 
+02/13/2014 - 15:48:00: new record: 5187: St Paul Downtown Airport Tenants 
+02/13/2014 - 15:48:00: new record: 3264: St Paul Escort Service Inc 
+02/13/2014 - 15:48:00: new record: 5243: St Paul Federation of Teachers - Local 28 
+02/13/2014 - 15:48:00: new record: 5457: St Paul Firefighters Local 21 
+02/13/2014 - 15:48:00: new record: 3496: St Paul Pipefitters Local 455 
+02/13/2014 - 15:48:00: new record: 3495: St Paul Plumbers Local 34 
+02/13/2014 - 15:48:00: new record: 3270: St Paul Police Relief Assn 
+02/13/2014 - 15:48:00: new record: 878: St Paul Regional AFL-CIO Labor Federation 
+02/13/2014 - 15:48:00: new record: 4972: St Paul Riverfront Corp 
+02/13/2014 - 15:48:00: new record: 1918: St Paul Supervisors Org 
+02/13/2014 - 15:48:00: new record: 2394: St Therese Home Inc 
+02/13/2014 - 15:48:00: new record: 4894: St Therese Southwest 
+02/13/2014 - 15:48:00: new record: 5558: Staffing Alternatives Inc 
+02/13/2014 - 15:48:00: new record: 6149: StarchTech Inc 
+02/13/2014 - 15:48:00: new record: 5642: Staubach Co 
+02/13/2014 - 15:48:00: new record: 4852: Stearns County Housing & Redevelopment Authority 
+02/13/2014 - 15:48:00: new record: 6041: Steel Dynamics Inc 
+02/13/2014 - 15:48:00: new record: 1126: Steele Waseca Cooperative Electric 
+02/13/2014 - 15:48:00: new record: 4673: Steering Committee of the Banks for Tax Equality 
+02/13/2014 - 15:48:00: new record: 5302: Sterling Park Health Care Center 
+02/13/2014 - 15:48:00: new record: 3715: Stillwater Area Business Coalition 
+02/13/2014 - 15:48:00: new record: 3774: Stillwater Hotel Partnership 
+02/13/2014 - 15:48:00: new record: 6039: Stinger Systems Inc 
+02/13/2014 - 15:48:00: new record: 3397: Stop Our Airport Relocation (SOAR) 
+02/13/2014 - 15:48:00: new record: 3386: STOP the NWA Loan 
+02/13/2014 - 15:48:00: new record: 4874: Stop the ReRoute Inc 
+02/13/2014 - 15:48:00: new record: 4366: Stora Enso North America 
+02/13/2014 - 15:48:00: new record: 6198: Strategic Business Management Inc 
+02/13/2014 - 15:48:00: new record: 3271: Stratis Health 
+02/13/2014 - 15:48:00: new record: 3901: Strobl, Frederick 
+02/13/2014 - 15:48:00: new record: 3583: Stroh Brewery Corp 
+02/13/2014 - 15:48:00: new record: 5018: Stuart Companies 
+02/13/2014 - 15:48:00: new record: 3575: Stuart Corp 
+02/13/2014 - 15:48:00: new record: 3979: Student Leg Coalition at the U of M - SLC 
+02/13/2014 - 15:48:00: new record: 5757: Student Legis Coalition 
+02/13/2014 - 15:48:00: new record: 6189: Studor Inc 
+02/13/2014 - 15:48:00: new record: 4081: Suburban Alliance 
+02/13/2014 - 15:48:00: new record: 3574: Suburban Taxi / Green & White Taxi 
+02/13/2014 - 15:48:00: new record: 5564: Summit Orthopedics/Orthopedic Consultants 
+02/13/2014 - 15:48:00: new record: 4808: Sun Country Airlines 
+02/13/2014 - 15:48:00: new record: 5235: Sunnyside Care Center 
+02/13/2014 - 15:48:00: new record: 4895: Super America USX 
+02/13/2014 - 15:48:00: new record: 4344: SuperAmerica Group Inc 
+02/13/2014 - 15:48:00: new record: 5535: Superior Edge Inc 
+02/13/2014 - 15:48:00: new record: 3346: Superior FCR Landfill Inc 
+02/13/2014 - 15:48:00: new record: 4000: Superior Services Inc 
+02/13/2014 - 15:48:00: new record: 3905: Support Collectors 
+02/13/2014 - 15:48:00: new record: 5758: Support Our Troops Inc 
+02/13/2014 - 15:48:00: new record: 4966: Supportive Housing & Managed Care Pilot 
+02/13/2014 - 15:48:00: new record: 6123: Supportive Living Solutions LLC 
+02/13/2014 - 15:48:00: new record: 2096: SW Corridor Transp Coalition 
+02/13/2014 - 15:48:00: new record: 3469: SW/West Central Education Co-op Unit 
+02/13/2014 - 15:48:00: new record: 5789: Swervo Development Corp 
+02/13/2014 - 15:48:00: new record: 6014: Symantec Corp 
+02/13/2014 - 15:48:00: new record: 5278: Synchromesh Consulting 
+02/13/2014 - 15:48:00: new record: 4975: Synergy Residential Academy 
+02/13/2014 - 15:48:00: new record: 2109: Syntex Labs Inc 
+02/13/2014 - 15:48:00: new record: 2592: Systems Control 
+02/13/2014 - 15:48:00: new record: 5301: Talahi Care Center 
+02/13/2014 - 15:48:00: new record: 6143: TAMAR FINK 
+02/13/2014 - 15:48:00: new record: 5584: Tandem Developers LLC 
+02/13/2014 - 15:48:00: new record: 5297: TAP Pharmaceuticals Inc 
+02/13/2014 - 15:48:00: new record: 3345: Taxpayers Alliance Foundation of MN 
+02/13/2014 - 15:48:00: new record: 4812: Taxpayers for Fairness 
+02/13/2014 - 15:48:00: new record: 3845: Taylor Investment Corp 
+02/13/2014 - 15:48:00: new record: 4383: TCB Inc 
+02/13/2014 - 15:48:00: new record: 786: TCF Bank 
+02/13/2014 - 15:48:00: new record: 5743: TDS Telecom 
+02/13/2014 - 15:48:00: new record: 925: Teamsters Joint Council 32 DRIVE 
+02/13/2014 - 15:48:00: new record: 3768: Teamsters Local 2000 - Local 2000 Leg Comm 
+02/13/2014 - 15:48:01: new record: 4462: Teleport Communications Group Inc 
+02/13/2014 - 15:48:01: new record: 4074: Telident Inc 
+02/13/2014 - 15:48:01: new record: 3489: Tellijohn Sanitary Landfill Inc 
+02/13/2014 - 15:48:01: new record: 3671: Teltech Resources Network Corp 
+02/13/2014 - 15:48:01: new record: 4882: Tenants of Reliever Airports 
+02/13/2014 - 15:48:01: new record: 3573: Tennant Co 
+02/13/2014 - 15:48:01: new record: 4273: Territorial Coalition Inc (TCI) 
+02/13/2014 - 15:48:01: new record: 3500: Theme World Enterprizes Inc 
+02/13/2014 - 15:48:01: new record: 1162: Third District Nurses 
+02/13/2014 - 15:48:01: new record: 1759: Time Warner Cable (now Comcast Cable Comm.) 
+02/13/2014 - 15:48:01: new record: 4314: Time Warner Inc 
+02/13/2014 - 15:48:01: new record: 3199: Timm Uro-Care Inst 
+02/13/2014 - 15:48:01: new record: 1781: Tobacco Institute 
+02/13/2014 - 15:48:01: new record: 5274: Tofte-Schroeder Sanitary Dist 
+02/13/2014 - 15:48:01: new record: 5017: Tom Chazin & Asset Mgmt Group 
+02/13/2014 - 15:48:01: new record: 4463: Toro Co 
+02/13/2014 - 15:48:01: new record: 3164: Tower Asphalt Inc 
+02/13/2014 - 15:48:01: new record: 6004: Tower Investments LLC 
+02/13/2014 - 15:48:01: new record: 5969: Town of Crane Lake 
+02/13/2014 - 15:48:01: new record: 3927: Trach Properties 
+02/13/2014 - 15:48:01: new record: 2987: Trade Products Inc 
+02/13/2014 - 15:48:01: new record: 3677: Traditional Values Coalition of MN 
+02/13/2014 - 15:48:01: new record: 5532: Trans Link Development Co 
+02/13/2014 - 15:48:01: new record: 3517: Trans Union Corp 
+02/13/2014 - 15:48:01: new record: 4566: TransCanada Pipelines 
+02/13/2014 - 15:48:01: new record: 3478: Transcontinental Shipping/Merchants Co Ltd 
+02/13/2014 - 15:48:01: new record: 5643: Transit Team Inc 
+02/13/2014 - 15:48:01: new record: 909: Transport Communications Union 
+02/13/2014 - 15:48:01: new record: 5458: Transportation Management Corp 
+02/13/2014 - 15:48:01: new record: 4512: Transtop MN Inc 
+02/13/2014 - 15:48:01: new record: 4668: Transystems Inc 
+02/13/2014 - 15:48:01: new record: 3378: Travelers Companies 
+02/13/2014 - 15:48:01: new record: 5365: Travelers Insurance 
+02/13/2014 - 15:48:01: new record: 5179: Treatment Advocacy Center 
+02/13/2014 - 15:48:01: new record: 4791: Triax Communications Corp 
+02/13/2014 - 15:48:01: new record: 5055: Tri-County Comm Corrections 
+02/13/2014 - 15:48:01: new record: 3356: Triple Crown Gaming Inc 
+02/13/2014 - 15:48:01: new record: 4769: Triumph Outdoor Holdings Inc 
+02/13/2014 - 15:48:01: new record: 5628: Truck Renting and Leasing Assn 
+02/13/2014 - 15:48:01: new record: 6293: True Hero Simulations 
+02/13/2014 - 15:48:01: new record: 5960: Trustmark 
+02/13/2014 - 15:48:01: new record: 3195: TRW Inc 
+02/13/2014 - 15:48:01: new record: 5588: Tubman Family Alliance 
+02/13/2014 - 15:48:01: new record: 2598: Turks for Education 
+02/13/2014 - 15:48:01: new record: 3503: Twin Cities Ind Ski Area 
+02/13/2014 - 15:48:01: new record: 3559: Twin City Fan & Blower 
+02/13/2014 - 15:48:01: new record: 5234: Twin City Linnea Home 
+02/13/2014 - 15:48:01: new record: 6008: Twin Star Medical 
+02/13/2014 - 15:48:01: new record: 5600: Twinsville LLC 
+02/13/2014 - 15:48:01: new record: 6070: Tyco Electronics Corp (fka M/A-Com Inc) 
+02/13/2014 - 15:48:01: new record: 5908: UCB Pharma Inc 
+02/13/2014 - 15:48:01: new record: 3452: Ultra Pac Inc 
+02/13/2014 - 15:48:01: new record: 2796: UnBank Co 
+02/13/2014 - 15:48:01: new record: 3829: Underwriters at Lloyd's, London 
+02/13/2014 - 15:48:01: new record: 2315: Union Pacific Raiload 
+02/13/2014 - 15:48:01: new record: 3735: United Arts 
+02/13/2014 - 15:48:01: new record: 5946: United Auto Workers 
+02/13/2014 - 15:48:01: new record: 4460: United Cerebral Palsy of MN Inc 
+02/13/2014 - 15:48:01: new record: 2491: United Farmers Agents Assn 
+02/13/2014 - 15:48:01: new record: 4421: United Lakeshore Property Owners Assn 
+02/13/2014 - 15:48:01: new record: 2848: United Mortgage Corporation 
+02/13/2014 - 15:48:01: new record: 4910: United Properties 
+02/13/2014 - 15:48:01: new record: 3592: United Rehabilitation Assn of MN 
+02/13/2014 - 15:48:01: new record: 2991: United Sportsmen of MN 
+02/13/2014 - 15:48:01: new record: 3461: United Steelworkers of America 7796 
+02/13/2014 - 15:48:01: new record: 3492: United Steelworkers of America Local 2660 
+02/13/2014 - 15:48:01: new record: 5246: United Teachers of South Washington County 
+02/13/2014 - 15:48:01: new record: 4397: United Technical College Educators 
+02/13/2014 - 15:48:01: new record: 3687: United We Stand America-MN Inc 
+02/13/2014 - 15:48:01: new record: 5685: UnitedHealthCare 
+02/13/2014 - 15:48:01: new record: 4755: Universal Communication Networks LLC 
+02/13/2014 - 15:48:01: new record: 3546: Universal Manufacturing Co 
+02/13/2014 - 15:48:01: new record: 1804: University Education Assn-Duluth 
+02/13/2014 - 15:48:01: new record: 2458: University of MN Alumni Assn 
+02/13/2014 - 15:48:01: new record: 1516: University of MN Faculty Assn 
+02/13/2014 - 15:48:01: new record: 3688: University of MN Foundation 
+02/13/2014 - 15:48:01: new record: 3733: University of MN Hospital & Clinic 
+02/13/2014 - 15:48:01: new record: 4434: University of MN Tourism Center 
+02/13/2014 - 15:48:01: new record: 3716: Upper East Side Assn Inc 
+02/13/2014 - 15:48:01: new record: 3821: Upper Midwest Aids Coalition 
+02/13/2014 - 15:48:01: new record: 4643: Upper Midwest American Indian Center 
+02/13/2014 - 15:48:01: new record: 1525: Upper Midwest Hospitality Inc 
+02/13/2014 - 15:48:01: new record: 5057: Upper Midwest Organ Procurement Organization Inc d/b/a LifeSource 
+02/13/2014 - 15:48:01: new record: 4973: Upper Valley Regional Development Commission 
+02/13/2014 - 15:48:01: new record: 3529: Urban Coalition 
+02/13/2014 - 15:48:01: new record: 6191: Urban Renaissance Coalition 
+02/13/2014 - 15:48:01: new record: 5374: Urban Ventures Leadership Foundation 
+02/13/2014 - 15:48:01: new record: 5012: US English Inc 
+02/13/2014 - 15:48:01: new record: 5132: US Filter 
+02/13/2014 - 15:48:01: new record: 3278: US Filter Recovery Services 
+02/13/2014 - 15:48:01: new record: 5351: US Fireworks Safety Commission 
+02/13/2014 - 15:48:01: new record: 4113: US Fireworks Safety Council 
+02/13/2014 - 15:48:01: new record: 4241: US Games Inc 
+02/13/2014 - 15:48:01: new record: 4564: US Public Interest Research Group/Fund for Public Int Research 
+02/13/2014 - 15:48:01: new record: 2254: US Satellite Broadcasting Inc 
+02/13/2014 - 15:48:01: new record: 4698: USA Waste of MN 
+02/13/2014 - 15:48:01: new record: 4694: USA Waste Systems Inc 
+02/13/2014 - 15:48:01: new record: 4385: UST Public Affairs Inc 
+02/13/2014 - 15:48:01: new record: 5282: Utility Service Co Inc 
+02/13/2014 - 15:48:01: new record: 5811: Vadnais Lake Area Water Management Organization 
+02/13/2014 - 15:48:01: new record: 5362: ValAdCo 
+02/13/2014 - 15:48:01: new record: 5938: Valero Domestic Pipelines 
+02/13/2014 - 15:48:01: new record: 4103: Value Medical Resources 
+02/13/2014 - 15:48:01: new record: 4061: Van Drake Law Offices 
+02/13/2014 - 15:48:01: new record: 5794: Vanguard Car Rental USA Inc 
+02/13/2014 - 15:48:01: new record: 5112: Varian Inc 
+02/13/2014 - 15:48:01: new record: 5754: VEGA Venture Inc 
+02/13/2014 - 15:48:01: new record: 4944: Venture Catalyst Inc 
+02/13/2014 - 15:48:01: new record: 128: Verizon Communications 
+02/13/2014 - 15:48:01: new record: 5922: Verizon Communications (CA) 
+02/13/2014 - 15:48:01: new record: 5890: Verizon Corporate Services Group Inc 
+02/13/2014 - 15:48:01: new record: 4164: ViatiCare Ltd k/n/a S-F, Ltd 
+02/13/2014 - 15:48:01: new record: 3782: Video Lottery Technologies Inc 
+02/13/2014 - 15:48:01: new record: 3828: Viking Pawn Brokers or Jewelers 
+02/13/2014 - 15:48:01: new record: 5505: Virginia Firefighters Local 390 
+02/13/2014 - 15:48:01: new record: 6901: Virginia Public Schools 
+02/13/2014 - 15:48:01: new record: 5932: Virtual Radiologic Corp 
+02/13/2014 - 15:48:01: new record: 3215: Vision Loss Resources Inc 
+02/13/2014 - 15:48:01: new record: 3322: Vision World 
+02/13/2014 - 15:48:01: new record: 4349: VOICE 
+02/13/2014 - 15:48:01: new record: 4190: Voice - TEL 
+02/13/2014 - 15:48:01: new record: 991: Volunteers of America Care Facilities 
+02/13/2014 - 15:48:01: new record: 4622: Volunteers of America Nat'l Services 
+02/13/2014 - 15:48:01: new record: 6024: Wachovia Corp 
+02/13/2014 - 15:48:01: new record: 4492: Wackenhut Corrections 
+02/13/2014 - 15:48:01: new record: 2461: Waldorf Corp 
+02/13/2014 - 15:48:01: new record: 2222: Walker Methodist Residence & Service Inc 
+02/13/2014 - 15:48:01: new record: 5192: Walser Automotive Group, Inc 
+02/13/2014 - 15:48:01: new record: 5072: WAM!NET Inc 
+02/13/2014 - 15:48:01: new record: 4451: Warner Lambert 
+02/13/2014 - 15:48:01: new record: 5904: Warren Shade Co 
+02/13/2014 - 15:48:01: new record: 3158: Waseca Campus Future, Local Group 
+02/13/2014 - 15:48:01: new record: 6169: Washington Center for Internships & Academic Seminars 
+02/13/2014 - 15:48:01: new record: 3939: Waste Disposal Engineering Committee 
+02/13/2014 - 15:48:01: new record: 2388: Waste Management of N Am/Mdwest 
+02/13/2014 - 15:48:01: new record: 4893: WATCH 
+02/13/2014 - 15:48:01: new record: 5608: Waterfront East LLC 
+02/13/2014 - 15:48:01: new record: 4088: Watson 
+02/13/2014 - 15:48:01: new record: 5784: We the People c/o Tim Nolan 
+02/13/2014 - 15:48:01: new record: 6208: WE the People Press 
+02/13/2014 - 15:48:01: new record: 4523: Weis Builders Inc 
+02/13/2014 - 15:48:01: new record: 4871: Weitz, Mary 
+02/13/2014 - 15:48:01: new record: 4179: Wellington Managment Inc 
+02/13/2014 - 15:48:01: new record: 3242: Wells Fargo Brokerage Services LLC 
+02/13/2014 - 15:48:01: new record: 5260: Wells Fargo Home Mortgage 
+02/13/2014 - 15:48:01: new record: 4688: Welsh Companies 
+02/13/2014 - 15:48:01: new record: 4526: West Central Educational Development Assn 
+02/13/2014 - 15:48:01: new record: 4589: West Central Environmental Consultants 
+02/13/2014 - 15:48:01: new record: 3123: West Central MN EMS Corp 
+02/13/2014 - 15:48:01: new record: 3223: West Central MN Init Fund 
+02/13/2014 - 15:48:01: new record: 3960: West Draw Citizens Committee 
+02/13/2014 - 15:48:01: new record: 3085: West Hennepin Human Serv Plan Bd 
+02/13/2014 - 15:48:01: new record: 5002: West Mississippi Watershed Management Commission 
+02/13/2014 - 15:48:01: new record: 4418: West Seventh Community Center 
+02/13/2014 - 15:48:01: new record: 4212: Westar Properties 
+02/13/2014 - 15:48:01: new record: 4534: Western Consolidated Elevators Inc 
+02/13/2014 - 15:48:01: new record: 2902: Western Diversified 
+02/13/2014 - 15:48:01: new record: 3877: Western Fuels Assn Inc 
+02/13/2014 - 15:48:01: new record: 5298: Western Wireless 
+02/13/2014 - 15:48:01: new record: 4814: WestHealth 
+02/13/2014 - 15:48:01: new record: 2584: Westin Schulte & Bunge Inc 
+02/13/2014 - 15:48:01: new record: 4511: Westinghouse Electric Corp 
+02/13/2014 - 15:48:01: new record: 3951: Wheelabrator Water Technologies Inc 
+02/13/2014 - 15:48:01: new record: 3975: Wheel-Air Inc 
+02/13/2014 - 15:48:01: new record: 5245: White Bear Lake Teachers Assn 
+02/13/2014 - 15:48:01: new record: 4051: White Bear Township 
+02/13/2014 - 15:48:01: new record: 2035: White Birch Inc 
+02/13/2014 - 15:48:01: new record: 3929: White Earth Indian Reservation 
+02/13/2014 - 15:48:01: new record: 3784: White Earth Rediscovery Center 
+02/13/2014 - 15:48:01: new record: 5769: Whitney Partners 
+02/13/2014 - 15:48:01: new record: 4620: Wilder Foundation 
+02/13/2014 - 15:48:01: new record: 3354: William Dean & Associates 
+02/13/2014 - 15:48:01: new record: 3826: William E Norris Institute 
+02/13/2014 - 15:48:01: new record: 4637: Wilson Center 
+02/13/2014 - 15:48:01: new record: 4750: Wilson Learning Corporation 
+02/13/2014 - 15:48:01: new record: 4144: Windom City of 
+02/13/2014 - 15:48:01: new record: 6046: Window & Door Manufacturers Assn 
+02/13/2014 - 15:48:01: new record: 4639: Winmark Corporation 
+02/13/2014 - 15:48:01: new record: 4605: Winnewissa Pork Inc 
+02/13/2014 - 15:48:01: new record: 5216: Winona Port Authority 
+02/13/2014 - 15:48:01: new record: 4701: Wireless Consortium 
+02/13/2014 - 15:48:01: new record: 4308: Wisconsin Power & Light 
+02/13/2014 - 15:48:01: new record: 5805: Wisconsin Public Service Corp 
+02/13/2014 - 15:48:01: new record: 5108: Wold Engineers & Architects 
+02/13/2014 - 15:48:01: new record: 5727: Wolfgang Puck Catering and Events LLC (Delaware) 
+02/13/2014 - 15:48:01: new record: 2862: Womens Health Center 
+02/13/2014 - 15:48:01: new record: 4549: Womens Shelter Inc 
+02/13/2014 - 15:48:01: new record: 3712: Wood Fiber Employees Joint Legis Council 
+02/13/2014 - 15:48:01: new record: 3703: Woodlake Sanitary Service Inc 
+02/13/2014 - 15:48:01: new record: 4988: Work List! Com 
+02/13/2014 - 15:48:01: new record: 5659: Workers Comp Pharmacy Alliance  c/o MultiState Assoc 
+02/13/2014 - 15:48:01: new record: 2828: Workers Comp Settlement Judges Assn 
+02/13/2014 - 15:48:01: new record: 3090: Workers Compensation Coalition 
+02/13/2014 - 15:48:01: new record: 5672: Workforce Safety & Insurance 
+02/13/2014 - 15:48:01: new record: 3909: WorldCom Technolgies Inc 
+02/13/2014 - 15:48:01: new record: 4186: Wrecker Services Inc 
+02/13/2014 - 15:48:01: new record: 4169: Wyeth-Ayerst Laboratories 
+02/13/2014 - 15:48:01: new record: 3580: XYZ/Electronic Pulltabs Inc 
+02/13/2014 - 15:48:01: new record: 5489: Yamaha MotorCorporation 
+02/13/2014 - 15:48:01: new record: 3728: Young America Corp 
+02/13/2014 - 15:48:01: new record: 5084: Youth Link 
+02/13/2014 - 15:48:01: new record: 6214: Zalk Steel & Supply Co 
+02/13/2014 - 15:48:01: new record: 3384: Zeneca Inc 
+02/13/2014 - 15:48:01: new record: 3624: Ziegler Inc 
+02/13/2014 - 15:48:01: new record: 4189: Zond MN Development Corp II 
+02/13/2014 - 15:48:01: new record: 4913: Zurich Construction 
+02/13/2014 - 15:48:01: new record: 4792: Zylstra Communications 
