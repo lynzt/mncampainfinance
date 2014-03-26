@@ -96,20 +96,20 @@ sub getAssociationDetails {
 	 	$association{'association_nbr'} = $association_nbr;
 	 	$association{'contact_title'} = $association{'1'};
 		if ($association{'4'} =~ m/^Website/i) {
-			$association{'address1'} = $association{'2'};
+			$association{'street1'} = $association{'2'};
 			$association{'city_state_zip'} = $association{'3'};
 			$association{'website'} = $association{'4'};
 		} elsif ($association{'5'} =~ m/^Website/i) {
-			$association{'address1'} = $association{'2'};
-			$association{'address2'} = $association{'3'};
+			$association{'street1'} = $association{'2'};
+			$association{'street2'} = $association{'3'};
 			$association{'city_state_zip'} = $association{'4'};
 			$association{'website'} = $association{'5'};
 		} elsif ($association{'4'} =~ m/^Association Number/i) {
-			$association{'address1'} = $association{'2'};
+			$association{'street1'} = $association{'2'};
 			$association{'city_state_zip'} = $association{'3'};
 		} elsif ($association{'5'} =~ m/^Association Number/i) {
-			$association{'address1'} = $association{'2'};
-			$association{'address2'} = $association{'3'};
+			$association{'street1'} = $association{'2'};
+			$association{'street2'} = $association{'3'};
 			$association{'city_state_zip'} = $association{'4'};
 		}
 
@@ -125,8 +125,8 @@ sub getAssociationDetails {
 		print ("\tassociation: ". $name ." \n");
 
 
-		$address{'address1'} = $association{'address1'};
-		$address{'address2'} = $association{'address2'};
+		$address{'street1'} = $association{'street1'};
+		$address{'street2'} = $association{'street2'};
 		$address{'city_state_zip'} = $association{'city_state_zip'};
 		splitCityStateZip(\%address);	
 		formatFullAddress(\%address);
@@ -256,24 +256,24 @@ sub getManualData {
 	
 	if ($association_nbr eq '6146') {
 		$assoc_hash->{'association_nbr'} = $association_nbr;
-		$add_hash->{'address1'} = '200 S Sixth St, Ste 350';
+		$add_hash->{'street1'} = '200 S Sixth St, Ste 350';
 		$add_hash->{'city'} = 'Minneapolis';
 		$add_hash->{'state'} = 'MN';
 		$add_hash->{'zip'} = '55402';
 		$add_hash->{'country'} = 'US';
-		$add_hash->{'full_address'} = $add_hash->{'address1'} . ' ' 
+		$add_hash->{'full_address'} = $add_hash->{'street1'} . ' ' 
 																. $add_hash->{'city'} . ' '
 																. $add_hash->{'state'} . ' ' 
 																. $add_hash->{'zip'};
 		return 'true';
 	} elsif ($association_nbr eq '5783') {
 		$assoc_hash->{'association_nbr'} = $association_nbr;
-		$add_hash->{'address1'} = '1 North Jefferson Avenue';
+		$add_hash->{'street1'} = '1 North Jefferson Avenue';
 		$add_hash->{'city'} = 'St Louis';
 		$add_hash->{'state'} = 'MO';
 		$add_hash->{'zip'} = '63103';
 		$add_hash->{'country'} = 'US';
-		$add_hash->{'full_address'} = $add_hash->{'address1'} . ' ' 
+		$add_hash->{'full_address'} = $add_hash->{'street1'} . ' ' 
 																. $add_hash->{'city'} . ' '
 																. $add_hash->{'state'} . ' ' 
 																. $add_hash->{'zip'};

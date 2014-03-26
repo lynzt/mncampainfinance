@@ -22,6 +22,11 @@ my $pass = "asdf";
 my $database = "channeldragon";
 my ($query_handle, $result, $sql_stmt);
 
+my $root_path = '/Users/ltechel/scripts/mncampainfinance';
+my $cfg = new Config::Simple($root_path . '/modules/config.pl');
+
+my $processed_at = $cfg->param("common_vars.processed_at");
+
 $dsn = "DBI:mysqlPP:database=$database;host=localhost";
 my $dbh = DBI->connect($dsn, $user, $pass, {RaiseError => 1});
 my $sql = qq{SET NAMES 'utf8';};
@@ -335,6 +340,22 @@ sub splitAssociationNameTitle {
 	return ($contact, stripWhitespaceBegEnd($titles));
 }
 
+sub splitStreets {
+	my ($address_hash) = @_;
+
+
+	if ($address_hash->{'street1'} =~ m/(.*)\s(Ste|Rm|Flr)(\s.*)$/i) {
+		$address_hash->{'street1'} = $1;
+		$address_hash->{'street2'} = $2 . $3;
+	} elsif ($address_hash->{'street1'} =~ m/(.*)\s(#\d+.*)$/i) { 
+		$address_hash->{'street1'} = $1;
+		$address_hash->{'street2'} = $2;
+	} elsif ($address_hash->{'street1'} =~ m/(.*)\s(.*\sFlr)$/i) {
+		$address_hash->{'street1'} = $1;
+		$address_hash->{'street2'} = $2;
+	}
+}
+
 sub splitCityStateZip {
 	my ($location_hash) = @_;
 	# my %location;
@@ -351,8 +372,8 @@ sub splitCityStateZip {
 		# print ("\n \n");
 		# printHashRef($location_hash);
 		$location_hash->{'country'} = 'CA';
-		$location_hash->{'city_state_zip'} = $location_hash->{'address2'};
-		$location_hash->{'address2'} = undef;
+		$location_hash->{'city_state_zip'} = $location_hash->{'street2'};
+		$location_hash->{'street2'} = undef;
 		
 		_splitCityStateZipCountry($location_hash, 'canada');
 		# printHashRef($location_hash);
@@ -387,6 +408,7 @@ sub _splitCityStateZipCountry {
 
 }
 
+
 sub splitLobbyType {
 	my ($str) = @_;
 	my ($leg, $adm, $metro) = 0;
@@ -413,17 +435,22 @@ sub splitName_FirstMiddleLast {
 	my %name;
 
 	if ($format_name eq 'ln_fn') {
-		if ($long_name =~ m/\b(jr|jr\.|sr|sr\.|II|III|IV|V|VI|VII|VIII)$/i) {
-			$name{'suffix'} = $_;
-		}
+		# if ($long_name =~ m/\b(jr|jr\.|sr|sr\.|II|III|IV|V|VI|VII|VIII)$/i) {
+		# 	$name{'suffix'} = $_;
+		# }
 		$long_name =~ s/\b(jr|jr\.|sr|sr\.|II|III|IV|V|VI|VII|VIII)$//i;  # remove suffix
-		my ($ln, $fn) = split (/\,/,$long_name, 2);
+		if ($1) {
+			$name{'suffix'} = $1;
+		}
+		
+		
+		my ($ln, $fn) = split (/\, /,$long_name, 2);
 		$long_name = $fn . ' ' . $ln;
 
-		if ($long_name =~ m/\b(jr|jr\.|sr|sr\.|II|III|IV|V|VI|VII|VIII)$/i) {
-			$name{'suffix'} = $_;
-		}
 		$long_name =~ s/\b(jr|jr\.|sr|sr\.|II|III|IV|V|VI|VII|VIII)$//i;  # remove suffix
+		if ($1) {
+			$name{'suffix'} = $1;
+		}
 	}
 	
 
@@ -515,12 +542,15 @@ sub splitName_FirstMiddleLast {
 sub formatFullAddress {
 	my ($address_hash) = @_;
 
-
-	if ($address_hash->{'address2'} eq '') {
-		$address_hash->{'full_address'} = $address_hash->{'address1'} . ' ' . $address_hash->{'city_state_zip'};
+	if ($address_hash->{'street2'} eq '') {
+		$address_hash->{'full_address'} = $address_hash->{'street1'};
 	} else {
-		$address_hash->{'full_address'} = $address_hash->{'address1'} . ' ' . $address_hash->{'address2'} . ' ' . $address_hash->{'city_state_zip'};
+		$address_hash->{'full_address'} = $address_hash->{'street1'} . ' ' . $address_hash->{'street2'};
 	}
+
+	$address_hash->{'full_address'} .= ' ' . $address_hash->{'city'} 
+																			. ' ' . $address_hash->{'region'}
+																			. ' ' . $address_hash->{'zip'};
 
 	if ($address_hash->{'country'} =~ m/ca/i) {
 		$address_hash->{'full_address'} = $address_hash->{'full_address'} . ' Canada';
@@ -530,6 +560,48 @@ sub formatFullAddress {
 	if ($address_hash->{'full_address'} eq '') {
 		$address_hash->{'full_address'} = undef;
 	}
+}
+
+sub addressAbbrs {
+	my ($str) = @_;
+
+	$str =~ s/\bStes/Ste\s/i; #typo?
+
+	$str =~ s/\bNorth\b/N/i;
+	$str =~ s/\bSouth\b/S/i;
+	$str =~ s/\bEast\b/E/i;
+	$str =~ s/\bWest\b/W/i;
+	$str =~ s/\bStreet\b/St/i;
+	$str =~ s/\bavenue\b/Ave/i;
+	$str =~ s/\bboulevard\b/Blvd/i;
+	$str =~ s/\bCourt\b/Ct/i;
+	$str =~ s/\bCourt\b/Ct/i;
+	
+
+	$str =~ s/\bFloor\b/Flr/i;
+	$str =~ s/\bSuite\b/Ste/i;
+	
+	$str =~ s/\bSte\s#/Ste\s/i;
+	$str =~ s/\bRoom\b/Rm/i;
+
+	return $str;
+
+}
+
+sub addressAbbrs_Street { # ??
+	my ($address_hash) = @_;
+
+	$address_hash->{'street1'} =~ s/\bNorth\b/N/i;
+	$address_hash->{'street1'} =~ s/\bSouth\b/S/i;
+	$address_hash->{'street1'} =~ s/\bEast\b/E/i;
+	$address_hash->{'street1'} =~ s/\bWest\b/W/i;
+	$address_hash->{'street1'} =~ s/\bStreet\b/St/i;
+	$address_hash->{'street1'} =~ s/\bavenue\b/Ave/i;
+	$address_hash->{'street1'} =~ s/\bboulevard\b/Blvd/i;
+
+	$address_hash->{'street1'} =~ s/\bFloor\b/Flr/i;
+	$address_hash->{'street1'} =~ s/\bSuite\b/Ste/i;
+
 }
 
 
@@ -543,31 +615,55 @@ sub formatFullAddress {
 
 {
 	my $sth;
-	sub touchLobbyists {
+	sub touchPeople {
 		my ($lobbyist_hash, $name_hash) = @_;
 		my %return = ('updated', undef, 'id', undef);
-		# print ("touchChannels - id: $channel_id \t $channel_title\n");
-		# printHashRef($lobbyist_hash);
 		
-		$return{'id'} = getLobbyistReg_byReg($lobbyist_hash->{'reg_nbr'});
+		$return{'id'} = getPeople_byLongName($name_hash->{'long_name'});
 		
 		if (!$return{'id'}) {
 			# print ("touch lobbyist new: ". $lobbyist_hash->{'reg_nbr'}." \n");
 			# exit;
 			if (!$sth) {
-				$sql_stmt = "INSERT INTO mn_campaign_finance.lobbyists (registration_number, first_name, middle_name, last_name, nick_name, long_name)
-						SELECT ?, ?, ?, ?, ?, ?;";
+				$sql_stmt = "INSERT INTO mn_campaign_finance.people (first_name, middle_name, last_name, nick_name, suffix, long_name, processed_at)
+						SELECT ?, ?, ?, ?, ?, ?, ?;";
 				$sth = prepare($sql_stmt);
 			}
-			$sth->execute($lobbyist_hash->{'reg_nbr'}
-								, $name_hash->{'first_name'}
+			$sth->execute($name_hash->{'first_name'}
 								, $name_hash->{'middle_name'}
 								, $name_hash->{'last_name'}
 								, $name_hash->{'nick_name'}
-								, $name_hash->{'long_name'});
+								, $name_hash->{'suffix'}
+								, $name_hash->{'long_name'}
+								, $processed_at);
 			
 			$return{'updated'} = 'true';
-			$return{'id'} = getLobbyistReg_byReg($lobbyist_hash->{'reg_nbr'});
+			$return{'id'} = getPeople_byLongName($name_hash->{'long_name'});
+		}
+		return %return;
+	}
+}
+
+{
+	my $sth;
+	sub touchLobbyist {
+		my ($lobbyist_hash, $pid) = @_;
+		my %return = ('updated', undef, 'id', undef);
+		
+		$return{'id'} = getLobbyist_byPk($lobbyist_hash->{'reg_nbr'});
+		
+		if (!$return{'id'}) {
+			# print ("touch lobbyist new: ". $lobbyist_hash->{'reg_nbr'}." \n");
+			# exit;
+			if (!$sth) {
+				$sql_stmt = "INSERT INTO mn_campaign_finance.lobbyists (registration_number, people_id)
+						SELECT ?, ?;";
+				$sth = prepare($sql_stmt);
+			}
+			$sth->execute($lobbyist_hash->{'reg_nbr'}, $pid);
+			
+			$return{'updated'} = 'true';
+			$return{'id'} = getLobbyist_byPk($lobbyist_hash->{'reg_nbr'});
 		}
 		return %return;
 	}
@@ -579,7 +675,7 @@ sub formatFullAddress {
 		my ($address_hash) = @_;
 		my %return = ('updated', undef, 'id', undef);
 		
-		if (!$address_hash{'full_address'}) {
+		if (!$address_hash->{'full_address'}) {
 			print ("no address: \n");
 			return
 		}
@@ -593,8 +689,8 @@ sub formatFullAddress {
 						SELECT ?, ?, ?, ?, ?, ?, ?, ?;";
 				$sth = prepare($sql_stmt);
 			}
-			$sth->execute($address_hash->{'address1'}
-									, $address_hash->{'address2'}
+			$sth->execute($address_hash->{'street1'}
+									, $address_hash->{'street2'}
 									, $address_hash->{'city'}
 									, $address_hash->{'state'}
 									, $address_hash->{'zip'}
@@ -800,7 +896,25 @@ sub formatFullAddress {
 #   ######   ##### ## ########     ######   ########    ##       #### ########  
 {
 	my $sth;
-	sub getLobbyistReg_byReg {
+	sub getPeople_byLongName {
+		my ($long_name) = @_;
+		# print ("getChannelId_byChannelTitle: $channel_title \n");
+		if ($long_name) {
+			if (!$sth) {
+				$sql_stmt = "SELECT id, count(*)
+					from mn_campaign_finance.people
+					where long_name = ?;";
+				$sth = prepare($sql_stmt);
+			}
+			$sth->execute($long_name);
+			return getIdAndTotal($sth);
+		}
+	}
+}
+
+{
+	my $sth;
+	sub getLobbyist_byPk {
 		my ($reg_nbr) = @_;
 		# print ("getChannelId_byChannelTitle: $channel_title \n");
 		if ($reg_nbr) {
@@ -1051,53 +1165,98 @@ sub formatFullAddress {
 #   ######   ##### ## ########     #######  ##        ########  ##     ##    ##    ########  ######  
 {
 	my $sth;
-	sub updateLobbyist_hash_byPk {
-		my ($lobbyist_hash) = @_;
+	sub updatePeople_hash_byPk {
+		my ($lobbyist_hash, $pid) = @_;
 
 		if (!$sth) {
-			$sql_stmt = 'UPDATE mn_campaign_finance.lobbyists 
-									SET `company_id` = ?
-									, `phone` = ?
+			$sql_stmt = 'UPDATE mn_campaign_finance.people 
+									SET `phone` = ?
 									, `email` = ?
 									, `email_lookup` = ?
 									, principal_business = ?
-									, processed_at = ?
-			WHERE registration_number = ?;';
+			WHERE id = ?;';
 			$sth = prepare($sql_stmt);
 		}
-		$sth->execute($lobbyist_hash->{'company_id'}
-								, $lobbyist_hash->{'phone'}
+		$sth->execute($lobbyist_hash->{'phone'}
 								, $lobbyist_hash->{'email'}
 								, $lobbyist_hash->{'email_lookup'}
 								, $lobbyist_hash->{'company'}
-								, $lobbyist_hash->{'processed_at'}
-								, $lobbyist_hash->{'reg_nbr'});
+								, $pid);
 	}
 }
 
 {
 	my $sth;
-	sub updateLobbyist_name_byId {
-		my ($lobbyist_hash, $name_hash) = @_;
-		print ("hi \n");
+	sub updateLobbyist_Dates_byPk {
+		my ($lobbyist_hash, $pid) = @_;
 
 		if (!$sth) {
 			$sql_stmt = 'UPDATE mn_campaign_finance.lobbyists 
+									SET `registration_date` = ?
+									, `termination_date` = ?
+			WHERE registration_number = ?;';
+			$sth = prepare($sql_stmt);
+		}
+		$sth->execute($lobbyist_hash->{'from_date'}
+								, $lobbyist_hash->{'termination_date'}
+								, $pid);
+	}
+}
+
+{
+	my $sth;
+	sub updatePeople_name_byPk {
+		my ($name_hash, $pid) = @_;
+
+		if (!$sth) {
+			$sql_stmt = 'UPDATE mn_campaign_finance.people 
 									SET first_name = ?
 										, middle_name = ?
 										, last_name = ?
 										, nick_name = ?
 										, long_name = ?
-			WHERE registration_number = ?;';
+			WHERE id = ?;';
 			$sth = prepare($sql_stmt);
 		}
-		print ("$lobbyist_hash->{'reg_nbr'}: $name_hash->{'first_name'} \n");
+		print ("$pid: $name_hash->{'first_name'} \n");
 		$sth->execute($name_hash->{'first_name'}
 								, $name_hash->{'middle_name'}
 								, $name_hash->{'last_name'}
 								, $name_hash->{'nick_name'}
 								, $name_hash->{'long_name'}
-								, $lobbyist_hash->{'reg_nbr'});
+								, $pid);
+	}
+}
+
+{
+	my $sth;
+	sub updatePeople_Phone_byId {
+		my ($lobbyist_hash, $lid) = @_;
+
+		if (!$sth) {
+			$sql_stmt = 'UPDATE mn_campaign_finance.people 
+									SET phone = ?
+			WHERE id = ?;';
+			$sth = prepare($sql_stmt);
+		}
+		# print ("$lobbyist_hash->{'reg_nbr'}: $name_hash->{'first_name'} \n");
+		$sth->execute($lobbyist_hash->{'phone'}
+								, $lid);
+	}
+}
+
+{
+	my $sth;
+	sub updateAddress_zip_byPk {
+		my ($address_hash, $aid) = @_;
+
+		if (!$sth) {
+			$sql_stmt = 'UPDATE mn_campaign_finance.addresses 
+									SET `zip_4_code` = ?
+									WHERE id = ?;';
+			$sth = prepare($sql_stmt);
+		}
+		$sth->execute($address_hash->{'zip_4_code'}, $aid);
 	}
 }
 

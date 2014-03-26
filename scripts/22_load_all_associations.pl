@@ -63,8 +63,9 @@ sub getLobbyistData {
  	}
 
  	print ("$association{'association_nbr'}: $association{'name'} \n");
- 	# printHash(%association);
- 	updateTables(\%association);
+ 	printHash(%association);
+ 	exit;
+ 	# updateTables(\%association);
  	
 }
 

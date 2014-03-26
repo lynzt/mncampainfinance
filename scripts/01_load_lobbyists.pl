@@ -28,20 +28,21 @@ mainProgram();
 
 sub mainProgram {
 	
-	processLobbyistsDb()
+	processLobbyists()
 	# processLobbyistsAlpha()
 	
 }
 
-sub processLobbyistsDb {
+sub processLobbyists {
 	my $association_url;
 
 	# $processed_at = '2014-03-13 00:00:00';
 	my $sql_stmt = "select registration_number, long_name
-		from mn_campaign_finance.lobbyists
+		from mn_campaign_finance.people
 		where created_at >= '$processed_at'
+		and registration_number is not null
 		-- where association_number in (6146, 5783)
-		-- limit 1
+		-- limit 10
 		;";
 
 	# print ("sql_stmt: $sql_stmt \n");
@@ -52,77 +53,77 @@ sub processLobbyistsDb {
 	$query_handle->bind_columns(\my ($registration_number, $name));
 	while($query_handle->fetch()) {
 
-		getLobbyistPageDb($registration_number, $name);
+		getLobbyistDetails($registration_number, $name);
 		# exit;
-		# getLobbyistPageDb('518', $name);
+		# getLobbyistPage('518', $name);
 		# exit;
 
 	}
 }
 
-sub getLobbyistPageDb {
-	my ($lobbyist_id) = @_;
+# sub getLobbyistPage {
+# 	my ($lobbyist_id) = @_;
 
-	# getLobbyistDetails($lobbyist_id);
-	getLobbyistDetails('298');
+# 	getLobbyistDetails($lobbyist_id);
+# 	# getLobbyistDetails('298');
 	
 
-	# lobbyist_id
-	# my ($stream) = @_;
-	# while (my $tag = $stream->get_token) {
-		# if ($tag->is_start_tag('a')) {
-			# my $lobbyist_id = $tag->get_attr('href');
+# 	# lobbyist_id
+# 	# my ($stream) = @_;
+# 	# while (my $tag = $stream->get_token) {
+# 		# if ($tag->is_start_tag('a')) {
+# 			# my $lobbyist_id = $tag->get_attr('href');
 
-			# if ($lobbyist_id =~m /^\.\./) { # ..is a back index link - break here
-				# last;
-			# }
-			# $lobbyist_id =~ s/^lb//g;
-			# $lobbyist_id =~ s/\.html$//g;
+# 			# if ($lobbyist_id =~m /^\.\./) { # ..is a back index link - break here
+# 				# last;
+# 			# }
+# 			# $lobbyist_id =~ s/^lb//g;
+# 			# $lobbyist_id =~ s/\.html$//g;
 
 			
-			# getLobbyistDetails('9423');
-			# exit;
-	# 	}
-	# }
-}
-sub processLobbyistsAlpha {
-	my $lobbyist_url;
-	# print ("processed_at: $processed_at \n");
-	# exit;
-	for ('a'..'z') {
-	# for ('g'..'z') {
-		$lobbyist_url = "http://www.cfboard.state.mn.us/lobby/lbdetail/lbindex$_.html";
-		# $lobbyist_url = "http://www.cfboard.state.mn.us/lobby/lbdetail/lbindexm.html";
+# 			# getLobbyistDetails('9423');
+# 			# exit;
+# 	# 	}
+# 	# }
+# }
+# sub processLobbyistsAlpha {
+# 	my $lobbyist_url;
+# 	# print ("processed_at: $processed_at \n");
+# 	# exit;
+# 	for ('a'..'z') {
+# 	# for ('g'..'z') {
+# 		$lobbyist_url = "http://www.cfboard.state.mn.us/lobby/lbdetail/lbindex$_.html";
+# 		# $lobbyist_url = "http://www.cfboard.state.mn.us/lobby/lbdetail/lbindexm.html";
 
-		if (isValidUrl($lobbyist_url)) {
-			print ("\nindexpg: $lobbyist_url\n\n");
+# 		if (isValidUrl($lobbyist_url)) {
+# 			print ("\nindexpg: $lobbyist_url\n\n");
 
-			my $stream = HTML::TokeParser::Simple->new(url => $lobbyist_url);
-			getLobbyistPageAlpha($stream);
-		}
-	}
-	# exit;
-}
+# 			my $stream = HTML::TokeParser::Simple->new(url => $lobbyist_url);
+# 			getLobbyistPageAlpha($stream);
+# 		}
+# 	}
+# 	# exit;
+# }
 
-sub getLobbyistPageAlpha {
-	my ($stream) = @_;
-	while (my $tag = $stream->get_token) {
-		if ($tag->is_start_tag('a')) {
-			my $lobbyist_id = $tag->get_attr('href');
+# sub getLobbyistPageAlpha {
+# 	my ($stream) = @_;
+# 	while (my $tag = $stream->get_token) {
+# 		if ($tag->is_start_tag('a')) {
+# 			my $lobbyist_id = $tag->get_attr('href');
 
-			if ($lobbyist_id =~m /^\.\./) { # ..is a back index link - break here
-				last;
-			}
-			$lobbyist_id =~ s/^lb//g;
-			$lobbyist_id =~ s/\.html$//g;
+# 			if ($lobbyist_id =~m /^\.\./) { # ..is a back index link - break here
+# 				last;
+# 			}
+# 			$lobbyist_id =~ s/^lb//g;
+# 			$lobbyist_id =~ s/\.html$//g;
 
-			# getLobbyistDetails($lobbyist_id);
-			# exit;
-			# getLobbyistDetails('9423');
-			exit;
-		}
-	}
-}
+# 			# getLobbyistDetails($lobbyist_id);
+# 			# exit;
+# 			# getLobbyistDetails('9423');
+# 			exit;
+# 		}
+# 	}
+# }
 
 sub getLobbyistDetails {
 	my ($lobbyist_id) = @_;
@@ -207,10 +208,11 @@ sub getLobbyistDetails {
 	print ("\tlobbyist: ". $name{'long_name'} ." \n");
 	checkAddressFormat(\%lobbyist, \%name, $lobbyist_id);
 
-	$address{'address1'} = $lobbyist{'company_address1'};
-	$address{'address2'} = $lobbyist{'company_address2'};
+	$address{'street1'} = $lobbyist{'company_address1'};
+	$address{'street2'} = $lobbyist{'company_address2'};
 	$address{'city_state_zip'} = $lobbyist{'city_state_zip'};
 	splitCityStateZip(\%address);	
+	# splitStreets(\%address);
 	formatFullAddress(\%address);
 
 	# printHash(%lobbyist);
@@ -220,12 +222,13 @@ sub getLobbyistDetails {
 	# printHash(%address);
 	# exit;
 
-	my %return_lobbyist = touchLobbyists(\%lobbyist, \%name);
-	updateLobbyist_hash_byPk(\%lobbyist);
-	updateLobbyist_name_byId(\%lobbyist, \%name);
+	my %return_lobbyist = touchPeople(\%lobbyist, \%name);
+
+	updatePeople_hash_byPk(\%lobbyist, $return_lobbyist{'id'});
+	updatePeople_name_byPk(\%name,$return_lobbyist{'id'});
 	my %return_address = touchAddress(\%address); 
 	touchAssociationsAddresses('l', $return_lobbyist{'id'}, $return_address{'id'}); # l -> lobbist, not a -> association
-	
+
 	getAssociations($stream2, \%lobbyist);
 }
 
@@ -271,8 +274,8 @@ sub getAssociations {
 			}
 			
 			%types = splitLobbyType($association{'type'});;
-			print (" \n");
-			printHash(%association);
+			# print (" \n");
+			# printHash(%association);
 
 			# printHexChars($association{'name'});
 

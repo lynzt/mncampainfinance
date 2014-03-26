@@ -15,15 +15,17 @@
 #     ##    ######### ##     ## ##       ##             ## 
 #     ##    ##     ## ##     ## ##       ##       ##    ## 
 #     ##    ##     ## ########  ######## ########  ######  
-DROP TABLE IF EXISTS mn_campaign_finance.lobbyists;
-CREATE TABLE mn_campaign_finance.lobbyists (
-	registration_number MEDIUMINT UNSIGNED NOT NULL
+DROP TABLE IF EXISTS mn_campaign_finance.people;
+CREATE TABLE mn_campaign_finance.people (
+	id INT UNSIGNED NOT NULL AUTO_INCREMENT
+	, registration_number MEDIUMINT UNSIGNED NULL
 	, first_name VARCHAR(56) NULL
 	, middle_name VARCHAR(56) NULL
 	, last_name VARCHAR(56) NULL
 	, nick_name VARCHAR(56) NULL
+	, suffix VARCHAR(10) NULL
 	, long_name VARCHAR(224) NULL
-	, principal_business VARCHA(128) NULL
+	, principal_business VARCHAR(128) NULL
 	, phone VARCHAR(32) NULL
 	, email VARCHAR(128) NULL
 	, email_lookup VARCHAR(128) NULL -- email reversed
@@ -31,9 +33,44 @@ CREATE TABLE mn_campaign_finance.lobbyists (
 	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 	-- Required Keys
+	, PRIMARY KEY  pk_registration_number (id)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
+
+DROP TABLE IF EXISTS mn_campaign_finance.titles;
+CREATE TABLE mn_campaign_finance.titles (
+	id INT UNSIGNED NOT NULL AUTO_INCREMENT
+	, title VARCHAR(56) NOT NULL
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
+	, PRIMARY KEY  pk_registration_number (id)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
+
+-- DROP TABLE IF EXISTS mn_campaign_finance.lobbyists;
+CREATE TABLE mn_campaign_finance.lobbyists (
+	registration_number MEDIUMINT UNSIGNED NOT NULL
+	, people_id INT UNSIGNED NULL
+	, registration_date DATETIME NULL
+	, termination_date DATETIME NULL
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
 	, PRIMARY KEY  pk_registration_number (registration_number)
 ) ENGINE = InnoDB DEFAULT CHARSET=utf8;
--- ALTER TABLE mn_campaign_finance.lobbyists ADD COLUMN `principal_business` VARCHAR(128) NULL after long_name;
+
+
+-- DROP TABLE IF EXISTS mn_campaign_finance.people$lobbyists;
+CREATE TABLE mn_campaign_finance.people$lobbyists (
+	people_id INT UNSIGNED NOT NULL
+	, lobbyist_registration_number MEDIUMINT UNSIGNED NOT NULL
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
+	, PRIMARY KEY  pk_registration_number (people_id, lobbyist_registration_number)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
 
 
 DROP TABLE IF EXISTS mn_campaign_finance.associations$contacts;
