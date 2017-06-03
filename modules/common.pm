@@ -25,7 +25,7 @@ my ($query_handle, $result, $sql_stmt);
 my $root_path = '/Users/ltechel/scripts/mncampainfinance';
 my $cfg = new Config::Simple($root_path . '/modules/config.pl');
 
-my $processed_at = $cfg->param("common_vars.processed_at");
+# my $processed_at = $cfg->param("common_vars.processed_at");
 
 $dsn = "DBI:mysqlPP:database=$database;host=localhost";
 my $dbh = DBI->connect($dsn, $user, $pass, {RaiseError => 1});
@@ -119,6 +119,69 @@ sub convertDate {
 
 	return $result;
 }
+
+sub month2Nbr {
+	my ($month_type) = @_;
+	my %mon2num;
+
+	if ($month_type eq 'full') {
+		%mon2num = qw(
+			January 01
+			Febuary 02
+			March 03
+			April 04
+			May 05
+			June 06
+			July 07
+			August 08
+			September 09
+			October 10
+			November 11
+			December 12
+		);
+	}
+	
+return %mon2num;
+}
+
+sub getProcessedThru {
+	my ($stream) = @_;
+
+	my %date_hash = month2Nbr('full');
+	
+	my $count = 0;
+	my ($tag, $text);
+	my ($hr, $min, $y, $m, $d, $month, $am_pm);
+	my $processed_at;
+
+	while ($stream->get_tag("font")) {
+		$count++;
+		$tag = $stream->get_token;
+		$text = getTagText($tag);
+
+		if ($text =~ m/(\d{2}):(\d{2})\s(am|pm),\s(.*)\s(\d{2}),\s(\d{4})\.*$/i) {
+			# print ("text: $text \n");
+			$hr = $1;
+			$min = $2;
+			$am_pm = $3;
+			$month = $4;
+			$d = $5;
+			$y = $6;
+
+			$m = $date_hash{$month};
+			# print ("hr: $hr \t min: $min \n");
+			# print ("month: $month \t y: $y \n");
+			if ($am_pm eq 'pm') {
+				$hr += 12;
+			}
+			
+			$processed_at = $y . '-' . $m  . '-'. $d . ' ' . $hr . ':' . $min;
+			last;
+		}
+	}
+	return $processed_at;
+}
+
 
 sub generateRandomNumber {
 	my ($min, $max) = @_;
@@ -625,8 +688,8 @@ sub addressAbbrs_Street { # ??
 			# print ("touch lobbyist new: ". $lobbyist_hash->{'reg_nbr'}." \n");
 			# exit;
 			if (!$sth) {
-				$sql_stmt = "INSERT INTO mn_campaign_finance.people (first_name, middle_name, last_name, nick_name, suffix, long_name, processed_at)
-						SELECT ?, ?, ?, ?, ?, ?, ?;";
+				$sql_stmt = "INSERT INTO mn_campaign_finance.people (first_name, middle_name, last_name, nick_name, suffix, long_name)
+						SELECT ?, ?, ?, ?, ?, ?;";
 				$sth = prepare($sql_stmt);
 			}
 			$sth->execute($name_hash->{'first_name'}
@@ -634,8 +697,7 @@ sub addressAbbrs_Street { # ??
 								, $name_hash->{'last_name'}
 								, $name_hash->{'nick_name'}
 								, $name_hash->{'suffix'}
-								, $name_hash->{'long_name'}
-								, $processed_at);
+								, $name_hash->{'long_name'});
 			
 			$return{'updated'} = 'true';
 			$return{'id'} = getPeople_byLongName($name_hash->{'long_name'});
@@ -653,8 +715,8 @@ sub addressAbbrs_Street { # ??
 		$return{'id'} = getLobbyist_byPk($lobbyist_hash->{'reg_nbr'});
 		
 		if (!$return{'id'}) {
-			# print ("touch lobbyist new: ". $lobbyist_hash->{'reg_nbr'}." \n");
-			# exit;
+			print ("touch lobbyist new: ". $lobbyist_hash->{'reg_nbr'}." \n");
+			exit;
 			if (!$sth) {
 				$sql_stmt = "INSERT INTO mn_campaign_finance.lobbyists (registration_number, people_id)
 						SELECT ?, ?;";
@@ -677,7 +739,7 @@ sub addressAbbrs_Street { # ??
 		
 		if (!$address_hash->{'full_address'}) {
 			print ("no address: \n");
-			return
+			exit;
 		}
 		$return{'id'} = getAddressId_byFull($address_hash->{'full_address'});
 		
@@ -685,11 +747,12 @@ sub addressAbbrs_Street { # ??
 			# print ("touchCompany new \n");
 			# exit;
 			if (!$sth) {
-				$sql_stmt = "INSERT INTO mn_campaign_finance.addresses (street1, street2, city, region, zip, zip_4_code, country, full_address)
-						SELECT ?, ?, ?, ?, ?, ?, ?, ?;";
+				$sql_stmt = "INSERT INTO mn_campaign_finance.addresses (organization, street1, street2, city, region, zip, zip_4_code, country, full_address)
+						SELECT ?, ?, ?, ?, ?, ?, ?, ?, ?;";
 				$sth = prepare($sql_stmt);
 			}
-			$sth->execute($address_hash->{'street1'}
+			$sth->execute($address_hash->{'principal_business'}
+									, $address_hash->{'street1'}
 									, $address_hash->{'street2'}
 									, $address_hash->{'city'}
 									, $address_hash->{'state'}
@@ -732,7 +795,32 @@ sub addressAbbrs_Street { # ??
 
 {
 	my $sth;
-	sub touchAssociationsAddresses {
+	sub touchAssociationTerminations {
+		my ($association_hash) = @_;
+		my %return = ('updated', undef, 'id', undef);
+
+		$return{'id'} = getAssociationTerminations_byNbrTerm($association_hash->{'association_nbr'}, $association_hash->{'term_date'});
+		
+		if (!$return{'id'}) {
+			# print ("touchAssociationTerminations new  \n");
+			# exit;
+			if (!$sth) {
+				$sql_stmt = "INSERT INTO mn_campaign_finance.association_terminations (association_number, termination_date)
+						SELECT ?, ?;";
+				$sth = prepare($sql_stmt);
+			}
+			$sth->execute($association_hash->{'association_nbr'}, $association_hash->{'term_date'});
+			
+			$return{'updated'} = 'true';
+			$return{'id'} = getAssociationTerminations_byNbrTerm($association_hash->{'association_nbr'}, $association_hash->{'term_date'});
+		}
+		return %return;
+	}
+}
+
+{
+	my $sth;
+	sub touchOrganizationsAddresses {
 		my ($type, $type_id, $address_id) = @_;
 		my %return = ('updated', undef, 'id', undef);
 		# print ("type: $type \t type_id: $type_id \n");
@@ -744,16 +832,19 @@ sub addressAbbrs_Street { # ??
 			# print ("touch touchAssociationsLobbyists new:  association_nbr: $association_nbr \t registration_nbr: $registration_nbr \t reg_date: $registration_date\n");
 			# exit;
 			if (!$sth) {
-				$sql_stmt = 'INSERT INTO mn_campaign_finance.associations$addresses (type, type_id, address_id)
-						SELECT ?, ?, ?;';
+				$sql_stmt = 'INSERT INTO mn_campaign_finance.organizations$addresses (type, type_id, address_id, is_active)
+						SELECT ?, ?, ?, ?;';
 				$sth = prepare($sql_stmt);
 			}
 			$sth->execute($type
 									, $type_id
-									, $address_id);
+									, $address_id
+									, 1);
 			
 			$return{'updated'} = 'true';
 			$return{'id'} = getAssociationsAddresses_byPk($type, $type_id, $address_id);
+		} else {
+			updateOrgAdd_isActive_id(1, $type, $type_id, $address_id);
 		}
 		return %return;
 	}
@@ -950,6 +1041,24 @@ sub addressAbbrs_Street { # ??
 
 {
 	my $sth;
+	sub getAddressOrg_byId {
+		my ($name) = @_;
+		# print ("getChannelId_byChannelTitle: $channel_title \n");
+		if ($name) {
+			if (!$sth) {
+				$sql_stmt = "SELECT organization, count(*)
+					from mn_campaign_finance.addresses
+					where id = ?;";
+				$sth = prepare($sql_stmt);
+			}
+			$sth->execute($name);
+			return getIdAndTotal($sth);
+		}
+	}
+}
+
+{
+	my $sth;
 	sub getAssociation_byNbr {
 		my ($association_nbr) = @_;
 		
@@ -984,6 +1093,26 @@ sub addressAbbrs_Street { # ??
 				$sth = prepare($sql_stmt);
 			}
 			$sth->execute($association_name, $association_name);
+			return getIdAndTotal($sth);
+		}
+	}
+}
+
+{
+	my $sth;
+	sub getAssociationTerminations_byNbrTerm {
+		my ($association_nbr, $termination_date) = @_;
+		# print ("association_name: $association_name \n");
+		
+		if ($association_nbr) {
+			if (!$sth) {
+				$sql_stmt = "SELECT id, count(*)
+					from mn_campaign_finance.association_terminations
+					where association_number = ?
+					and termination_date = ?;";
+				$sth = prepare($sql_stmt);
+			}
+			$sth->execute($association_nbr, $termination_date);
 			return getIdAndTotal($sth);
 		}
 	}
@@ -1072,7 +1201,7 @@ sub addressAbbrs_Street { # ??
 		if ($type) {
 			if (!$sth) {
 				$sql_stmt = 'SELECT type_id, count(*)
-									from mn_campaign_finance.associations$addresses
+									from mn_campaign_finance.organizations$addresses
 									where type = ? and type_id = ? and address_id = ?;';
 				$sth = prepare($sql_stmt);
 			}
@@ -1188,17 +1317,19 @@ sub addressAbbrs_Street { # ??
 {
 	my $sth;
 	sub updateLobbyist_Dates_byPk {
-		my ($lobbyist_hash, $pid) = @_;
+		my ($lobbyist_hash, $processed_at, $pid) = @_;
 
 		if (!$sth) {
 			$sql_stmt = 'UPDATE mn_campaign_finance.lobbyists 
 									SET `registration_date` = ?
 									, `termination_date` = ?
+									, `processed_at` = ?
 			WHERE registration_number = ?;';
 			$sth = prepare($sql_stmt);
 		}
 		$sth->execute($lobbyist_hash->{'from_date'}
 								, $lobbyist_hash->{'termination_date'}
+								, $processed_at
 								, $pid);
 	}
 }
@@ -1247,6 +1378,57 @@ sub addressAbbrs_Street { # ??
 
 {
 	my $sth;
+	sub updatePeople_email_byPk {
+		my ($lobbyist_hash, $pid) = @_;
+
+		if (!$sth) {
+			$sql_stmt = 'UPDATE mn_campaign_finance.people 
+									SET email = ?
+									, `email_lookup` = ?
+									WHERE id = ?;';
+			$sth = prepare($sql_stmt);
+		}
+		# print ("$lobbyist_hash->{'reg_nbr'}: $name_hash->{'first_name'} \n");
+		$sth->execute($lobbyist_hash->{'email'}
+								, $lobbyist_hash->{'email_lookup'}
+								, $pid);
+	}
+}
+
+
+{
+	my $sth;
+	sub updateOrgAdd_isActive_all {
+		if (!$sth) {
+			$sql_stmt = 'UPDATE mn_campaign_finance.organizations$addresses
+									SET is_active = ?
+									WHERE type = ?;';
+			$sth = prepare($sql_stmt);
+		}
+		$sth->execute(0, 'l');
+	}
+}
+
+{
+	my $sth;
+	sub updateOrgAdd_isActive_id {
+		my ($is_active, $type, $type_id, $add_id) = @_;
+
+		if (!$sth) {
+			$sql_stmt = 'UPDATE mn_campaign_finance.organizations$addresses
+									SET is_active = ?
+									WHERE type = ?
+									and type_id = ?
+									and address_id = ?;';
+			$sth = prepare($sql_stmt);
+		}
+		$sth->execute($is_active, $type, $type_id, $add_id);
+	}
+}
+
+
+{
+	my $sth;
 	sub updateAddress_zip_byPk {
 		my ($address_hash, $aid) = @_;
 
@@ -1262,16 +1444,18 @@ sub addressAbbrs_Street { # ??
 
 {
 	my $sth;
-	sub updateAssociation_name_byPK {
-		my ($association_hash) = @_;
+	sub updateAssociation_nameProcessed_byPK {
+		my ($association_hash, $processed_at) = @_;
 
 		if (!$sth) {
 			$sql_stmt = 'UPDATE mn_campaign_finance.associations 
 									SET `name` = ?
+									, processed_at = ?
 			WHERE association_number = ?;';
 			$sth = prepare($sql_stmt);
 		}
 		$sth->execute($association_hash->{'name'}
+								, $processed_at
 								, $association_hash->{'association_nbr'});
 	}
 }
@@ -1284,12 +1468,10 @@ sub addressAbbrs_Street { # ??
 		if (!$sth) {
 			$sql_stmt = 'UPDATE mn_campaign_finance.associations 
 									SET `name` = ?
-									, termination_date = ?
 			WHERE association_number = ?;';
 			$sth = prepare($sql_stmt);
 		}
 		$sth->execute($association_hash->{'name'}
-								, $association_hash->{'term_date'}
 								, $association_hash->{'association_nbr'});
 	}
 }

@@ -1,0 +1,20 @@
+http://www.cfbreport.state.mn.us/rptViewer/viewRptsLob.php#searchType=Lobbyist&year=13&regnum=1733
+
+
+
+http://www.cfbreport.state.mn.us/rptViewer/viewRptsLob.php#searchType=Association&year=13&regnum=&letter=A&name=&alpha=1
+
+
+// works
+http://www.cfbreport.state.mn.us/rptViewer/Main.php?do=viewPDF&file=pdfStorage/2010/CampFin/A/41035
+
+// old
+http://www.cfbreport.state.mn.us/rptViewer/viewPDF.php?file=pdfStorage/2010/CampFin/A/41035
+
+
+
+http://www.cfbreport.state.mn.us/rptViewer/Main.php?do=viewPDF
+
+
+// ok...
+http://www.cfbreport.state.mn.us/rptViewer/Main.php?do=viewPDF&year=13&type=lobbyist&period=2&assoc=6801&lob=1733&amend=0

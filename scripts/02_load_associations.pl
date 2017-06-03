@@ -29,7 +29,6 @@ mainProgram();
 
 sub mainProgram {
 	processAssociations()
-	
 }
 
 sub processAssociations {
@@ -155,7 +154,7 @@ sub getAssociationDetails {
 	
 
 	my %return_address = touchAddress(\%address); # l -> lobbist, not a -> association
-	touchAssociationsAddresses('a', $return_assoc{'id'}, $return_address{'id'});
+	touchOrganizationsAddresses('a', $return_assoc{'id'}, $return_address{'id'});
 
 	getLobbyists($stream2, \%association);
 }

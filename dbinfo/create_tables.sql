@@ -29,7 +29,6 @@ CREATE TABLE mn_campaign_finance.people (
 	, phone VARCHAR(32) NULL
 	, email VARCHAR(128) NULL
 	, email_lookup VARCHAR(128) NULL -- email reversed
-	, processed_at DATETIME NULL
 	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 	-- Required Keys
@@ -54,6 +53,7 @@ CREATE TABLE mn_campaign_finance.lobbyists (
 	, people_id INT UNSIGNED NULL
 	, registration_date DATETIME NULL
 	, termination_date DATETIME NULL
+	, processed_at DATETIME NULL
 	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 	-- Required Keys
@@ -96,16 +96,30 @@ CREATE TABLE mn_campaign_finance.associations$contacts (
 
 DROP TABLE IF EXISTS mn_campaign_finance.associations;
 CREATE TABLE mn_campaign_finance.associations (
-	association_number MEDIUMINT UNSIGNED NOT NULL
+	id INT UNSIGNED NOT NULL AUTO_INCREMENT
+	, association_number MEDIUMINT UNSIGNED NOT NULL
 	, name VARCHAR(255) NULL
 	, alternate_name VARCHAR(255) NULL
 	, url VARCHAR(128) NULL
+	, processed_at DATETIME NULL
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
+	, PRIMARY KEY pk_association_number (id)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
+
+DROP TABLE IF EXISTS mn_campaign_finance.association_terminations;
+CREATE TABLE mn_campaign_finance.association_terminations (
+	id INT UNSIGNED NOT NULL AUTO_INCREMENT
+	, association_number MEDIUMINT UNSIGNED NOT NULL
 	, termination_date DATETIME NULL
 	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 	-- Required Keys
-	, PRIMARY KEY pk_association_number (association_number)
+	, PRIMARY KEY pk_association_number (id)
 ) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
 
 
 
@@ -135,6 +149,7 @@ ALTER TABLE mn_campaign_finance.associations$lobbyists ADD COLUMN `id` INT UNSIG
 DROP TABLE IF EXISTS mn_campaign_finance.addresses;
 CREATE TABLE mn_campaign_finance.addresses (
 	id INT UNSIGNED NOT NULL AUTO_INCREMENT
+	, organization VARCHAR(128) NULL
 	, street1 VARCHAR(128) NULL
 	, street2 VARCHAR(128) NULL
 	, city VARCHAR(128) NULL
@@ -151,12 +166,24 @@ CREATE TABLE mn_campaign_finance.addresses (
 CREATE INDEX idx_Address ON addresses(full_address(20));
 
 
-DROP TABLE IF EXISTS mn_campaign_finance.associations$addresses;
-CREATE TABLE mn_campaign_finance.associations$addresses (
+DROP TABLE IF EXISTS mn_campaign_finance.lobbyist$addresses;
+CREATE TABLE mn_campaign_finance.lobbyist$addresses (
+	registration_number MEDIUMINT UNSIGNED NOT NULL
+	, address_id INT UNSIGNED NOT NULL
+	-- , year SMALLINT UNSIGNED NULL
+	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+	-- Required Keys
+	, PRIMARY KEY  pk_id (registration_number, address_id)
+) ENGINE = InnoDB DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS mn_campaign_finance.organizations$addresses;
+CREATE TABLE mn_campaign_finance.organizations$addresses (
 	type ENUM('l', 'a') NOT NULL
 	, type_id MEDIUMINT UNSIGNED NOT NULL
 	, address_id INT UNSIGNED NOT NULL
 	-- , year SMALLINT UNSIGNED NULL
+	, is_active bool NOT NULL
 	, created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 	, updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 	-- Required Keys

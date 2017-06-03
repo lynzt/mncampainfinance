@@ -37,23 +37,28 @@ sub processLobbyists {
 	my $association_url;
 
 	# $processed_at = '2014-03-13 00:00:00';
-	my $sql_stmt = "select registration_number, long_name
-		from mn_campaign_finance.people
-		where created_at >= '$processed_at'
-		and registration_number is not null
-		-- where association_number in (6146, 5783)
-		-- limit 10
-		;";
+	# my $sql_stmt = "select registration_number, long_name
+	# 	from mn_campaign_finance.people
+	# 	where created_at >= '$processed_at'
+	# 	and registration_number is not null
+	# 	-- where association_number in (6146, 5783)
+	# 	-- limit 10
+	# 	;";
+
+	my $sql = "select l.registration_number, p.long_name as name, p.id
+							from people p
+							inner join lobbyists l on l.people_id = p.id
+							where p.email is null;";
 
 	# print ("sql_stmt: $sql_stmt \n");
 	# exit;
 	
 	my $query_handle = prepareAndExecute($sql_stmt);
 
-	$query_handle->bind_columns(\my ($registration_number, $name));
+	$query_handle->bind_columns(\my ($registration_number, $name, $pid));
 	while($query_handle->fetch()) {
 
-		getLobbyistDetails($registration_number, $name);
+		getLobbyistDetails($registration_number, $name, $pid);
 		# exit;
 		# getLobbyistPage('518', $name);
 		# exit;
@@ -126,6 +131,54 @@ sub processLobbyists {
 # }
 
 sub getLobbyistDetails {
+	my ($lobbyist_id, $people_id,) = @_;
+
+	my $url = "http://www.cfboard.state.mn.us/lobby/lbdetail/lb$lobbyist_id.html";
+	
+	print ("\t$url \n");
+	my $stream2 = HTML::TokeParser::Simple->new(url => $url);
+	my $temp;
+	my (%lobbyist, %name, %address);
+
+	$lobbyist{'name'} = getLobbyistName($stream2);
+	$lobbyist{'processed_at'} = $processed_at;
+
+ 	%name = splitName_FirstMiddleLast($lobbyist{'name'}, 'ln_fn');
+
+ 	# printHash(%name);
+ 	# exit;
+ 	$lobbyist{'reg_nbr'} = $lobbyist_id;
+
+ 	my $line_count = 0;
+ 	for (1..5) {
+ 		$temp = getLobbyistData($stream2);
+
+	 	if ($temp =~ m/^Email:\s/i) {
+	 		$lobbyist{'email'} = $temp;
+	 	} else {
+	 		next;
+	 	}
+ 	}
+
+	if ($lobbyist{'email'} eq 'No Email') {
+		$lobbyist{'email'} = undef;
+	} else {
+		$lobbyist{'email_lookup'} = scalar reverse($lobbyist{'email'});
+	}
+
+	updatePeople_email_byPk(\%lobbyist, $pid);
+	# my %return_lobbyist = touchPeople(\%lobbyist, \%name);
+
+	# updatePeople_hash_byPk(\%lobbyist, $return_lobbyist{'id'});
+	# updatePeople_name_byPk(\%name,$return_lobbyist{'id'});
+	# my %return_address = touchAddress(\%address); 
+	# touchOrganizationsAddresses('l', $return_lobbyist{'id'}, $return_address{'id'}); # l -> lobbist, not a -> association
+
+	getAssociations($stream2, \%lobbyist);
+}
+
+
+sub getLobbyistDetails1 {
 	my ($lobbyist_id) = @_;
 
 	my $url = "http://www.cfboard.state.mn.us/lobby/lbdetail/lb$lobbyist_id.html";
@@ -145,6 +198,7 @@ sub getLobbyistDetails {
  	my $line_count = 0;
  	for (1..5) {
  		$temp = getLobbyistData($stream2);
+
 	 	if ($temp eq '') {
 	 		next;
 	 	} else {
@@ -227,7 +281,7 @@ sub getLobbyistDetails {
 	updatePeople_hash_byPk(\%lobbyist, $return_lobbyist{'id'});
 	updatePeople_name_byPk(\%name,$return_lobbyist{'id'});
 	my %return_address = touchAddress(\%address); 
-	touchAssociationsAddresses('l', $return_lobbyist{'id'}, $return_address{'id'}); # l -> lobbist, not a -> association
+	touchOrganizationsAddresses('l', $return_lobbyist{'id'}, $return_address{'id'}); # l -> lobbist, not a -> association
 
 	getAssociations($stream2, \%lobbyist);
 }
@@ -308,6 +362,9 @@ sub getLobbyistName {
 	return $text;
 }
 
+sub getEmail {
+	
+}
 sub getLobbyistData {
 	my ($stream) = @_;
 
